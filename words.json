@@ -19,6 +19,7 @@
   "words": [
     {
       "word": "Scrupulosity OCD",
+      "definition": "obsessive moral/religious anxiety",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -27,6 +28,7 @@
     },
     {
       "word": "Superstition",
+      "definition": "irrational belief about luck/causation",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -35,6 +37,7 @@
     },
     {
       "word": "Paranormal beliefs",
+      "definition": "beliefs in unexplained forces",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -43,6 +46,7 @@
     },
     {
       "word": "Mysticism",
+      "definition": "belief in direct contact with the divine",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -51,6 +55,7 @@
     },
     {
       "word": "Extraordinary beliefs",
+      "definition": "claims beyond ordinary experience",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -59,6 +64,7 @@
     },
     {
       "word": "Supernatural beliefs",
+      "definition": "beliefs about forces beyond nature",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -67,6 +73,7 @@
     },
     {
       "word": "Bad magic",
+      "definition": "harmful or cursed magic",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -75,6 +82,7 @@
     },
     {
       "word": "Good magic",
+      "definition": "benevolent or healing magic",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -83,6 +91,7 @@
     },
     {
       "word": "Sympathetic magic",
+      "definition": "magic by resemblance ('like affects like')",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -91,6 +100,7 @@
     },
     {
       "word": "Contagious magic",
+      "definition": "magic by past contact ('once together, always together')",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -99,6 +109,7 @@
     },
     {
       "word": "Paranormal phenomena",
+      "definition": "events seemingly outside natural law",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -107,6 +118,7 @@
     },
     {
       "word": "Contiguity",
+      "definition": "closeness or adjacency",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -115,6 +127,7 @@
     },
     {
       "word": "Temporal contiguity",
+      "definition": "closeness in time",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -123,6 +136,7 @@
     },
     {
       "word": "Conditioning by coincidence",
+      "definition": "learning a link from chance pairing",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -131,6 +145,7 @@
     },
     {
       "word": "Magical ideation",
+      "definition": "tendency toward magical thinking",
       "source": "Believing in Magic",
       "tags": [
         "psychology",
@@ -139,6 +154,7 @@
     },
     {
       "word": "Teetering",
+      "definition": "wobbling unsteadily",
       "source": "GEB",
       "tags": [
         "literature",
@@ -147,6 +163,7 @@
     },
     {
       "word": "Stilts",
+      "definition": "tall poles for walking",
       "source": "GEB",
       "tags": [
         "literature",
@@ -155,6 +172,7 @@
     },
     {
       "word": "Motley",
+      "definition": "varied mixture",
       "source": "GEB",
       "tags": [
         "literature",
@@ -163,6 +181,7 @@
     },
     {
       "word": "Hogwash",
+      "definition": "nonsense",
       "source": "GEB",
       "tags": [
         "literature",
@@ -171,6 +190,7 @@
     },
     {
       "word": "Coy",
+      "definition": "shyly flirtatious",
       "source": "GEB",
       "tags": [
         "literature",
@@ -179,6 +199,7 @@
     },
     {
       "word": "Swirly",
+      "definition": "spiral-shaped",
       "source": "GEB",
       "tags": [
         "literature",
@@ -187,6 +208,7 @@
     },
     {
       "word": "Denizen",
+      "definition": "inhabitant",
       "source": "GEB",
       "tags": [
         "literature",
@@ -195,6 +217,7 @@
     },
     {
       "word": "Gobble",
+      "definition": "eat greedily",
       "source": "GEB",
       "tags": [
         "literature",
@@ -203,6 +226,7 @@
     },
     {
       "word": "Gusto",
+      "definition": "hearty enjoyment",
       "source": "GEB",
       "tags": [
         "literature",
@@ -211,6 +235,7 @@
     },
     {
       "word": "Paragon",
+      "definition": "model of excellence",
       "source": "GEB",
       "tags": [
         "literature",
@@ -219,6 +244,7 @@
     },
     {
       "word": "Off-the-wall",
+      "definition": "unconventional",
       "source": "GEB",
       "tags": [
         "literature",
@@ -227,6 +253,7 @@
     },
     {
       "word": "Eerie",
+      "definition": "strange and frightening",
       "source": "GEB",
       "tags": [
         "literature",
@@ -235,6 +262,7 @@
     },
     {
       "word": "Insidious",
+      "definition": "subtly harmful",
       "source": "GEB",
       "tags": [
         "literature",
@@ -243,6 +271,7 @@
     },
     {
       "word": "Pervade",
+      "definition": "spread throughout",
       "source": "GEB",
       "tags": [
         "literature",
@@ -251,6 +280,7 @@
     },
     {
       "word": "Envisage",
+      "definition": "imagine, picture",
       "source": "GEB",
       "tags": [
         "literature",
@@ -259,6 +289,7 @@
     },
     {
       "word": "Raison d’etre",
+      "definition": "reason for being",
       "source": "GEB",
       "tags": [
         "literature",
@@ -267,6 +298,7 @@
     },
     {
       "word": "Sacrosanct",
+      "definition": "too sacred to question",
       "source": "GEB",
       "tags": [
         "literature",
@@ -275,6 +307,7 @@
     },
     {
       "word": "Extemporize",
+      "definition": "improvise",
       "source": "GEB",
       "tags": [
         "literature",
@@ -283,6 +316,7 @@
     },
     {
       "word": "Bolt from the blue",
+      "definition": "sudden surprise",
       "source": "GEB",
       "tags": [
         "literature",
@@ -291,6 +325,7 @@
     },
     {
       "word": "Frivolous",
+      "definition": "trivial, silly",
       "source": "GEB",
       "tags": [
         "literature",
@@ -299,6 +334,7 @@
     },
     {
       "word": "Austerity",
+      "definition": "severe simplicity",
       "source": "GEB",
       "tags": [
         "literature",
@@ -334,6 +370,7 @@
     },
     {
       "word": "Stupefying",
+      "definition": "amazing, astonishing",
       "source": "GEB",
       "tags": [
         "literature",
@@ -342,6 +379,7 @@
     },
     {
       "word": "Wispy",
+      "definition": "thin and faint",
       "source": "GEB",
       "tags": [
         "literature",
@@ -350,6 +388,7 @@
     },
     {
       "word": "Billows",
+      "definition": "rolling clouds/waves",
       "source": "GEB",
       "tags": [
         "literature",
@@ -358,6 +397,7 @@
     },
     {
       "word": "Gauntlet",
+      "definition": "ordeal, challenge",
       "source": "GEB",
       "tags": [
         "literature",
@@ -366,6 +406,7 @@
     },
     {
       "word": "Rump",
+      "definition": "remnant, hindquarters",
       "source": "GEB",
       "tags": [
         "literature",
@@ -383,6 +424,7 @@
     },
     {
       "word": "Droll tales",
+      "definition": "amusing, witty stories",
       "source": "GEB",
       "tags": [
         "literature",
@@ -391,6 +433,7 @@
     },
     {
       "word": "Ramble on, rattle off",
+      "definition": "talk on at length",
       "source": "GEB",
       "tags": [
         "literature",
@@ -399,6 +442,7 @@
     },
     {
       "word": "Evocative",
+      "definition": "vividly suggestive",
       "source": "GEB",
       "tags": [
         "literature",
@@ -407,6 +451,7 @@
     },
     {
       "word": "Swivel",
+      "definition": "rotate on a pivot",
       "source": "GEB",
       "tags": [
         "literature",
@@ -415,6 +460,7 @@
     },
     {
       "word": "Recondite",
+      "definition": "obscure, abstruse",
       "source": "GEB",
       "tags": [
         "literature",
@@ -423,6 +469,7 @@
     },
     {
       "word": "Edifice",
+      "definition": "imposing structure",
       "source": "GEB",
       "tags": [
         "literature",
@@ -431,6 +478,7 @@
     },
     {
       "word": "Unwieldy",
+      "definition": "awkward to handle",
       "source": "GEB",
       "tags": [
         "literature",
@@ -439,6 +487,7 @@
     },
     {
       "word": "To have a yen for",
+      "definition": "have a strong desire for",
       "source": "GEB",
       "tags": [
         "literature",
@@ -447,6 +496,7 @@
     },
     {
       "word": "Merriment",
+      "definition": "cheerfulness, fun",
       "source": "GEB",
       "tags": [
         "literature",
@@ -455,6 +505,7 @@
     },
     {
       "word": "Hankering",
+      "definition": "strong longing",
       "source": "GEB",
       "tags": [
         "literature",
@@ -463,6 +514,7 @@
     },
     {
       "word": "Proffer",
+      "definition": "offer, present",
       "source": "GEB",
       "tags": [
         "literature",
@@ -471,6 +523,7 @@
     },
     {
       "word": "Impetus",
+      "definition": "driving force",
       "source": "GEB",
       "tags": [
         "literature",
@@ -479,6 +532,7 @@
     },
     {
       "word": "Infatuation",
+      "definition": "intense short-lived passion",
       "source": "GEB",
       "tags": [
         "literature",
@@ -487,6 +541,7 @@
     },
     {
       "word": "Resuscitate",
+      "definition": "revive",
       "source": "GEB",
       "tags": [
         "literature",
@@ -495,6 +550,7 @@
     },
     {
       "word": "Meager",
+      "definition": "scant, insufficient",
       "source": "GEB",
       "tags": [
         "literature",
@@ -503,6 +559,7 @@
     },
     {
       "word": "Belaboring",
+      "definition": "dwelling on tediously",
       "source": "GEB",
       "tags": [
         "literature",
@@ -511,6 +568,7 @@
     },
     {
       "word": "Cumulonimbus",
+      "definition": "tall thunderstorm cloud",
       "source": "GEB",
       "tags": [
         "literature",
@@ -519,6 +577,7 @@
     },
     {
       "word": "Epiphenomena",
+      "definition": "secondary phenomena",
       "source": "GEB",
       "tags": [
         "literature",
@@ -527,6 +586,7 @@
     },
     {
       "word": "Hither and thither",
+      "definition": "here and there",
       "source": "GEB",
       "tags": [
         "literature",
@@ -535,6 +595,7 @@
     },
     {
       "word": "Vernacular English",
+      "definition": "everyday spoken English",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -543,6 +604,7 @@
     },
     {
       "word": "Phrasal verb",
+      "definition": "verb + particle (e.g. give up)",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -551,6 +613,7 @@
     },
     {
       "word": "Phrasal",
+      "definition": "of a phrase",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -559,6 +622,7 @@
     },
     {
       "word": "Idiom",
+      "definition": "fixed expression with non-literal meaning",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -567,6 +631,7 @@
     },
     {
       "word": "Euphemism",
+      "definition": "mild substitute for blunt term",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -575,6 +640,7 @@
     },
     {
       "word": "Colloquial",
+      "definition": "informal speech",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -583,6 +649,7 @@
     },
     {
       "word": "Proverb",
+      "definition": "traditional saying",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -591,6 +658,7 @@
     },
     {
       "word": "Jargon",
+      "definition": "specialized vocabulary",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -599,6 +667,7 @@
     },
     {
       "word": "Slang",
+      "definition": "informal/street vocabulary",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -607,6 +676,7 @@
     },
     {
       "word": "Lexicon",
+      "definition": "vocabulary of a language/field",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -615,6 +685,7 @@
     },
     {
       "word": "Lingo",
+      "definition": "language or jargon (informal)",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -623,6 +694,7 @@
     },
     {
       "word": "Glossary",
+      "definition": "term list with explanations",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -631,6 +703,7 @@
     },
     {
       "word": "Vocabulary",
+      "definition": "set of words known",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -639,6 +712,7 @@
     },
     {
       "word": "Formulaic",
+      "definition": "following a fixed pattern",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -647,6 +721,7 @@
     },
     {
       "word": "Collocations",
+      "definition": "habitual word combinations",
       "source": "Phraseology",
       "tags": [
         "language",
@@ -654,7 +729,8 @@
       ]
     },
     {
-      "word": "Gestaly",
+      "word": "Gestalt",
+      "definition": "unified whole (Gestalt)",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -664,6 +740,7 @@
     },
     {
       "word": "Inexorable",
+      "definition": "unstoppable",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -673,6 +750,7 @@
     },
     {
       "word": "Egregious",
+      "definition": "outrageously bad",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -682,6 +760,7 @@
     },
     {
       "word": "Dexterity",
+      "definition": "skill, nimbleness",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -691,6 +770,7 @@
     },
     {
       "word": "Demise",
+      "definition": "downfall, end",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -700,6 +780,7 @@
     },
     {
       "word": "Zeitgeist",
+      "definition": "spirit of the times",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -709,6 +790,7 @@
     },
     {
       "word": "Incumbent",
+      "definition": "currently holding office",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -718,6 +800,7 @@
     },
     {
       "word": "Rectify",
+      "definition": "put right, correct",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -727,6 +810,7 @@
     },
     {
       "word": "Coercion",
+      "definition": "force, compulsion",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -736,6 +820,7 @@
     },
     {
       "word": "Brunt",
+      "definition": "main impact",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -745,6 +830,7 @@
     },
     {
       "word": "Stifle",
+      "definition": "suppress",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -754,6 +840,7 @@
     },
     {
       "word": "Sanguine",
+      "definition": "optimistic",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -763,6 +850,7 @@
     },
     {
       "word": "Precipice",
+      "definition": "edge of disaster",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -782,6 +870,7 @@
     },
     {
       "word": "Plight",
+      "definition": "difficult situation",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -791,6 +880,7 @@
     },
     {
       "word": "Matrimony",
+      "definition": "marriage",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -800,6 +890,7 @@
     },
     {
       "word": "Flounder",
+      "definition": "struggle clumsily",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -809,6 +900,7 @@
     },
     {
       "word": "Viceroy",
+      "definition": "governor ruling for a monarch",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -818,6 +910,7 @@
     },
     {
       "word": "Augur",
+      "definition": "predict, foretell",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -827,6 +920,7 @@
     },
     {
       "word": "Portend",
+      "definition": "foreshadow",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -836,6 +930,7 @@
     },
     {
       "word": "Bevy",
+      "definition": "large group",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -845,6 +940,7 @@
     },
     {
       "word": "Undeterred",
+      "definition": "not discouraged",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -854,6 +950,7 @@
     },
     {
       "word": "Tepid",
+      "definition": "lukewarm",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -863,6 +960,7 @@
     },
     {
       "word": "Isthmus",
+      "definition": "narrow strip of land",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -872,6 +970,7 @@
     },
     {
       "word": "Corvee",
+      "definition": "forced unpaid labor",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -881,6 +980,7 @@
     },
     {
       "word": "Pageantry",
+      "definition": "elaborate display",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -890,6 +990,7 @@
     },
     {
       "word": "Homage",
+      "definition": "respect, tribute",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -899,6 +1000,7 @@
     },
     {
       "word": "Folly",
+      "definition": "foolishness",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -908,6 +1010,7 @@
     },
     {
       "word": "Throes",
+      "definition": "violent struggle",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -917,6 +1020,7 @@
     },
     {
       "word": "Unencumbered",
+      "definition": "unburdened",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -926,6 +1030,7 @@
     },
     {
       "word": "Decree",
+      "definition": "official order",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -935,6 +1040,7 @@
     },
     {
       "word": "Subjugation",
+      "definition": "bringing under control",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -943,7 +1049,8 @@
       ]
     },
     {
-      "word": "Horder",
+      "word": "Hoarder",
+      "definition": "hoarder",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -953,6 +1060,7 @@
     },
     {
       "word": "Confer",
+      "definition": "grant, bestow",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -962,6 +1070,7 @@
     },
     {
       "word": "Nexus",
+      "definition": "central connection",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -971,6 +1080,7 @@
     },
     {
       "word": "Repute",
+      "definition": "reputation",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -980,6 +1090,7 @@
     },
     {
       "word": "Preclude",
+      "definition": "prevent",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -989,6 +1100,7 @@
     },
     {
       "word": "Riddance",
+      "definition": "relief from something unwanted",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -998,6 +1110,7 @@
     },
     {
       "word": "Interloper",
+      "definition": "intruder",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1007,6 +1120,7 @@
     },
     {
       "word": "Preordain",
+      "definition": "decide in advance",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1016,6 +1130,7 @@
     },
     {
       "word": "lip service",
+      "definition": "insincere agreement in words only",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1025,6 +1140,7 @@
     },
     {
       "word": "Hubris",
+      "definition": "excessive pride",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1034,6 +1150,7 @@
     },
     {
       "word": "Enfeeble",
+      "definition": "weaken",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1043,6 +1160,7 @@
     },
     {
       "word": "Cacophony",
+      "definition": "harsh discordant noise",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1052,6 +1170,7 @@
     },
     {
       "word": "Engender",
+      "definition": "give rise to",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1061,6 +1180,7 @@
     },
     {
       "word": "Technocracy",
+      "definition": "rule by technical experts",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1070,6 +1190,7 @@
     },
     {
       "word": "Disdain",
+      "definition": "scorn, contempt",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1079,6 +1200,7 @@
     },
     {
       "word": "Cede",
+      "definition": "yield, give up",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1088,6 +1210,7 @@
     },
     {
       "word": "Overbearing",
+      "definition": "domineering",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1117,6 +1240,7 @@
     },
     {
       "word": "Emissary",
+      "definition": "envoy, messenger",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1126,6 +1250,7 @@
     },
     {
       "word": "Excommunication",
+      "definition": "expulsion from church",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1135,6 +1260,7 @@
     },
     {
       "word": "Ecclesiastic",
+      "definition": "of the church/clergy",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1144,6 +1270,7 @@
     },
     {
       "word": "Besieged",
+      "definition": "surrounded, beset",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1153,6 +1280,7 @@
     },
     {
       "word": "Feckless",
+      "definition": "weak, ineffective",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1172,6 +1300,7 @@
     },
     {
       "word": "Contingent",
+      "definition": "dependent on conditions",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1181,6 +1310,7 @@
     },
     {
       "word": "Expropriation",
+      "definition": "seizing private property",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1190,6 +1320,7 @@
     },
     {
       "word": "Disconcerting",
+      "definition": "unsettling",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1199,6 +1330,7 @@
     },
     {
       "word": "Middling",
+      "definition": "average, mediocre",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1208,6 +1340,7 @@
     },
     {
       "word": "Square with",
+      "definition": "be consistent with",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1217,6 +1350,7 @@
     },
     {
       "word": "Laggard",
+      "definition": "straggler, slow one",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1226,6 +1360,7 @@
     },
     {
       "word": "Artificer",
+      "definition": "skilled craftsman",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1235,6 +1370,7 @@
     },
     {
       "word": "Stratified",
+      "definition": "arranged in layers",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1244,6 +1380,7 @@
     },
     {
       "word": "Yeoman",
+      "definition": "small free farmer; loyal worker",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1253,6 +1390,7 @@
     },
     {
       "word": "Marque",
+      "definition": "brand of vehicle/product",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1262,6 +1400,7 @@
     },
     {
       "word": "Rogue",
+      "definition": "dishonest scoundrel; off-pattern",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1271,6 +1410,7 @@
     },
     {
       "word": "Precarious",
+      "definition": "unstable, risky",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1280,6 +1420,7 @@
     },
     {
       "word": "Fleeting",
+      "definition": "short-lived",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1289,6 +1430,7 @@
     },
     {
       "word": "Arduous",
+      "definition": "very difficult",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1298,6 +1440,7 @@
     },
     {
       "word": "Apocryphal",
+      "definition": "of doubtful authenticity",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1307,6 +1450,7 @@
     },
     {
       "word": "Suffrage",
+      "definition": "right to vote",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1316,6 +1460,7 @@
     },
     {
       "word": "Promulgate",
+      "definition": "make widely known; enact",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1325,6 +1470,7 @@
     },
     {
       "word": "Sinecure",
+      "definition": "well-paid job with little work",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1334,6 +1480,7 @@
     },
     {
       "word": "Cesspool",
+      "definition": "filthy place",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1343,6 +1490,7 @@
     },
     {
       "word": "Burgeoning",
+      "definition": "rapidly growing",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1352,6 +1500,7 @@
     },
     {
       "word": "Sediment",
+      "definition": "settled matter at bottom",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1361,6 +1510,7 @@
     },
     {
       "word": "Fatuous",
+      "definition": "silly, smugly stupid",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1370,6 +1520,7 @@
     },
     {
       "word": "Prescient",
+      "definition": "having foresight",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1379,6 +1530,7 @@
     },
     {
       "word": "Fringe",
+      "definition": "outer edge",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1388,6 +1540,7 @@
     },
     {
       "word": "Enfranchising",
+      "definition": "granting rights/vote to",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1397,6 +1550,7 @@
     },
     {
       "word": "Unravel",
+      "definition": "come undone",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1406,6 +1560,7 @@
     },
     {
       "word": "Whammy",
+      "definition": "double misfortune",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1415,6 +1570,7 @@
     },
     {
       "word": "About-face",
+      "definition": "complete reversal",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1424,6 +1580,7 @@
     },
     {
       "word": "Squander",
+      "definition": "waste",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1433,6 +1590,7 @@
     },
     {
       "word": "Brownfields",
+      "definition": "abandoned polluted land",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1442,6 +1600,7 @@
     },
     {
       "word": "Greenfield",
+      "definition": "undeveloped land",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1451,6 +1610,7 @@
     },
     {
       "word": "Lathe",
+      "definition": "machine for shaping wood/metal",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1460,6 +1620,7 @@
     },
     {
       "word": "Ominously",
+      "definition": "in a threatening way",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1469,6 +1630,7 @@
     },
     {
       "word": "Plutocracy",
+      "definition": "rule by the wealthy",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1478,6 +1640,7 @@
     },
     {
       "word": "Incitement",
+      "definition": "act of provoking",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1487,6 +1650,7 @@
     },
     {
       "word": "Pitchfork",
+      "definition": "pronged farm tool; symbol of mob",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1496,6 +1660,7 @@
     },
     {
       "word": "Inculcate",
+      "definition": "instill by repetition",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1505,6 +1670,7 @@
     },
     {
       "word": "Overhaul",
+      "definition": "thorough revision",
       "source": "Power and Progress",
       "tags": [
         "history",
@@ -1514,6 +1680,7 @@
     },
     {
       "word": "Control",
+      "definition": "authority over execution flow",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1522,6 +1689,7 @@
     },
     {
       "word": "Dialog",
+      "definition": "two-way exchange/window",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1530,6 +1698,7 @@
     },
     {
       "word": "Contract",
+      "definition": "binding agreement on behavior",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1538,6 +1707,7 @@
     },
     {
       "word": "Policy",
+      "definition": "rule governing decisions",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1546,6 +1716,7 @@
     },
     {
       "word": "Protocol",
+      "definition": "rules for communication",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1553,7 +1724,8 @@
       ]
     },
     {
-      "word": "Construct (entity)",
+      "word": "Construct",
+      "definition": "an entity assembled from parts",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1562,6 +1734,7 @@
     },
     {
       "word": "Context",
+      "definition": "surrounding state for execution",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1570,6 +1743,7 @@
     },
     {
       "word": "Environment",
+      "definition": "system in which code runs",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1578,6 +1752,7 @@
     },
     {
       "word": "Runtime",
+      "definition": "execution-time system/library",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1586,6 +1761,7 @@
     },
     {
       "word": "Resource",
+      "definition": "thing held/used (memory, file, etc.)",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1594,6 +1770,7 @@
     },
     {
       "word": "State",
+      "definition": "current condition/data",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1602,6 +1779,7 @@
     },
     {
       "word": "Process",
+      "definition": "running program instance",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1610,6 +1788,7 @@
     },
     {
       "word": "Device",
+      "definition": "hardware unit",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1618,6 +1797,7 @@
     },
     {
       "word": "Driver",
+      "definition": "code that controls a device",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1626,6 +1806,7 @@
     },
     {
       "word": "Vehicle",
+      "definition": "carrier/wrapper",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1634,6 +1815,7 @@
     },
     {
       "word": "Interface",
+      "definition": "boundary for interaction",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1642,6 +1824,7 @@
     },
     {
       "word": "Service",
+      "definition": "long-running provider of capabilities",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1650,6 +1833,7 @@
     },
     {
       "word": "Manager",
+      "definition": "coordinator of resources",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1658,6 +1842,7 @@
     },
     {
       "word": "Pipeline",
+      "definition": "chain of processing stages",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1666,6 +1851,7 @@
     },
     {
       "word": "Stream",
+      "definition": "continuous sequence of data",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1674,6 +1860,7 @@
     },
     {
       "word": "Lifecycle",
+      "definition": "stages from creation to disposal",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1682,6 +1869,7 @@
     },
     {
       "word": "Hooks",
+      "definition": "extension points called by framework",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1690,6 +1878,7 @@
     },
     {
       "word": "Article",
+      "definition": "self-contained piece (e.g. queue article)",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1698,6 +1887,7 @@
     },
     {
       "word": "Awaitable",
+      "definition": "object that can be awaited",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1706,6 +1896,7 @@
     },
     {
       "word": "Callable",
+      "definition": "object that can be invoked like a function",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1714,6 +1905,7 @@
     },
     {
       "word": "Future",
+      "definition": "value not yet computed",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1722,6 +1914,7 @@
     },
     {
       "word": "Promise",
+      "definition": "placeholder for future result",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1729,7 +1922,8 @@
       ]
     },
     {
-      "word": "Async — the broad concept (anything non-blocking, own time)",
+      "word": "Async",
+      "definition": "non-blocking; runs on its own time",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1737,7 +1931,8 @@
       ]
     },
     {
-      "word": "Concurrent — multiple things in progress at once (coroutines, threads)",
+      "word": "Concurrent",
+      "definition": "multiple things in progress at once (coroutines, threads)",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1745,7 +1940,8 @@
       ]
     },
     {
-      "word": "Parallel — multiple things literally running simultaneously (processes, multi-core)",
+      "word": "Parallel",
+      "definition": "multiple things literally running simultaneously (processes, multi-core)",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1781,6 +1977,7 @@
     },
     {
       "word": "Concurrency",
+      "definition": "multiple tasks in progress at once. Concurrency is about dealing with lot of things at once",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1789,6 +1986,7 @@
     },
     {
       "word": "parallelism",
+      "definition": "literal simultaneous execution. Parallelism is about doing a lot of things at once",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1797,6 +1995,7 @@
     },
     {
       "word": "multithreaded",
+      "definition": "using multiple threads",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1805,6 +2004,7 @@
     },
     {
       "word": "multiprocess",
+      "definition": "using multiple processes",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1813,6 +2013,7 @@
     },
     {
       "word": "multiprocessor",
+      "definition": "having multiple processors",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1821,6 +2022,7 @@
     },
     {
       "word": "asynchronous",
+      "definition": "non-blocking; not in lockstep",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1829,6 +2031,7 @@
     },
     {
       "word": "synchronous",
+      "definition": "blocking; in lockstep",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1837,6 +2040,7 @@
     },
     {
       "word": "Logical",
+      "definition": "based on logic/abstract relations",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1845,6 +2049,7 @@
     },
     {
       "word": "Conceptual",
+      "definition": "based on ideas/concepts",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1853,6 +2058,7 @@
     },
     {
       "word": "Abstract",
+      "definition": "removed from concrete details",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1861,6 +2067,7 @@
     },
     {
       "word": "Representational",
+      "definition": "standing for something else",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1869,6 +2076,7 @@
     },
     {
       "word": "Primitive, construct, mechanism, concept",
+      "definition": "basic building blocks",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1877,6 +2085,7 @@
     },
     {
       "word": "Primitive, scalar, value type, base, built-in type, immutable, atomic",
+      "definition": "single indivisible value type",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1885,6 +2094,7 @@
     },
     {
       "word": "Aggregate type, composite type, derived type, reference type(object type), structured type, user-defined, mutable",
+      "definition": "value built from other values",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1893,6 +2103,7 @@
     },
     {
       "word": "Firewall",
+      "definition": "network traffic filter",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1901,6 +2112,7 @@
     },
     {
       "word": "Gateway interface",
+      "definition": "spec for app↔server bridge (e.g. CGI/WSGI)",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1909,6 +2121,7 @@
     },
     {
       "word": "Handler",
+      "definition": "function that processes an event",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1917,6 +2130,7 @@
     },
     {
       "word": "Socket",
+      "definition": "endpoint for network communication",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1925,6 +2139,7 @@
     },
     {
       "word": "Pipe",
+      "definition": "one-way data channel between processes",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1933,6 +2148,7 @@
     },
     {
       "word": "Gateway",
+      "definition": "entry/exit point between networks",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1941,6 +2157,7 @@
     },
     {
       "word": "Cursor",
+      "definition": "pointer for traversing a result set",
       "source": "Programming",
       "tags": [
         "technology",
@@ -1949,6 +2166,7 @@
     },
     {
       "word": "A bat out of hell",
+      "definition": "extremely fast",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -1956,6 +2174,7 @@
     },
     {
       "word": "Admixture",
+      "definition": "mixture",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -1963,6 +2182,7 @@
     },
     {
       "word": "Spunky",
+      "definition": "spirited, plucky",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -1970,6 +2190,7 @@
     },
     {
       "word": "Shakedown",
+      "definition": "trial run; extortion",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -1977,6 +2198,7 @@
     },
     {
       "word": "hue",
+      "definition": "shade of color",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -1984,13 +2206,15 @@
     },
     {
       "word": "exhort",
+      "definition": "urge strongly",
       "source": "Steve Jobs",
       "tags": [
         "biography"
       ]
     },
     {
-      "word": "extoall",
+      "word": "Extol",
+      "definition": "praise highly",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -1998,6 +2222,7 @@
     },
     {
       "word": "matriculate",
+      "definition": "enroll in a college",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2005,6 +2230,7 @@
     },
     {
       "word": "Mercurial",
+      "definition": "unpredictable, volatile",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2012,6 +2238,7 @@
     },
     {
       "word": "Self-effacing",
+      "definition": "modest about oneself",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2019,6 +2246,7 @@
     },
     {
       "word": "Prune",
+      "definition": "trim away",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2026,6 +2254,7 @@
     },
     {
       "word": "Whip",
+      "definition": "drive forcefully; lash",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2033,13 +2262,15 @@
     },
     {
       "word": "Redolent",
+      "definition": "strongly reminiscent of",
       "source": "Steve Jobs",
       "tags": [
         "biography"
       ]
     },
     {
-      "word": "Diciple",
+      "word": "Disciple",
+      "definition": "follower",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2047,6 +2278,7 @@
     },
     {
       "word": "Bulimic",
+      "definition": "having binge-purge eating disorder",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2054,6 +2286,7 @@
     },
     {
       "word": "Burly",
+      "definition": "large and strongly built",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2061,6 +2294,7 @@
     },
     {
       "word": "Straightlaced",
+      "definition": "prudish, strict",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2068,6 +2302,7 @@
     },
     {
       "word": "Brashness",
+      "definition": "boldness, cockiness",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2075,6 +2310,7 @@
     },
     {
       "word": "Tooting",
+      "definition": "boasting",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2082,6 +2318,7 @@
     },
     {
       "word": "Relish",
+      "definition": "great enjoyment",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2089,13 +2326,15 @@
     },
     {
       "word": "Lathered",
+      "definition": "worked into a frenzy",
       "source": "Steve Jobs",
       "tags": [
         "biography"
       ]
     },
     {
-      "word": "Aescetic",
+      "word": "Ascetic",
+      "definition": "severely self-disciplined",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2103,6 +2342,7 @@
     },
     {
       "word": "Whiff",
+      "definition": "faint trace of smell",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2110,6 +2350,7 @@
     },
     {
       "word": "Off-beat",
+      "definition": "unconventional",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2117,6 +2358,7 @@
     },
     {
       "word": "Savant",
+      "definition": "person of narrow brilliance",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2124,6 +2366,7 @@
     },
     {
       "word": "Bristly",
+      "definition": "stiff and prickly",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2131,6 +2374,7 @@
     },
     {
       "word": "Solicitous",
+      "definition": "anxiously concerned",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2146,6 +2390,7 @@
     },
     {
       "word": "Coaxing",
+      "definition": "gently persuading",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2153,6 +2398,7 @@
     },
     {
       "word": "Impute",
+      "definition": "attribute to",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2160,6 +2406,7 @@
     },
     {
       "word": "Slipshod",
+      "definition": "carelessly done",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2167,6 +2414,7 @@
     },
     {
       "word": "Impish",
+      "definition": "playfully mischievous",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2174,6 +2422,7 @@
     },
     {
       "word": "Irrepressible",
+      "definition": "cannot be held back",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2181,6 +2430,7 @@
     },
     {
       "word": "Regent",
+      "definition": "ruler acting for a monarch",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2188,6 +2438,7 @@
     },
     {
       "word": "Proselytizer",
+      "definition": "zealous converter of others",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2195,6 +2446,7 @@
     },
     {
       "word": "Haberdashery",
+      "definition": "men's clothing shop",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2202,6 +2454,7 @@
     },
     {
       "word": "Skunk works",
+      "definition": "secret R&D project",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2209,6 +2462,7 @@
     },
     {
       "word": "Destitute",
+      "definition": "extremely poor",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2216,6 +2470,7 @@
     },
     {
       "word": "Ostentatious",
+      "definition": "showy, designed to impress",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2223,6 +2478,7 @@
     },
     {
       "word": "Enthrall",
+      "definition": "captivate",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2230,6 +2486,7 @@
     },
     {
       "word": "Tenuous",
+      "definition": "weak, flimsy",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2245,13 +2502,15 @@
     },
     {
       "word": "Halo",
+      "definition": "ring of light around something",
       "source": "Steve Jobs",
       "tags": [
         "biography"
       ]
     },
     {
-      "word": "Pompous- self important",
+      "word": "Pompous",
+      "definition": "self-important",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2267,6 +2526,7 @@
     },
     {
       "word": "Dissemble",
+      "definition": "conceal one's true intent",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2274,6 +2534,7 @@
     },
     {
       "word": "Pirouette",
+      "definition": "spin on one foot; abrupt change",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2281,6 +2542,7 @@
     },
     {
       "word": "Deftly",
+      "definition": "skillfully, neatly",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2288,6 +2550,7 @@
     },
     {
       "word": "Petulance",
+      "definition": "childish bad temper",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2295,6 +2558,7 @@
     },
     {
       "word": "Coda",
+      "definition": "concluding passage",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2302,6 +2566,7 @@
     },
     {
       "word": "Bozo",
+      "definition": "stupid or foolish person",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2309,6 +2574,7 @@
     },
     {
       "word": "Wretch",
+      "definition": "miserable person",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2316,6 +2582,7 @@
     },
     {
       "word": "Goliath",
+      "definition": "huge, formidable opponent",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2339,13 +2606,15 @@
     },
     {
       "word": "Silver lining",
+      "definition": "hopeful side of misfortune",
       "source": "Steve Jobs",
       "tags": [
         "biography"
       ]
     },
     {
-      "word": "Impetious",
+      "word": "Impetuous",
+      "definition": "acting rashly",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2353,6 +2622,7 @@
     },
     {
       "word": "Zinger",
+      "definition": "biting witty remark",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2360,6 +2630,7 @@
     },
     {
       "word": "Truism",
+      "definition": "obviously true statement",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2367,6 +2638,7 @@
     },
     {
       "word": "Callous",
+      "definition": "unfeeling, hard-hearted",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2374,6 +2646,7 @@
     },
     {
       "word": "Memorabilia",
+      "definition": "memorable objects/keepsakes",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2381,6 +2654,7 @@
     },
     {
       "word": "Quizzical",
+      "definition": "puzzled, questioning",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2388,6 +2662,7 @@
     },
     {
       "word": "Dreary",
+      "definition": "dull, gloomy",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2395,6 +2670,7 @@
     },
     {
       "word": "Affront",
+      "definition": "open insult",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2402,6 +2678,7 @@
     },
     {
       "word": "Toehold",
+      "definition": "small foothold for entry",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2409,6 +2686,7 @@
     },
     {
       "word": "Relent",
+      "definition": "yield, ease up",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2416,6 +2694,7 @@
     },
     {
       "word": "Repent",
+      "definition": "feel regret",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2423,6 +2702,7 @@
     },
     {
       "word": "Gumption",
+      "definition": "initiative, courage",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2430,6 +2710,7 @@
     },
     {
       "word": "Amiably",
+      "definition": "in a friendly manner",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2437,6 +2718,7 @@
     },
     {
       "word": "Ire",
+      "definition": "anger",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2444,6 +2726,7 @@
     },
     {
       "word": "Subvert",
+      "definition": "undermine",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2459,6 +2742,7 @@
     },
     {
       "word": "Curmudgeon",
+      "definition": "bad-tempered old person",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2466,6 +2750,7 @@
     },
     {
       "word": "Foible",
+      "definition": "minor character flaw",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2473,6 +2758,7 @@
     },
     {
       "word": "Surly",
+      "definition": "rudely bad-tempered",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2480,6 +2766,7 @@
     },
     {
       "word": "Gregarious",
+      "definition": "fond of company, sociable",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2487,6 +2774,7 @@
     },
     {
       "word": "Austere",
+      "definition": "stern, plain",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2494,6 +2782,7 @@
     },
     {
       "word": "Dismay",
+      "definition": "discouragement",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2501,6 +2790,7 @@
     },
     {
       "word": "Ornery",
+      "definition": "stubborn and grumpy",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2508,6 +2798,7 @@
     },
     {
       "word": "Snooker",
+      "definition": "trick, deceive",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2515,6 +2806,7 @@
     },
     {
       "word": "Unassuming",
+      "definition": "modest",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2522,6 +2814,7 @@
     },
     {
       "word": "Pandemonium",
+      "definition": "wild uproar",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2529,6 +2822,7 @@
     },
     {
       "word": "Heed",
+      "definition": "pay attention to",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2536,6 +2830,7 @@
     },
     {
       "word": "Aloof",
+      "definition": "distant, reserved",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2543,6 +2838,7 @@
     },
     {
       "word": "Stymied",
+      "definition": "blocked, frustrated",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2550,6 +2846,7 @@
     },
     {
       "word": "Jeering",
+      "definition": "mocking loudly",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2557,6 +2854,7 @@
     },
     {
       "word": "Jarring",
+      "definition": "harshly out of place",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2564,6 +2862,7 @@
     },
     {
       "word": "Showdown",
+      "definition": "decisive confrontation",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2571,6 +2870,7 @@
     },
     {
       "word": "Genesis",
+      "definition": "origin",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2578,6 +2878,7 @@
     },
     {
       "word": "Frisson",
+      "definition": "thrill, shiver of excitement",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2593,6 +2894,7 @@
     },
     {
       "word": "Insolvent",
+      "definition": "unable to pay debts",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2608,6 +2910,7 @@
     },
     {
       "word": "Sport (verb)",
+      "definition": "wear or display proudly",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2615,6 +2918,7 @@
     },
     {
       "word": "Sardonic",
+      "definition": "scornfully mocking",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2622,6 +2926,7 @@
     },
     {
       "word": "Unconscionable",
+      "definition": "shockingly unreasonable",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2629,6 +2934,7 @@
     },
     {
       "word": "Amends",
+      "definition": "reparation, apology",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2636,6 +2942,7 @@
     },
     {
       "word": "Exult",
+      "definition": "rejoice greatly",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2643,6 +2950,7 @@
     },
     {
       "word": "Indictment",
+      "definition": "formal accusation; criticism",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2658,6 +2966,7 @@
     },
     {
       "word": "Mull over",
+      "definition": "ponder",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2665,6 +2974,7 @@
     },
     {
       "word": "Unadorned",
+      "definition": "plain, undecorated",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2672,6 +2982,7 @@
     },
     {
       "word": "Anthology",
+      "definition": "collected works",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2679,6 +2990,7 @@
     },
     {
       "word": "Vain",
+      "definition": "conceited; in vain",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2702,6 +3014,7 @@
     },
     {
       "word": "Relinquish",
+      "definition": "give up, surrender",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2709,6 +3022,7 @@
     },
     {
       "word": "Impetuous",
+      "definition": "acting on impulse",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2740,6 +3054,7 @@
     },
     {
       "word": "Lament",
+      "definition": "express grief",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2747,6 +3062,7 @@
     },
     {
       "word": "Wistfully",
+      "definition": "with melancholy yearning",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2754,6 +3070,7 @@
     },
     {
       "word": "Writ",
+      "definition": "formal written order",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2761,6 +3078,7 @@
     },
     {
       "word": "Ante",
+      "definition": "amount staked; contribution",
       "source": "Steve Jobs",
       "tags": [
         "biography"
@@ -2768,6 +3086,7 @@
     },
     {
       "word": "Magnum opus",
+      "definition": "great masterpiece",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2776,6 +3095,7 @@
     },
     {
       "word": "Sublime",
+      "definition": "of extreme excellence",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2784,6 +3104,7 @@
     },
     {
       "word": "Eclipse",
+      "definition": "outshine, surpass",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2792,6 +3113,7 @@
     },
     {
       "word": "Apex",
+      "definition": "highest point",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2800,6 +3122,7 @@
     },
     {
       "word": "Pinnacle",
+      "definition": "peak",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2808,6 +3131,7 @@
     },
     {
       "word": "Epitome",
+      "definition": "perfect example",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2816,6 +3140,7 @@
     },
     {
       "word": "Epitomize",
+      "definition": "be the perfect example of",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2824,6 +3149,7 @@
     },
     {
       "word": "Epic",
+      "definition": "grand, heroic",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2832,6 +3158,7 @@
     },
     {
       "word": "Epiphany",
+      "definition": "sudden insight",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2840,6 +3167,7 @@
     },
     {
       "word": "Ethos",
+      "definition": "guiding character/values",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2848,6 +3176,7 @@
     },
     {
       "word": "Virtuous",
+      "definition": "morally good",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2856,6 +3185,7 @@
     },
     {
       "word": "Impeccable",
+      "definition": "flawless",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2864,6 +3194,7 @@
     },
     {
       "word": "Appalling",
+      "definition": "shocking, dreadful",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2872,6 +3203,7 @@
     },
     {
       "word": "The be all, end all",
+      "definition": "the ultimate, complete thing",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2880,6 +3212,7 @@
     },
     {
       "word": "Pièce de résistance",
+      "definition": "showpiece, finest item",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2887,7 +3220,8 @@
       ]
     },
     {
-      "word": "Tour de foce",
+      "word": "Tour de force",
+      "definition": "feat of skill or strength",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2896,6 +3230,7 @@
     },
     {
       "word": "Coup de maître",
+      "definition": "masterstroke",
       "source": "Superlatives",
       "tags": [
         "excellence",
@@ -2904,6 +3239,7 @@
     },
     {
       "word": "Scuppernong",
+      "definition": "wild grape variety",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2912,6 +3248,7 @@
     },
     {
       "word": "Surreptitious",
+      "definition": "secretive, sneaky",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2920,6 +3257,7 @@
     },
     {
       "word": "Coming of age",
+      "definition": "transition to adulthood",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2928,6 +3266,7 @@
     },
     {
       "word": "Thaw",
+      "definition": "melt; warming",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2936,6 +3275,7 @@
     },
     {
       "word": "Sill",
+      "definition": "bottom horizontal piece of a window/door",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2944,6 +3284,7 @@
     },
     {
       "word": "Edification",
+      "definition": "moral instruction",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2952,6 +3293,7 @@
     },
     {
       "word": "Yonder",
+      "definition": "over there",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2959,7 +3301,8 @@
       ]
     },
     {
-      "word": "Jiffy- moment",
+      "word": "Jiffy",
+      "definition": "moment",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2968,6 +3311,7 @@
     },
     {
       "word": "Obstreperous",
+      "definition": "noisy and unruly",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2976,6 +3320,7 @@
     },
     {
       "word": "Peril",
+      "definition": "danger",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2984,6 +3329,7 @@
     },
     {
       "word": "Foliage",
+      "definition": "leaves of a plant",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -2992,6 +3338,7 @@
     },
     {
       "word": "Meekly",
+      "definition": "submissively",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3000,6 +3347,7 @@
     },
     {
       "word": "Philippic",
+      "definition": "bitter verbal attack",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3008,6 +3356,7 @@
     },
     {
       "word": "Propensity",
+      "definition": "natural inclination",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3016,6 +3365,7 @@
     },
     {
       "word": "Scarlet",
+      "definition": "bright red",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3024,6 +3374,7 @@
     },
     {
       "word": "Futility",
+      "definition": "pointlessness",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3032,6 +3383,7 @@
     },
     {
       "word": "Uncouth",
+      "definition": "lacking manners",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3040,6 +3392,7 @@
     },
     {
       "word": "Affluent",
+      "definition": "wealthy",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3047,7 +3400,8 @@
       ]
     },
     {
-      "word": "Popped-the-whip",
+      "word": "Popped the whip",
+      "definition": "snapped suddenly",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3056,6 +3410,7 @@
     },
     {
       "word": "Ambidextrous",
+      "definition": "able to use both hands equally",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3064,6 +3419,7 @@
     },
     {
       "word": "Unmitigated",
+      "definition": "absolute, complete",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3072,6 +3428,7 @@
     },
     {
       "word": "Temerity",
+      "definition": "reckless boldness",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3080,6 +3437,7 @@
     },
     {
       "word": "Hurling",
+      "definition": "throwing forcefully",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3088,6 +3446,7 @@
     },
     {
       "word": "Pauper",
+      "definition": "very poor person",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3096,6 +3455,7 @@
     },
     {
       "word": "Furtive",
+      "definition": "secretive, stealthy",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3104,6 +3464,7 @@
     },
     {
       "word": "Indignant",
+      "definition": "righteously angry",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3112,6 +3473,7 @@
     },
     {
       "word": "Sordid",
+      "definition": "morally vile, dirty",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3120,6 +3482,7 @@
     },
     {
       "word": "Naw",
+      "definition": "no (dialect)",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3128,6 +3491,7 @@
     },
     {
       "word": "Spurious",
+      "definition": "false, fake",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3136,6 +3500,7 @@
     },
     {
       "word": "Enunciate",
+      "definition": "pronounce clearly",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3144,6 +3509,7 @@
     },
     {
       "word": "Persecution",
+      "definition": "sustained mistreatment",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3152,6 +3518,7 @@
     },
     {
       "word": "Mused",
+      "definition": "thought reflectively",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3160,6 +3527,7 @@
     },
     {
       "word": "Put in a pen",
+      "definition": "confine to a pen",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3168,6 +3536,7 @@
     },
     {
       "word": "Purloin",
+      "definition": "steal",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3176,6 +3545,7 @@
     },
     {
       "word": "Pageant",
+      "definition": "elaborate public show",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3184,6 +3554,7 @@
     },
     {
       "word": "Plunging",
+      "definition": "diving downward",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3192,6 +3563,7 @@
     },
     {
       "word": "Haint",
+      "definition": "ghost (dialect)",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3200,6 +3572,7 @@
     },
     {
       "word": "Stagger",
+      "definition": "walk unsteadily",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3208,6 +3581,7 @@
     },
     {
       "word": "Pinion",
+      "definition": "wing-tip; restrain",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3216,6 +3590,7 @@
     },
     {
       "word": "Scuffling",
+      "definition": "fighting at close quarters",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3224,6 +3599,7 @@
     },
     {
       "word": "Wheeze",
+      "definition": "labored breath",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3232,6 +3608,7 @@
     },
     {
       "word": "Boil-prone",
+      "definition": "prone to skin boils",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3240,6 +3617,7 @@
     },
     {
       "word": "Telltale",
+      "definition": "revealing",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3248,6 +3626,7 @@
     },
     {
       "word": "Creases",
+      "definition": "folded lines/wrinkles",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3256,6 +3635,7 @@
     },
     {
       "word": "Pester",
+      "definition": "annoy persistently",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3264,6 +3644,7 @@
     },
     {
       "word": "Lest",
+      "definition": "for fear that",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3272,6 +3653,7 @@
     },
     {
       "word": "Reprimand",
+      "definition": "formal scolding",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3280,6 +3662,7 @@
     },
     {
       "word": "Jutting",
+      "definition": "sticking out",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3288,6 +3671,7 @@
     },
     {
       "word": "Scat",
+      "definition": "go away! (or: scat singing)",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3296,6 +3680,7 @@
     },
     {
       "word": "Elude",
+      "definition": "evade",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3304,6 +3689,7 @@
     },
     {
       "word": "Amiable",
+      "definition": "friendly, agreeable",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3312,6 +3698,7 @@
     },
     {
       "word": "Acquiescence",
+      "definition": "reluctant acceptance",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3320,6 +3707,7 @@
     },
     {
       "word": "Shrew",
+      "definition": "nagging woman; small mouse-like animal",
       "source": "To Kill a Mockingbird",
       "tags": [
         "literature",
@@ -3327,89 +3715,116 @@
       ]
     },
     {
-      "word": "Erstwhile"
+      "word": "Erstwhile",
+      "definition": "former"
     },
     {
-      "word": "Vigor"
+      "word": "Vigor",
+      "definition": "energy, strength"
     },
     {
-      "word": "Astroturfing"
+      "word": "Astroturfing",
+      "definition": "fake grassroots campaigning"
     },
     {
-      "word": "Stratify"
+      "word": "Stratify",
+      "definition": "arrange in layers"
     },
     {
-      "word": "Laden"
+      "word": "Laden",
+      "definition": "loaded, weighed down"
     },
     {
-      "word": "Pontificate"
+      "word": "Pontificate",
+      "definition": "lecture pompously"
     },
     {
-      "word": "Buccaneer"
+      "word": "Buccaneer",
+      "definition": "pirate; bold adventurer"
     },
     {
-      "word": "Earmaked"
+      "word": "Earmarked",
+      "definition": "set aside for a purpose"
     },
     {
-      "word": "Retribution"
+      "word": "Retribution",
+      "definition": "punishment, payback"
     },
     {
-      "word": "Cargo culting"
+      "word": "Cargo culting",
+      "definition": "imitating form without grasping purpose"
     },
     {
-      "word": "Cognate"
+      "word": "Cognate",
+      "definition": "related word/origin"
     },
     {
-      "word": "Moratorium"
+      "word": "Moratorium",
+      "definition": "official suspension/halt"
     },
     {
-      "word": "Watershd moment"
+      "word": "Watershed moment",
+      "definition": "turning point"
     },
     {
-      "word": "Anodyne"
+      "word": "Anodyne",
+      "definition": "bland, inoffensive"
     },
     {
-      "word": "Kerfuffle"
+      "word": "Kerfuffle",
+      "definition": "fuss, commotion"
     },
     {
       "word": "Mise en place",
       "definition": "everyting ready"
     },
     {
-      "word": "Purgatory"
+      "word": "Purgatory",
+      "definition": "place of waiting/suffering"
     },
     {
-      "word": "Recoinnaissance"
+      "word": "Reconnaissance",
+      "definition": "preliminary scouting"
     },
     {
-      "word": "Volition"
+      "word": "Volition",
+      "definition": "free will, choice"
     },
     {
-      "word": "Headway"
+      "word": "Headway",
+      "definition": "forward progress"
     },
     {
-      "word": "Derision"
+      "word": "Derision",
+      "definition": "ridicule"
     },
     {
-      "word": "Derisive"
+      "word": "Derisive",
+      "definition": "mocking"
     },
     {
-      "word": "Magnanimity"
+      "word": "Magnanimity",
+      "definition": "generosity of spirit"
     },
     {
-      "word": "Aeon"
+      "word": "Aeon",
+      "definition": "vast age"
     },
     {
-      "word": "Amor fati"
+      "word": "Amor fati",
+      "definition": "love of fate"
     },
     {
-      "word": "Compendium"
+      "word": "Compendium",
+      "definition": "comprehensive collection"
     },
     {
-      "word": "Manual"
+      "word": "Manual",
+      "definition": "instructional handbook"
     },
     {
-      "word": "Dubious"
+      "word": "Dubious",
+      "definition": "doubtful, suspicious"
     },
     {
       "word": "Fads",
@@ -3420,46 +3835,60 @@
       "definition": "harmless"
     },
     {
-      "word": "Heretic"
+      "word": "Heretic",
+      "definition": "person who holds heretical views"
     },
     {
-      "word": "Contentment contention contingent infringement"
+      "word": "Contentment contention contingent infringement",
+      "definition": "satisfaction; dispute; dependent; violation (similar-sounding set)"
     },
     {
-      "word": "Stringent"
+      "word": "Stringent",
+      "definition": "strict, demanding"
     },
     {
-      "word": "fringing"
+      "word": "fringing",
+      "definition": "edging, bordering"
     },
     {
-      "word": "Fiat, decree"
+      "word": "Fiat, decree",
+      "definition": "authoritative order"
     },
     {
-      "word": "Apposite"
+      "word": "Apposite",
+      "definition": "highly relevant"
     },
     {
-      "word": "Superfluous"
+      "word": "Superfluous",
+      "definition": "more than needed"
     },
     {
-      "word": "Pious"
+      "word": "Pious",
+      "definition": "devoutly religious"
     },
     {
-      "word": "Ken"
+      "word": "Ken",
+      "definition": "range of knowledge"
     },
     {
-      "word": "Sundry"
+      "word": "Sundry",
+      "definition": "various"
     },
     {
-      "word": "Triumvirate"
+      "word": "Triumvirate",
+      "definition": "group of three rulers"
     },
     {
-      "word": "Indomitable"
+      "word": "Indomitable",
+      "definition": "unconquerable"
     },
     {
-      "word": "Trope"
+      "word": "Trope",
+      "definition": "common theme/cliché"
     },
     {
-      "word": "Brash"
+      "word": "Brash",
+      "definition": "bold, rude"
     },
     {
       "word": "Avarice",
@@ -3490,820 +3919,1088 @@
       "definition": "hysterically dramatic"
     },
     {
-      "word": "Staunch"
+      "word": "Staunch",
+      "definition": "loyal, firm"
     },
     {
-      "word": "Replete"
+      "word": "Replete",
+      "definition": "filled to capacity"
     },
     {
-      "word": "Bee’s knee and cat’s pajama"
+      "word": "Bee's knees and cat's pajamas",
+      "definition": "the very best"
     },
     {
-      "word": "Zealot"
+      "word": "Zealot",
+      "definition": "fanatical follower"
     },
     {
-      "word": "Bullheaded"
+      "word": "Bullheaded",
+      "definition": "stubborn"
     },
     {
-      "word": "pigheaded"
+      "word": "pigheaded",
+      "definition": "stubborn"
     },
     {
-      "word": "Dogged"
+      "word": "Dogged",
+      "definition": "tenaciously persistent"
     },
     {
-      "word": "Doctrinaire"
+      "word": "Doctrinaire",
+      "definition": "rigidly adhering to doctrine"
     },
     {
-      "word": "Die-hard"
+      "word": "Die-hard",
+      "definition": "stubbornly committed"
     },
     {
-      "word": "Hard-nosed"
+      "word": "Hard-nosed",
+      "definition": "tough, uncompromising"
     },
     {
-      "word": "Hard-lined"
+      "word": "Hard-lined",
+      "definition": "uncompromising"
     },
     {
-      "word": "Intransigent"
+      "word": "Intransigent",
+      "definition": "refusing to compromise"
     },
     {
-      "word": "Je ne sequa"
+      "word": "Je ne sais quoi",
+      "definition": "indefinable quality"
     },
     {
-      "word": "Progenitor"
+      "word": "Progenitor",
+      "definition": "ancestor, originator"
     },
     {
-      "word": "Apophenia"
+      "word": "Apophenia",
+      "definition": "seeing patterns in randomness"
     },
     {
-      "word": "Coax"
+      "word": "Coax",
+      "definition": "gently persuade"
     },
     {
-      "word": "Cinch"
+      "word": "Cinch",
+      "definition": "easy task; tighten strap"
     },
     {
-      "word": "Nemesis"
+      "word": "Nemesis",
+      "definition": "arch-rival"
     },
     {
-      "word": "Acolyte"
+      "word": "Acolyte",
+      "definition": "devoted follower"
     },
     {
-      "word": "Precipitous"
+      "word": "Precipitous",
+      "definition": "dangerously steep"
     },
     {
-      "word": "nary a beergut"
+      "word": "Nary a beergut",
+      "definition": "not a single beer-belly"
     },
     {
-      "word": "Wax and wane"
+      "word": "Wax and wane",
+      "definition": "increase and decrease in turn"
     },
     {
-      "word": "Extol"
+      "word": "Extol",
+      "definition": "praise highly"
     },
     {
-      "word": "Undulate"
+      "word": "Undulate",
+      "definition": "move in a wave-like motion"
     },
     {
-      "word": "Fairweeather"
+      "word": "Fairweather",
+      "definition": "loyal only in good times"
     },
     {
-      "word": "Washout"
+      "word": "Washout",
+      "definition": "complete failure; rain ruining outdoor event"
     },
     {
-      "word": "Wryly"
+      "word": "Wryly",
+      "definition": "in a dryly humorous way"
     },
     {
-      "word": "Codicil"
+      "word": "Codicil",
+      "definition": "addition to a will"
     },
     {
-      "word": "Embodiment"
+      "word": "Embodiment",
+      "definition": "tangible expression of an idea"
     },
     {
-      "word": "Manifest"
+      "word": "Manifest",
+      "definition": "clearly show; declare openly"
     },
     {
-      "word": "Embroidery"
+      "word": "Embroidery",
+      "definition": "decorative needlework; embellishment"
     },
     {
-      "word": "Fraught"
+      "word": "Fraught",
+      "definition": "filled with (something undesirable)"
     },
     {
-      "word": "Ruse"
+      "word": "Ruse",
+      "definition": "trick, deception"
     },
     {
-      "word": "Tantalizing"
+      "word": "Tantalizing",
+      "definition": "tempting yet out of reach"
     },
     {
-      "word": "Infatuate"
+      "word": "Infatuate",
+      "definition": "fill with overpowering attraction"
     },
     {
-      "word": "Astute"
+      "word": "Astute",
+      "definition": "shrewd, sharp-witted"
     },
     {
-      "word": "Abominable lewdness"
+      "word": "Abominable lewdness",
+      "definition": "shocking sexual indecency"
     },
     {
-      "word": "Take a beat"
+      "word": "Take a beat",
+      "definition": "pause briefly"
     },
     {
-      "word": "Rise to the occasion"
+      "word": "Rise to the occasion",
+      "definition": "perform well when needed"
     },
     {
-      "word": "challenge"
+      "word": "challenge",
+      "definition": "demanding task or invitation to compete"
     },
     {
-      "word": "Decorum"
+      "word": "Decorum",
+      "definition": "polite proper behavior"
     },
     {
-      "word": "Shunning"
+      "word": "Shunning",
+      "definition": "deliberately ignoring/avoiding someone"
     },
     {
-      "word": "Fly off the handle"
+      "word": "Fly off the handle",
+      "definition": "lose temper suddenly"
     },
     {
-      "word": "Ensue"
+      "word": "Ensue",
+      "definition": "follow as a result"
     },
     {
-      "word": "Vice"
+      "word": "Vice",
+      "definition": "moral failing; clamping tool"
     },
     {
-      "word": "Acclaim"
+      "word": "Acclaim",
+      "definition": "praise"
     },
     {
-      "word": "Detest"
+      "word": "Detest",
+      "definition": "dislike intensely"
     },
     {
-      "word": "Nefarious"
+      "word": "Nefarious",
+      "definition": "wicked, evil"
     },
     {
       "word": "Impedus",
       "definition": "thrust"
     },
     {
-      "word": "Rife"
+      "word": "Rife",
+      "definition": "widespread (usually bad)"
     },
     {
-      "word": "Ridden"
+      "word": "Ridden",
+      "definition": "plagued by, full of"
     },
     {
-      "word": "Chaste"
+      "word": "Chaste",
+      "definition": "morally pure; abstaining from sex"
     },
     {
-      "word": "Entwined"
+      "word": "Entwined",
+      "definition": "twisted together"
     },
     {
-      "word": "Interwoven"
+      "word": "Interwoven",
+      "definition": "woven among each other"
     },
     {
-      "word": "Interlaced"
+      "word": "Interlaced",
+      "definition": "laced together"
     },
     {
-      "word": "Intertwined"
+      "word": "Intertwined",
+      "definition": "twisted together"
     },
     {
-      "word": "Interconnected"
+      "word": "Interconnected",
+      "definition": "linked together"
     },
     {
-      "word": "Intermingled"
+      "word": "Intermingled",
+      "definition": "mixed together"
     },
     {
-      "word": "Twisted"
+      "word": "Twisted",
+      "definition": "twisted, contorted"
     },
     {
-      "word": "Tangled"
+      "word": "Tangled",
+      "definition": "twisted into knots; complicated"
     },
     {
-      "word": "Knotted"
+      "word": "Knotted",
+      "definition": "tied in a knot"
     },
     {
-      "word": "Woven"
+      "word": "Woven",
+      "definition": "interlaced"
     },
     {
-      "word": "Braided"
+      "word": "Braided",
+      "definition": "plaited together"
     },
     {
-      "word": "Enmeshed"
+      "word": "Enmeshed",
+      "definition": "deeply involved/entangled"
     },
     {
-      "word": "Weave"
+      "word": "Weave",
+      "definition": "interlace strands"
     },
     {
-      "word": "Wrought"
+      "word": "Wrought",
+      "definition": "shaped or worked (archaic past of work)"
     },
     {
-      "word": "Omniscient"
+      "word": "Omniscient",
+      "definition": "all-knowing"
     },
     {
-      "word": "Omnipresent"
+      "word": "Omnipresent",
+      "definition": "everywhere at once"
     },
     {
-      "word": "Contrive"
+      "word": "Contrive",
+      "definition": "devise cleverly; bring about by scheme"
     },
     {
-      "word": "Contraption"
+      "word": "Contraption",
+      "definition": "odd or makeshift device"
     },
     {
-      "word": "Remiss"
+      "word": "Remiss",
+      "definition": "negligent, careless"
     },
     {
-      "word": "Concubine"
+      "word": "Concubine",
+      "definition": "secondary wife/mistress"
     },
     {
-      "word": "Virility"
+      "word": "Virility",
+      "definition": "manly strength; sexual potency"
     },
     {
-      "word": "Dexterously"
+      "word": "Dexterously",
+      "definition": "skillfully with the hands"
     },
     {
-      "word": "Salvage"
+      "word": "Salvage",
+      "definition": "rescue from loss"
     },
     {
-      "word": "Percolate"
+      "word": "Percolate",
+      "definition": "filter through; gradually spread"
     },
     {
-      "word": "Genteel"
+      "word": "Genteel",
+      "definition": "well-mannered, refined"
     },
     {
-      "word": "Lade"
+      "word": "Lade",
+      "definition": "load (ship); archaic for load"
     },
     {
-      "word": "Obsequious"
+      "word": "Obsequious",
+      "definition": "fawningly subservient"
     },
     {
-      "word": "Servile"
+      "word": "Servile",
+      "definition": "excessively submissive"
     },
     {
-      "word": "Uncanny valley"
+      "word": "Uncanny valley",
+      "definition": "near-human looking yet eerie effect"
     },
     {
-      "word": "Prorogue"
+      "word": "Prorogue",
+      "definition": "discontinue/suspend a session"
     },
     {
-      "word": "Erethrel"
+      "word": "Ethereal",
+      "definition": "delicate, otherworldly"
     },
     {
-      "word": "Predicament"
+      "word": "Predicament",
+      "definition": "tricky difficult situation"
     },
     {
-      "word": "Auspicious"
+      "word": "Auspicious",
+      "definition": "favorable, promising"
     },
     {
-      "word": "Hive mind"
+      "word": "Hive mind",
+      "definition": "shared collective consciousness"
     },
     {
-      "word": "Deterrent"
+      "word": "Deterrent",
+      "definition": "thing that discourages action"
     },
     {
-      "word": "Anathema"
+      "word": "Anathema",
+      "definition": "something detested or cursed"
     },
     {
-      "word": "Stealth"
+      "word": "Stealth",
+      "definition": "secrecy; undetectability"
     },
     {
       "word": "Yore",
       "definition": "in times of yore"
     },
     {
-      "word": "Eudaimonia"
+      "word": "Eudaimonia",
+      "definition": "human flourishing (Greek)"
     },
     {
-      "word": "Beacon"
+      "word": "Beacon",
+      "definition": "guiding signal/light"
     },
     {
-      "word": "Beckon"
+      "word": "Beckon",
+      "definition": "signal someone over"
     },
     {
-      "word": "Tapestry"
+      "word": "Tapestry",
+      "definition": "rich complex scene/fabric"
     },
     {
-      "word": "Meandering"
+      "word": "Meandering",
+      "definition": "wandering"
     },
     {
-      "word": "winding"
+      "word": "winding",
+      "definition": "twisting, bending"
     },
     {
-      "word": "Enrapture"
+      "word": "Enrapture",
+      "definition": "fill with delight"
     },
     {
-      "word": "Obtuse"
+      "word": "Obtuse",
+      "definition": "slow to understand; blunt"
     },
     {
-      "word": "Grotesque"
+      "word": "Grotesque",
+      "definition": "comically distorted/ugly"
     },
     {
-      "word": "Pursuant to"
+      "word": "Pursuant to",
+      "definition": "in accordance with"
     },
     {
-      "word": "Cursory"
+      "word": "Cursory",
+      "definition": "hasty, superficial"
     },
     {
-      "word": "Ilk"
+      "word": "Ilk",
+      "definition": "type, kind"
     },
     {
-      "word": "Litigate"
+      "word": "Litigate",
+      "definition": "engage in legal proceedings"
     },
     {
-      "word": "Scruinity"
+      "word": "Scrutiny",
+      "definition": "close inspection"
     },
     {
-      "word": "Pat-down"
+      "word": "Pat-down",
+      "definition": "frisking by hand"
     },
     {
-      "word": "Detainment"
+      "word": "Detainment",
+      "definition": "act of detaining"
     },
     {
-      "word": "Profiling"
+      "word": "Profiling",
+      "definition": "categorizing by traits"
     },
     {
-      "word": "Turmoil"
+      "word": "Turmoil",
+      "definition": "violent disorder"
     },
     {
-      "word": "Upheaval"
+      "word": "Upheaval",
+      "definition": "violent overturn/disturbance"
     },
     {
-      "word": "Commotion"
+      "word": "Commotion",
+      "definition": "noisy disturbance"
     },
     {
-      "word": "Tumult"
+      "word": "Tumult",
+      "definition": "uproar, confusion"
     },
     {
       "word": "Flummoxed",
       "definition": "baffled"
     },
     {
-      "word": "Hypostasis"
+      "word": "Hypostasis",
+      "definition": "underlying substance/essence"
     },
     {
-      "word": "Soliloquy"
+      "word": "Soliloquy",
+      "definition": "speech to oneself"
     },
     {
-      "word": "Blasé"
+      "word": "Blasé",
+      "definition": "indifferent, world-weary"
     },
     {
-      "word": "Revealatory"
+      "word": "Revelatory",
+      "definition": "revealing something striking"
     },
     {
-      "word": "Upshot"
+      "word": "Upshot",
+      "definition": "outcome, conclusion"
     },
     {
-      "word": "Prejorative"
+      "word": "Pejorative",
+      "definition": "derogatory"
     },
     {
-      "word": "Doozy"
+      "word": "Doozy",
+      "definition": "remarkable example"
     },
     {
-      "word": "Snazzy"
+      "word": "Snazzy",
+      "definition": "stylishly attractive"
     },
     {
-      "word": "Flashy"
+      "word": "Flashy",
+      "definition": "showy"
     },
     {
-      "word": "Conspicuously"
+      "word": "Conspicuously",
+      "definition": "in a clearly visible way"
     },
     {
-      "word": "Ostentatiously"
+      "word": "Ostentatiously",
+      "definition": "in a showy way"
     },
     {
-      "word": "Digerati"
+      "word": "Digerati",
+      "definition": "tech elite"
     },
     {
-      "word": "Taunt"
+      "word": "Taunt",
+      "definition": "mock, provoke"
     },
     {
-      "word": "Blunder"
+      "word": "Blunder",
+      "definition": "stupid mistake"
     },
     {
-      "word": "Skimp"
+      "word": "Skimp",
+      "definition": "use too little of"
     },
     {
-      "word": "Inconspicuous"
+      "word": "Inconspicuous",
+      "definition": "not noticeable"
     },
     {
-      "word": "Presumptions"
+      "word": "Presumptions",
+      "definition": "things taken for granted (presumptuous)"
     },
     {
-      "word": "Contempt"
+      "word": "Contempt",
+      "definition": "scornful disregard"
     },
     {
-      "word": "Revere"
+      "word": "Revere",
+      "definition": "deeply respect"
     },
     {
-      "word": "Pervaded"
+      "word": "Pervaded",
+      "definition": "spread throughout"
     },
     {
-      "word": "Verbatim"
+      "word": "Verbatim",
+      "definition": "word for word"
     },
     {
-      "word": "Alude to"
+      "word": "Allude to",
+      "definition": "refer to indirectly"
     },
     {
-      "word": "Rickety"
+      "word": "Rickety",
+      "definition": "shaky, unsteady"
     },
     {
-      "word": "Hokum"
+      "word": "Hokum",
+      "definition": "nonsense"
     },
     {
-      "word": "Nilly willy"
+      "word": "Willy-nilly",
+      "definition": "haphazardly; whether one likes it or not"
     },
     {
-      "word": "Nippy"
+      "word": "Nippy",
+      "definition": "chilly; brisk"
     },
     {
-      "word": "Abrasive"
+      "word": "Abrasive",
+      "definition": "harsh, rough"
     },
     {
-      "word": "Granular"
+      "word": "Granular",
+      "definition": "fine-grained, detailed"
     },
     {
-      "word": "Ostensibly"
+      "word": "Ostensibly",
+      "definition": "apparently, on the surface"
     },
     {
-      "word": "Eclectic"
+      "word": "Eclectic",
+      "definition": "from many sources"
     },
     {
-      "word": "Squabble"
+      "word": "Squabble",
+      "definition": "petty quarrel"
     },
     {
-      "word": "Quarrel"
+      "word": "Quarrel",
+      "definition": "argument"
     },
     {
-      "word": "Beleaguered"
+      "word": "Beleaguered",
+      "definition": "harassed, plagued"
     },
     {
-      "word": "Elegy"
+      "word": "Elegy",
+      "definition": "mournful poem"
     },
     {
-      "word": "Defiance"
+      "word": "Defiance",
+      "definition": "open resistance"
     },
     {
-      "word": "Elusive"
+      "word": "Elusive",
+      "definition": "hard to find/grasp"
     },
     {
-      "word": "Inocious"
+      "word": "Innocuous",
+      "definition": "harmless"
     },
     {
-      "word": "Ominous"
+      "word": "Ominous",
+      "definition": "threatening"
     },
     {
-      "word": "Liquidity"
+      "word": "Liquidity",
+      "definition": "ease of converting to cash"
     },
     {
-      "word": "Proliferation"
+      "word": "Proliferation",
+      "definition": "rapid spread"
     },
     {
-      "word": "Thrashing"
+      "word": "Thrashing",
+      "definition": "violent flailing; heavy beating"
     },
     {
-      "word": "Throttle"
+      "word": "Throttle",
+      "definition": "throat valve; restrict flow"
     },
     {
-      "word": "Vindictive"
+      "word": "Vindictive",
+      "definition": "seeking revenge"
     },
     {
-      "word": "vengeful"
+      "word": "vengeful",
+      "definition": "seeking revenge"
     },
     {
-      "word": "revengeful"
+      "word": "revengeful",
+      "definition": "revengeful"
     },
     {
-      "word": "ill-disposed"
+      "word": "ill-disposed",
+      "definition": "hostile"
     },
     {
-      "word": "grudge-bearing"
+      "word": "grudge-bearing",
+      "definition": "holding grudges"
     },
     {
-      "word": "unrelenting"
+      "word": "unrelenting",
+      "definition": "relentless, unyielding"
     },
     {
-      "word": "Rugged"
+      "word": "Rugged",
+      "definition": "rough and sturdy"
     },
     {
-      "word": "rough"
+      "word": "rough",
+      "definition": "uneven, coarse"
     },
     {
-      "word": "study"
+      "word": "study",
+      "definition": "examine carefully (verb); scholarly work"
     },
     {
-      "word": "Rigid"
+      "word": "Rigid",
+      "definition": "stiff, unbending"
     },
     {
-      "word": "stiff"
+      "word": "stiff",
+      "definition": "rigid, not flexible"
     },
     {
-      "word": "fixed"
+      "word": "fixed",
+      "definition": "unchanging, set"
     },
     {
-      "word": "narrow-minded"
+      "word": "narrow-minded",
+      "definition": "intolerant of others' views"
     },
     {
-      "word": "intolerant"
+      "word": "intolerant",
+      "definition": "unwilling to accept differences"
     },
     {
-      "word": "unltra-conservative"
+      "word": "Ultra-conservative",
+      "definition": "extremely conservative"
     },
     {
-      "word": "Hardliner"
+      "word": "Hardliner",
+      "definition": "uncompromising adherent"
     },
     {
-      "word": "diehard"
+      "word": "diehard",
+      "definition": "stubbornly committed"
     },
     {
-      "word": "zelot"
+      "word": "Zealot",
+      "definition": "fanatic"
     },
     {
-      "word": "dogmatis"
+      "word": "Dogmatic",
+      "definition": "asserting opinions as fact"
     },
     {
-      "word": "inflexibel"
+      "word": "Inflexible",
+      "definition": "unwilling to change"
     },
     {
-      "word": "unyielding"
+      "word": "unyielding",
+      "definition": "refusing to bend"
     },
     {
-      "word": "Levy"
+      "word": "Levy",
+      "definition": "tax (noun); impose (verb)"
     },
     {
-      "word": "Off the cut"
+      "word": "Off the cuff",
+      "definition": "improvised"
     },
     {
-      "word": "ad lib"
+      "word": "ad lib",
+      "definition": "improvised"
     },
     {
-      "word": "One off"
+      "word": "One off",
+      "definition": "a single, unique instance"
     },
     {
-      "word": "Vigour"
+      "word": "Vigour",
+      "definition": "energy, vitality (British)"
     },
     {
-      "word": "Subdue"
+      "word": "Subdue",
+      "definition": "bring under control"
     },
     {
-      "word": "Deplorable"
+      "word": "Deplorable",
+      "definition": "shockingly bad"
     },
     {
-      "word": "Bout"
+      "word": "Bout",
+      "definition": "short period of activity/illness"
     },
     {
-      "word": "Spree"
+      "word": "Spree",
+      "definition": "burst of activity/indulgence"
     },
     {
-      "word": "Dunning–Kruger effect"
+      "word": "Dunning–Kruger effect",
+      "definition": "the unskilled overestimating their skill"
     },
     {
-      "word": "Ambivalent"
+      "word": "Ambivalent",
+      "definition": "having mixed feelings"
     },
     {
-      "word": "Siege"
+      "word": "Siege",
+      "definition": "military encirclement"
     },
     {
-      "word": "Prowess"
+      "word": "Prowess",
+      "definition": "skill, expertise"
     },
     {
-      "word": "Luminary"
+      "word": "Luminary",
+      "definition": "celebrated expert"
     },
     {
-      "word": "Dislodge"
+      "word": "Dislodge",
+      "definition": "knock loose"
     },
     {
-      "word": "Entrenched"
+      "word": "Entrenched",
+      "definition": "firmly established"
     },
     {
-      "word": "Invidious"
+      "word": "Invidious",
+      "definition": "unfair and resented"
     },
     {
-      "word": "Cagey"
+      "word": "Cagey",
+      "definition": "wary, cautious"
     },
     {
-      "word": "Facetious"
+      "word": "Facetious",
+      "definition": "joking inappropriately"
     },
     {
-      "word": "Factitious"
+      "word": "Factitious",
+      "definition": "artificially created"
     },
     {
-      "word": "Posterity"
+      "word": "Posterity",
+      "definition": "future generations"
     },
     {
-      "word": "Stteped"
+      "word": "Steeped",
+      "definition": "thoroughly imbued (in)"
     },
     {
-      "word": "Enigmatic"
+      "word": "Enigmatic",
+      "definition": "mysterious, puzzling"
     },
     {
-      "word": "Tout, Pester, Flaunt, Hawk, Puff"
+      "word": "Tout, Pester, Flaunt, Hawk, Puff",
+      "definition": "promote/advertise/show off (set of similar-meaning words)"
     },
     {
-      "word": "Onthology"
+      "word": "Ontology",
+      "definition": "study of being/categories"
     },
     {
-      "word": "Medley"
+      "word": "Medley",
+      "definition": "varied mixture (esp. music)"
     },
     {
-      "word": "Newfangled contraption"
+      "word": "Newfangled contraption",
+      "definition": "novel gadget (often pejorative)"
     },
     {
-      "word": "Conceited"
+      "word": "Conceited",
+      "definition": "excessively proud"
     },
     {
-      "word": "Habeas corpus"
+      "word": "Habeas corpus",
+      "definition": "right against unlawful detention"
     },
     {
-      "word": "Dominion"
+      "word": "Dominion",
+      "definition": "sovereign control"
     },
     {
-      "word": "Confine"
+      "word": "Confine",
+      "definition": "restrict, limit"
     },
     {
-      "word": "Adage, saying, maxim, axiom, proverb, aphorism, saw, dictum, precept, epigram. epigraph, motto, truism, platitude, cliché, commonplace, words of wisdom, pearls of wisdom, expression, phrase, formula, slogan, quotation, apothegm, gnome"
+      "word": "Adage, saying, maxim, axiom, proverb, aphorism, saw, dictum, precept, epigram. epigraph, motto, truism, platitude, cliché, commonplace, words of wisdom, pearls of wisdom, expression, phrase, formula, slogan, quotation, apothegm, gnome",
+      "definition": "synonyms for a saying or proverb"
     },
     {
-      "word": "Corral"
+      "word": "Corral",
+      "definition": "enclose; round up"
     },
     {
-      "word": "Preaching to the choir"
+      "word": "Preaching to the choir",
+      "definition": "convincing the already convinced"
     },
     {
-      "word": "Maelstrom"
+      "word": "Maelstrom",
+      "definition": "violent whirlpool/turmoil"
     },
     {
-      "word": "Aide-mèmoire"
+      "word": "Aide-mémoire",
+      "definition": "memory aid; brief note"
     },
     {
-      "word": "Enchilada"
+      "word": "Enchilada",
+      "definition": "rolled tortilla dish; slang for the whole thing"
     },
     {
-      "word": "Precinct"
+      "word": "Precinct",
+      "definition": "district, especially police"
     },
     {
-      "word": "Whims"
+      "word": "Whims",
+      "definition": "passing fancies"
     },
     {
-      "word": "Disparate"
+      "word": "Disparate",
+      "definition": "fundamentally different"
     },
     {
-      "word": "To couch"
+      "word": "To couch",
+      "definition": "express in a particular way"
     },
     {
-      "word": "Playing possum"
+      "word": "Playing possum",
+      "definition": "pretending to be dead/asleep"
     },
     {
-      "word": "Full bore"
+      "word": "Full bore",
+      "definition": "at full speed/intensity"
     },
     {
-      "word": "Acrostic"
+      "word": "Acrostic",
+      "definition": "poem where first letters spell a word"
     },
     {
-      "word": "Catalyst"
+      "word": "Catalyst",
+      "definition": "agent that triggers change"
     },
     {
-      "word": "Synergistic"
+      "word": "Synergistic",
+      "definition": "producing combined effect greater than parts"
     },
     {
-      "word": "Plethora"
+      "word": "Plethora",
+      "definition": "large excess"
     },
     {
-      "word": "coalesce"
+      "word": "coalesce",
+      "definition": "come together as one"
     },
     {
-      "word": "behemoth"
+      "word": "behemoth",
+      "definition": "huge powerful entity"
     },
     {
-      "word": "swarm"
+      "word": "swarm",
+      "definition": "large dense group moving together"
     },
     {
-      "word": "swarth"
+      "word": "Swarthy",
+      "definition": "dark-complexioned"
     },
     {
-      "word": "swathe"
+      "word": "swathe",
+      "definition": "broad strip; wrap"
     },
     {
-      "word": "Wrath"
+      "word": "Wrath",
+      "definition": "intense anger"
     },
     {
-      "word": "Prairie"
+      "word": "Prairie",
+      "definition": "open grassland"
     },
     {
-      "word": "Signal to noise ratio"
+      "word": "Signal to noise ratio",
+      "definition": "ratio of useful info to noise"
     },
     {
-      "word": "Dog-eared"
+      "word": "Dog-eared",
+      "definition": "with corners folded; well-used"
     },
     {
-      "word": "Voraciously"
+      "word": "Voraciously",
+      "definition": "with great hunger/eagerness"
     },
     {
-      "word": "Simultaneous"
+      "word": "Simultaneous",
+      "definition": "happening at the same time"
     },
     {
-      "word": "Concurrent"
+      "word": "Concurrent",
+      "definition": "occurring together"
     },
     {
-      "word": "Rite of passage"
+      "word": "Rite of passage",
+      "definition": "ceremony marking life transition"
     },
     {
-      "word": "Run amok"
+      "word": "Run amok",
+      "definition": "behave wildly out of control"
     },
     {
-      "word": "Infallible"
+      "word": "Infallible",
+      "definition": "incapable of error"
     },
     {
-      "word": "Wary"
+      "word": "Wary",
+      "definition": "cautious, suspicious"
     },
     {
-      "word": "To buck"
+      "word": "To buck",
+      "definition": "resist, oppose"
     },
     {
-      "word": "Smidgen"
+      "word": "Smidgen",
+      "definition": "tiny amount"
     },
     {
-      "word": "Impervious"
+      "word": "Impervious",
+      "definition": "unaffected by"
     },
     {
-      "word": "Bogus"
+      "word": "Bogus",
+      "definition": "fake, fraudulent"
     },
     {
-      "word": "Occult"
+      "word": "Occult",
+      "definition": "supernatural; hidden"
     },
     {
-      "word": "Osmosis"
+      "word": "Osmosis",
+      "definition": "absorption gradually"
     },
     {
-      "word": "palimpsest"
+      "word": "palimpsest",
+      "definition": "manuscript reused with traces of earlier text"
     },
     {
-      "word": "Iconoclastic"
+      "word": "Iconoclastic",
+      "definition": "attacking cherished beliefs"
     },
     {
-      "word": "nonconformist"
+      "word": "nonconformist",
+      "definition": "rejecting norms"
     },
     {
-      "word": "Gluttonous"
+      "word": "Gluttonous",
+      "definition": "extremely greedy"
     },
     {
-      "word": "Impart"
+      "word": "Impart",
+      "definition": "communicate, transmit"
     },
     {
-      "word": "Impartial"
+      "word": "Impartial",
+      "definition": "unbiased"
     },
     {
-      "word": "Impaired"
+      "word": "Impaired",
+      "definition": "weakened, damaged"
     },
     {
-      "word": "Draconian"
+      "word": "Draconian",
+      "definition": "harshly severe"
     },
     {
-      "word": "Inundated"
+      "word": "Inundated",
+      "definition": "overwhelmed (esp. by water/work)"
     },
     {
-      "word": "unscrupulous"
+      "word": "unscrupulous",
+      "definition": "lacking moral principles"
     },
     {
-      "word": "Pejorative"
+      "word": "Pejorative",
+      "definition": "expressing disapproval"
     },
     {
-      "word": "Exquisite and delicate"
+      "word": "Exquisite and delicate",
+      "definition": "extremely refined and dainty"
     },
     {
-      "word": "Endorse"
+      "word": "Endorse",
+      "definition": "publicly support"
     },
     {
-      "word": "Console"
+      "word": "Console",
+      "definition": "comfort"
     },
     {
-      "word": "Commend"
+      "word": "Commend",
+      "definition": "praise formally"
     },
     {
-      "word": "Commendable"
+      "word": "Commendable",
+      "definition": "deserving praise"
     },
     {
-      "word": "Compelling"
+      "word": "Compelling",
+      "definition": "powerfully convincing"
     },
     {
-      "word": "Condone"
+      "word": "Condone",
+      "definition": "tolerate, overlook"
     },
     {
-      "word": "Condemn"
+      "word": "Condemn",
+      "definition": "denounce strongly"
     },
     {
-      "word": "remnan"
+      "word": "Remnant",
+      "definition": "leftover piece"
     },
     {
-      "word": "relict"
+      "word": "relict",
+      "definition": "surviving relic from past"
     },
     {
-      "word": "permeate"
+      "word": "permeate",
+      "definition": "spread through"
     },
     {
-      "word": "disseminate"
+      "word": "disseminate",
+      "definition": "spread widely"
     },
     {
-      "word": "paronym"
+      "word": "paronym",
+      "definition": "word from same root as another"
     },
     {
-      "word": "Disparage"
+      "word": "Disparage",
+      "definition": "speak slightingly of"
     },
     {
-      "word": "Villify"
+      "word": "Vilify",
+      "definition": "speak evil of"
     },
     {
-      "word": "Mackiavellian"
+      "word": "Machiavellian",
+      "definition": "cunning and unscrupulous"
     },
     {
       "word": "Nimble",
@@ -4314,1317 +5011,1752 @@
       "definition": "lacking style"
     },
     {
-      "word": "Finesse"
+      "word": "Finesse",
+      "definition": "skillful handling"
     },
     {
-      "word": "Finagle"
+      "word": "Finagle",
+      "definition": "obtain by trickery/cleverness"
     },
     {
-      "word": "Overzealousness"
+      "word": "Overzealousness",
+      "definition": "excessive zeal"
     },
     {
-      "word": "Nebulous"
+      "word": "Nebulous",
+      "definition": "vague, unclear"
     },
     {
-      "word": "Flippant"
+      "word": "Flippant",
+      "definition": "disrespectfully casual"
     },
     {
-      "word": "Odious"
+      "word": "Odious",
+      "definition": "hateful, repulsive"
     },
     {
-      "word": "Esoteric"
+      "word": "Esoteric",
+      "definition": "obscure; for insiders only"
     },
     {
-      "word": "Isotope"
+      "word": "Isotope",
+      "definition": "atom variant with different neutron count"
     },
     {
-      "word": "Isometric"
+      "word": "Isometric",
+      "definition": "of equal measure"
     },
     {
-      "word": "Isomorphic"
+      "word": "Isomorphic",
+      "definition": "having identical structure"
     },
     {
-      "word": "Clairvoyance"
+      "word": "Clairvoyance",
+      "definition": "ability to perceive beyond senses"
     },
     {
-      "word": "Celestial"
+      "word": "Celestial",
+      "definition": "of the sky/heavens"
     },
     {
-      "word": "Terrestrial"
+      "word": "Terrestrial",
+      "definition": "of the earth/land"
     },
     {
-      "word": "Nucleous"
+      "word": "Nucleus",
+      "definition": "central core"
     },
     {
-      "word": "Burning midnight oil"
+      "word": "Burning midnight oil",
+      "definition": "working late into the night"
     },
     {
-      "word": "Inadverently"
+      "word": "Inadvertently",
+      "definition": "unintentionally"
     },
     {
-      "word": "Inherently"
+      "word": "Inherently",
+      "definition": "in a fundamental way"
     },
     {
-      "word": "Onus"
+      "word": "Onus",
+      "definition": "burden of responsibility"
     },
     {
-      "word": "Egalitarian"
+      "word": "Egalitarian",
+      "definition": "believing in equality"
     },
     {
-      "word": "Planter"
+      "word": "Planter",
+      "definition": "container for plants; plantation owner"
     },
     {
-      "word": "Permeable"
+      "word": "Permeable",
+      "definition": "allowing passage through"
     },
     {
-      "word": "Apt"
+      "word": "Apt",
+      "definition": "fitting; quick to learn"
     },
     {
-      "word": "Inapt"
+      "word": "Inapt",
+      "definition": "unsuitable"
     },
     {
-      "word": "Intact"
+      "word": "Intact",
+      "definition": "whole, undamaged"
     },
     {
-      "word": "Inept"
+      "word": "Inept",
+      "definition": "incompetent"
     },
     {
-      "word": "Adept"
+      "word": "Adept",
+      "definition": "highly skilled"
     },
     {
-      "word": "Misnomer"
+      "word": "Misnomer",
+      "definition": "wrong/inaccurate name"
     },
     {
-      "word": "Vis-a-vis"
+      "word": "Vis-à-vis",
+      "definition": "in relation to"
     },
     {
-      "word": "Embezzle"
+      "word": "Embezzle",
+      "definition": "steal entrusted funds"
     },
     {
-      "word": "Obscure"
+      "word": "Obscure",
+      "definition": "hard to see/understand"
     },
     {
-      "word": "Abstruse"
+      "word": "Abstruse",
+      "definition": "difficult to understand"
     },
     {
-      "word": "Ornate"
+      "word": "Ornate",
+      "definition": "elaborately decorated"
     },
     {
-      "word": "Obfuscation"
+      "word": "Obfuscation",
+      "definition": "act of obscuring"
     },
     {
-      "word": "Obfuscate"
+      "word": "Obfuscate",
+      "definition": "make unclear"
     },
     {
-      "word": "Pipe Dream"
+      "word": "Pipe Dream",
+      "definition": "unrealistic hope"
     },
     {
-      "word": "Hedonistic"
+      "word": "Hedonistic",
+      "definition": "pleasure-seeking"
     },
     {
-      "word": "Trepidation"
+      "word": "Trepidation",
+      "definition": "fearful unease"
     },
     {
-      "word": "Assute"
+      "word": "Astute",
+      "definition": "shrewd"
     },
     {
-      "word": "Infallibale"
+      "word": "Infallible",
+      "definition": "incapable of error"
     },
     {
-      "word": "Hunkydoory"
+      "word": "Hunky-dory",
+      "definition": "fine, satisfactory"
     },
     {
-      "word": "Chain of custody"
+      "word": "Chain of custody",
+      "definition": "documented control over evidence"
     },
     {
-      "word": "Docile"
+      "word": "Docile",
+      "definition": "easily managed, submissive"
     },
     {
-      "word": "Capriciously"
+      "word": "Capriciously",
+      "definition": "on a sudden whim"
     },
     {
-      "word": "To do something on a whim"
+      "word": "To do something on a whim",
+      "definition": "act suddenly without planning"
     },
     {
-      "word": "Soothing"
+      "word": "Soothing",
+      "definition": "calming"
     },
     {
-      "word": "Ravenous"
+      "word": "Ravenous",
+      "definition": "extremely hungry"
     },
     {
-      "word": "Panache"
+      "word": "Panache",
+      "definition": "stylish self-confidence"
     },
     {
-      "word": "insurmountable"
+      "word": "insurmountable",
+      "definition": "impossible to overcome"
     },
     {
-      "word": "manspreading"
+      "word": "manspreading",
+      "definition": "men sitting with legs wide apart"
     },
     {
-      "word": "MacGyver"
+      "word": "MacGyver",
+      "definition": "improvise creative fixes (verb)"
     },
     {
-      "word": "Scrupulous"
+      "word": "Scrupulous",
+      "definition": "carefully thorough"
     },
     {
-      "word": "meticulous"
+      "word": "meticulous",
+      "definition": "extremely careful with detail"
     },
     {
-      "word": "Exoneration"
+      "word": "Exoneration",
+      "definition": "official clearing of guilt"
     },
     {
-      "word": "misonomer"
+      "word": "Misnomer",
+      "definition": "wrong name"
     },
     {
-      "word": "elucidate"
+      "word": "elucidate",
+      "definition": "make clear"
     },
     {
-      "word": "regurgitate"
+      "word": "regurgitate",
+      "definition": "vomit; repeat without thought"
     },
     {
-      "word": "fluke"
+      "word": "fluke",
+      "definition": "lucky chance"
     },
     {
-      "word": "Ferocious"
+      "word": "Ferocious",
+      "definition": "fierce, savage"
     },
     {
-      "word": "someone is full of it"
+      "word": "Someone is full of it",
+      "definition": "talking nonsense/lies"
     },
     {
-      "word": "Scour"
+      "word": "Scour",
+      "definition": "search thoroughly; clean by scrubbing"
     },
     {
-      "word": "Cathartic"
+      "word": "Cathartic",
+      "definition": "providing emotional release"
     },
     {
-      "word": "Corroborate"
+      "word": "Corroborate",
+      "definition": "confirm/support evidence"
     },
     {
-      "word": "Conjugate"
+      "word": "Conjugate",
+      "definition": "give all forms of a verb; pair (math)"
     },
     {
-      "word": "Aspersion"
+      "word": "Aspersion",
+      "definition": "damaging accusation"
     },
     {
-      "word": "Profusely"
+      "word": "Profusely",
+      "definition": "in great quantity"
     },
     {
-      "word": "Opulent"
+      "word": "Opulent",
+      "definition": "luxuriously wealthy"
     },
     {
-      "word": "Opulense"
+      "word": "Opulence",
+      "definition": "great wealth/luxury"
     },
     {
-      "word": "Imperious"
+      "word": "Imperious",
+      "definition": "domineeringly arrogant"
     },
     {
-      "word": "Overbear"
+      "word": "Overbear",
+      "definition": "dominate forcefully"
     },
     {
-      "word": "Bravado"
+      "word": "Bravado",
+      "definition": "swaggering boldness"
     },
     {
-      "word": "Elicit"
+      "word": "Elicit",
+      "definition": "draw out (a response)"
     },
     {
-      "word": "Vilification"
+      "word": "Vilification",
+      "definition": "act of slandering"
     },
     {
-      "word": "Clemency"
+      "word": "Clemency",
+      "definition": "mercy in punishment"
     },
     {
-      "word": "leniency"
+      "word": "leniency",
+      "definition": "mildness in punishment"
     },
     {
-      "word": "merit"
+      "word": "merit",
+      "definition": "deserved worth"
     },
     {
-      "word": "Uncanny"
+      "word": "Uncanny",
+      "definition": "strange, mysterious"
     },
     {
-      "word": "illicit"
+      "word": "illicit",
+      "definition": "illegal"
     },
     {
-      "word": "Bono fide"
+      "word": "Bona fide",
+      "definition": "genuine"
     },
     {
-      "word": "lukewarm"
+      "word": "lukewarm",
+      "definition": "tepid; unenthusiastic"
     },
     {
-      "word": "rapturous"
+      "word": "rapturous",
+      "definition": "ecstatically enthusiastic"
     },
     {
-      "word": "bucolic"
+      "word": "bucolic",
+      "definition": "rural and idyllic"
     },
     {
-      "word": "devoid"
+      "word": "devoid",
+      "definition": "completely lacking"
     },
     {
-      "word": "hermit"
+      "word": "hermit",
+      "definition": "recluse"
     },
     {
-      "word": "eponym"
+      "word": "eponym",
+      "definition": "name derived from a person"
     },
     {
-      "word": "cut bait"
+      "word": "cut bait",
+      "definition": "give up; cut fishing line"
     },
     {
-      "word": "fathom"
+      "word": "fathom",
+      "definition": "deeply understand; unit of depth"
     },
     {
-      "word": "infatuate- inspired hy passion"
+      "word": "Infatuate",
+      "definition": "inspired by intense passion"
     },
     {
-      "word": "macrocosm"
+      "word": "macrocosm",
+      "definition": "the great whole/universe"
     },
     {
-      "word": "milieu"
+      "word": "milieu",
+      "definition": "social environment"
     },
     {
-      "word": "animism"
+      "word": "animism",
+      "definition": "belief that all things have spirit"
     },
     {
-      "word": "conjure up"
+      "word": "conjure up",
+      "definition": "summon as if by magic"
     },
     {
-      "word": "aux pas"
+      "word": "Faux pas",
+      "definition": "social blunder"
     },
     {
-      "word": "obnoxious"
+      "word": "obnoxious",
+      "definition": "highly unpleasant"
     },
     {
-      "word": "contemptuous"
+      "word": "contemptuous",
+      "definition": "scornful"
     },
     {
-      "word": "pomposity"
+      "word": "pomposity",
+      "definition": "self-importance"
     },
     {
-      "word": "sententious"
+      "word": "sententious",
+      "definition": "moralizing; pithy"
     },
     {
-      "word": "Quasi"
+      "word": "Quasi",
+      "definition": "seemingly, almost"
     },
     {
-      "word": "Seminal"
+      "word": "Seminal",
+      "definition": "highly influential, original"
     },
     {
-      "word": "Obliterate"
+      "word": "Obliterate",
+      "definition": "wipe out completely"
     },
     {
-      "word": "Aversion"
+      "word": "Aversion",
+      "definition": "strong dislike"
     },
     {
-      "word": "Equanimity"
+      "word": "Equanimity",
+      "definition": "calmness under stress"
     },
     {
-      "word": "composure"
+      "word": "composure",
+      "definition": "calm self-possession"
     },
     {
-      "word": "Pandering"
+      "word": "Pandering",
+      "definition": "indulging others' base instincts"
     },
     {
-      "word": "Low on the totem pole"
+      "word": "Low on the totem pole",
+      "definition": "low in the hierarchy"
     },
     {
-      "word": "Euphony"
+      "word": "Euphony",
+      "definition": "pleasantness of sound"
     },
     {
-      "word": "Augmented"
+      "word": "Augmented",
+      "definition": "increased, supplemented"
     },
     {
-      "word": "Residual"
+      "word": "Residual",
+      "definition": "remaining after main part"
     },
     {
-      "word": "Buffer"
+      "word": "Buffer",
+      "definition": "cushion; temporary storage"
     },
     {
-      "word": "Avant grade"
+      "word": "Avant-garde",
+      "definition": "experimentally innovative"
     },
     {
-      "word": "Armageddon"
+      "word": "Armageddon",
+      "definition": "catastrophic end-of-world battle"
     },
     {
-      "word": "Conundrum"
+      "word": "Conundrum",
+      "definition": "confusing problem"
     },
     {
-      "word": "Riddle"
+      "word": "Riddle",
+      "definition": "puzzle to solve"
     },
     {
-      "word": "Rumination"
+      "word": "Rumination",
+      "definition": "deep brooding"
     },
     {
-      "word": "Compromised"
+      "word": "Compromised",
+      "definition": "weakened; security breached"
     },
     {
-      "word": "Sussinct"
+      "word": "Succinct",
+      "definition": "briefly clear"
     },
     {
-      "word": "Mimic"
+      "word": "Mimic",
+      "definition": "imitate"
     },
     {
-      "word": "Gimmick"
+      "word": "Gimmick",
+      "definition": "trick; cheap attention-grabber"
     },
     {
-      "word": "Mnemonic"
+      "word": "Mnemonic",
+      "definition": "memory aid"
     },
     {
-      "word": "Dichotomy"
+      "word": "Dichotomy",
+      "definition": "division into two opposed parts"
     },
     {
-      "word": "Appealing"
+      "word": "Appealing",
+      "definition": "attractive"
     },
     {
-      "word": "Outrageous"
+      "word": "Outrageous",
+      "definition": "shockingly excessive"
     },
     {
-      "word": "Raging"
+      "word": "Raging",
+      "definition": "violently angry; wildly intense"
     },
     {
-      "word": "Surge"
+      "word": "Surge",
+      "definition": "sudden rise"
     },
     {
-      "word": "gush"
+      "word": "gush",
+      "definition": "flow out forcefully"
     },
     {
-      "word": "overflow"
+      "word": "overflow",
+      "definition": "spill over the edge"
     },
     {
-      "word": "spurt"
+      "word": "spurt",
+      "definition": "shoot out in burst"
     },
     {
-      "word": "Spawn"
+      "word": "Spawn",
+      "definition": "produce/give rise to"
     },
     {
-      "word": "Spur"
+      "word": "Spur",
+      "definition": "trigger or motivate"
     },
     {
-      "word": "Sprout"
+      "word": "Sprout",
+      "definition": "begin to grow"
     },
     {
-      "word": "Hinder"
+      "word": "Hinder",
+      "definition": "create obstacles for"
     },
     {
-      "word": "hamper"
+      "word": "hamper",
+      "definition": "obstruct, slow"
     },
     {
-      "word": "obstruct"
+      "word": "obstruct",
+      "definition": "block, get in the way"
     },
     {
-      "word": "hindrance"
+      "word": "hindrance",
+      "definition": "obstacle"
     },
     {
-      "word": "Frenzy"
+      "word": "Frenzy",
+      "definition": "wild excitement"
     },
     {
-      "word": "Potent"
+      "word": "Potent",
+      "definition": "powerful"
     },
     {
-      "word": "Epistemology"
+      "word": "Epistemology",
+      "definition": "study of knowledge"
     },
     {
-      "word": "Juxtaposition"
+      "word": "Juxtaposition",
+      "definition": "side-by-side placement for contrast"
     },
     {
-      "word": "Intrinsic"
+      "word": "Intrinsic",
+      "definition": "essential, inherent"
     },
     {
-      "word": "Succinct"
+      "word": "Succinct",
+      "definition": "briefly clear"
     },
     {
-      "word": "Adapt"
+      "word": "Adapt",
+      "definition": "adjust to new conditions"
     },
     {
-      "word": "adopt"
+      "word": "adopt",
+      "definition": "take up; choose to use"
     },
     {
-      "word": "Getting bogged down"
+      "word": "Getting bogged down",
+      "definition": "stuck in trivial detail"
     },
     {
-      "word": "Stipulate"
+      "word": "Stipulate",
+      "definition": "specify as a condition"
     },
     {
-      "word": "Pinpoint"
+      "word": "Pinpoint",
+      "definition": "identify exactly"
     },
     {
-      "word": "Separate wheat from chaff"
+      "word": "Separate the wheat from the chaff",
+      "definition": "distinguish valuable from worthless"
     },
     {
-      "word": "Perplex"
+      "word": "Perplex",
+      "definition": "puzzle, confuse"
     },
     {
-      "word": "baffle"
+      "word": "baffle",
+      "definition": "thwart by being puzzling"
     },
     {
-      "word": "Perpetuate"
+      "word": "Perpetuate",
+      "definition": "make continue indefinitely"
     },
     {
-      "word": "Revelation"
+      "word": "Revelation",
+      "definition": "surprising disclosure"
     },
     {
-      "word": "Redemption"
+      "word": "Redemption",
+      "definition": "deliverance from sin/error"
     },
     {
-      "word": "Portmanteau"
+      "word": "Portmanteau",
+      "definition": "blend of two words"
     },
     {
-      "word": "Plea"
+      "word": "Plea",
+      "definition": "earnest request; legal answer"
     },
     {
-      "word": "Plead"
+      "word": "Plead",
+      "definition": "make an earnest request"
     },
     {
-      "word": "Pledge"
+      "word": "Pledge",
+      "definition": "solemn promise"
     },
     {
-      "word": "Unilateral"
+      "word": "Unilateral",
+      "definition": "one-sided"
     },
     {
-      "word": "Unambiguous"
+      "word": "Unambiguous",
+      "definition": "having only one meaning"
     },
     {
-      "word": "Pacifist"
+      "word": "Pacifist",
+      "definition": "person opposed to war"
     },
     {
-      "word": "dilettante"
+      "word": "dilettante",
+      "definition": "dabbler, amateur"
     },
     {
-      "word": "Summon"
+      "word": "Summon",
+      "definition": "call forth"
     },
     {
-      "word": "recon"
+      "word": "recon",
+      "definition": "scout out (informal); reconnaissance"
     },
     {
-      "word": "Compartmentalize"
+      "word": "Compartmentalize",
+      "definition": "divide into separate categories"
     },
     {
-      "word": "Antidote"
+      "word": "Antidote",
+      "definition": "remedy against poison/harm"
     },
     {
-      "word": "Motif"
+      "word": "Motif",
+      "definition": "recurring theme"
     },
     {
-      "word": "Sinister"
+      "word": "Sinister",
+      "definition": "evil, threatening"
     },
     {
-      "word": "Inhibit"
+      "word": "Inhibit",
+      "definition": "hold back, restrain"
     },
     {
       "word": "Impediment",
       "definition": "defect, hindrance"
     },
     {
-      "word": "Multifaceted"
+      "word": "Multifaceted",
+      "definition": "having many sides/aspects"
     },
     {
-      "word": "Apprehensive"
+      "word": "Apprehensive",
+      "definition": "anxious about the future"
     },
     {
-      "word": "Miniaturization"
+      "word": "Miniaturization",
+      "definition": "shrinking to small size"
     },
     {
-      "word": "Make do"
+      "word": "Make do",
+      "definition": "manage with what's available"
     },
     {
-      "word": "Blatant"
+      "word": "Blatant",
+      "definition": "openly obvious (often offensive)"
     },
     {
-      "word": "Flagrant"
+      "word": "Flagrant",
+      "definition": "shockingly obvious"
     },
     {
-      "word": "Flamboyant"
+      "word": "Flamboyant",
+      "definition": "showy and confident"
     },
     {
-      "word": "Plausible"
+      "word": "Plausible",
+      "definition": "believable"
     },
     {
-      "word": "Nitpicking"
+      "word": "Nitpicking",
+      "definition": "criticizing trivial details"
     },
     {
-      "word": "Complicit"
+      "word": "Complicit",
+      "definition": "involved in wrongdoing"
     },
     {
-      "word": "Complacency"
+      "word": "Complacency",
+      "definition": "smug self-satisfaction"
     },
     {
-      "word": "Extrapolate"
+      "word": "Extrapolate",
+      "definition": "extend known data into unknown"
     },
     {
-      "word": "Ubiquitous"
+      "word": "Ubiquitous",
+      "definition": "everywhere at once"
     },
     {
-      "word": "Lucid"
+      "word": "Lucid",
+      "definition": "clear-thinking"
     },
     {
-      "word": "Quirk"
+      "word": "Quirk",
+      "definition": "odd habit"
     },
     {
-      "word": "peculiar"
+      "word": "peculiar",
+      "definition": "strange, unusual"
     },
     {
-      "word": "Palpable"
+      "word": "Palpable",
+      "definition": "able to be felt; obvious"
     },
     {
-      "word": "Exert, excerpt"
+      "word": "Exert, excerpt",
+      "definition": "apply (force); short quoted passage"
     },
     {
-      "word": "Rapt"
+      "word": "Rapt",
+      "definition": "fully absorbed"
     },
     {
-      "word": "Hammock"
+      "word": "Hammock",
+      "definition": "hanging cloth bed"
     },
     {
-      "word": "Trump"
+      "word": "Trump",
+      "definition": "outdo, override"
     },
     {
-      "word": "Bestow"
+      "word": "Bestow",
+      "definition": "give as a gift"
     },
     {
-      "word": "Discerning"
+      "word": "Discerning",
+      "definition": "showing good judgment"
     },
     {
-      "word": "Immaculate"
+      "word": "Immaculate",
+      "definition": "perfectly clean"
     },
     {
-      "word": "Tame"
+      "word": "Tame",
+      "definition": "domesticate; subdued"
     },
     {
-      "word": "Imped"
+      "word": "Impede",
+      "definition": "obstruct"
     },
     {
-      "word": "A long haul"
+      "word": "A long haul",
+      "definition": "lengthy effort"
     },
     {
-      "word": "Pertain"
+      "word": "Pertain",
+      "definition": "be relevant to"
     },
     {
-      "word": "Visceral"
+      "word": "Visceral",
+      "definition": "felt deep inside; gut-level"
     },
     {
-      "word": "Umpteenth"
+      "word": "Umpteenth",
+      "definition": "very many; nth"
     },
     {
-      "word": "Galvanize"
+      "word": "Galvanize",
+      "definition": "stir into action"
     },
     {
-      "word": "Gnarly"
+      "word": "Gnarly",
+      "definition": "twisted; tough; cool (slang)"
     },
     {
-      "word": "Ephemeral"
+      "word": "Ephemeral",
+      "definition": "short-lived"
     },
     {
-      "word": "Transpire"
+      "word": "Transpire",
+      "definition": "happen, occur"
     },
     {
-      "word": "Transverse"
+      "word": "Transverse",
+      "definition": "lying across"
     },
     {
-      "word": "Traverse"
+      "word": "Traverse",
+      "definition": "travel across"
     },
     {
-      "word": "Translate"
+      "word": "Translate",
+      "definition": "convert between languages/forms"
     },
     {
-      "word": "project"
+      "word": "project",
+      "definition": "extend forward; cast onto"
     },
     {
-      "word": "interpolate"
+      "word": "interpolate",
+      "definition": "estimate value between known points"
     },
     {
-      "word": "Transmitting"
+      "word": "Transmitting",
+      "definition": "sending across"
     },
     {
-      "word": "transfusion"
+      "word": "transfusion",
+      "definition": "transfer of fluid/blood"
     },
     {
-      "word": "propogate"
+      "word": "Propagate",
+      "definition": "spread, multiply"
     },
     {
-      "word": "Transcribe"
+      "word": "Transcribe",
+      "definition": "write out a copy"
     },
     {
-      "word": "Transpose"
+      "word": "Transpose",
+      "definition": "swap order or position"
     },
     {
-      "word": "Transpile"
+      "word": "Transpile",
+      "definition": "translate code from one language to another"
     },
     {
-      "word": "polate"
+      "word": "polate",
+      "definition": "estimate within known range (interpolate)"
     },
     {
-      "word": "Repercussions"
+      "word": "Repercussions",
+      "definition": "consequences"
     },
     {
-      "word": "Adamant"
+      "word": "Adamant",
+      "definition": "stubbornly determined"
     },
     {
-      "word": "Inflection point"
+      "word": "Inflection point",
+      "definition": "moment of significant change"
     },
     {
-      "word": "Swashbuckling"
+      "word": "Swashbuckling",
+      "definition": "daringly adventurous"
     },
     {
-      "word": "Introspection"
+      "word": "Introspection",
+      "definition": "self-examination"
     },
     {
-      "word": "Rapport"
+      "word": "Rapport",
+      "definition": "harmonious connection"
     },
     {
-      "word": "Surmount"
+      "word": "Surmount",
+      "definition": "overcome"
     },
     {
-      "word": "Acumen"
+      "word": "Acumen",
+      "definition": "shrewd insight"
     },
     {
-      "word": "Discernment"
+      "word": "Discernment",
+      "definition": "good judgment"
     },
     {
-      "word": "Self-fulfilling prophecy"
+      "word": "Self-fulfilling prophecy",
+      "definition": "prediction that causes itself to come true"
     },
     {
-      "word": "Accentuate"
+      "word": "Accentuate",
+      "definition": "emphasize"
     },
     {
-      "word": "Extentuate"
+      "word": "Extenuate",
+      "definition": "lessen blame for"
     },
     {
-      "word": "Serendipity"
+      "word": "Serendipity",
+      "definition": "happy accident"
     },
     {
-      "word": "Mahogany"
+      "word": "Mahogany",
+      "definition": "rich dark wood"
     },
     {
-      "word": "Adulterate"
+      "word": "Adulterate",
+      "definition": "make impure by adding"
     },
     {
-      "word": "Disenfranchise"
+      "word": "Disenfranchise",
+      "definition": "deprive of rights"
     },
     {
-      "word": "Ruminating"
+      "word": "Ruminating",
+      "definition": "thinking deeply"
     },
     {
-      "word": "Eschew"
+      "word": "Eschew",
+      "definition": "deliberately avoid"
     },
     {
-      "word": "Flabbergast"
+      "word": "Flabbergast",
+      "definition": "astonish greatly"
     },
     {
-      "word": "Implicate"
+      "word": "Implicate",
+      "definition": "show involvement in wrongdoing"
     },
     {
-      "word": "Abject"
+      "word": "Abject",
+      "definition": "utterly miserable"
     },
     {
-      "word": "Reprehensible"
+      "word": "Reprehensible",
+      "definition": "deserving condemnation"
     },
     {
-      "word": "Repercussion"
+      "word": "Repercussion",
+      "definition": "consequence"
     },
     {
-      "word": "Preposterous"
+      "word": "Preposterous",
+      "definition": "absurd, ridiculous"
     },
     {
-      "word": "Holistic approach"
+      "word": "Holistic approach",
+      "definition": "treating the whole, not just parts"
     },
     {
-      "word": "Chivalry"
+      "word": "Chivalry",
+      "definition": "courteous gallantry"
     },
     {
-      "word": "We got a situation here"
+      "word": "We've got a situation here",
+      "definition": "we have a problem"
     },
     {
-      "word": "How we looking"
+      "word": "How are we looking",
+      "definition": "what is our status"
     },
     {
-      "word": "Getting hang of it"
+      "word": "Getting the hang of it",
+      "definition": "becoming skilled at"
     },
     {
-      "word": "Getting my head around of it"
+      "word": "Getting my head around it",
+      "definition": "starting to understand"
     },
     {
-      "word": "We don’t plan to fail, we fail to plan"
+      "word": "We don't plan to fail, we fail to plan",
+      "definition": "failure stems from lack of planning"
     },
     {
-      "word": "Pet peeve"
+      "word": "Pet peeve",
+      "definition": "minor recurring annoyance"
     },
     {
-      "word": "That’s actually not entirely terrible idea"
+      "word": "That's actually not an entirely terrible idea",
+      "definition": "grudging admission idea has merit"
     },
     {
-      "word": "Palpable tension"
+      "word": "Palpable tension",
+      "definition": "tension you can feel"
     },
     {
-      "word": "Low-key camaraderie"
+      "word": "Low-key camaraderie",
+      "definition": "subtle, understated friendship"
     },
     {
-      "word": "Oblivious"
+      "word": "Oblivious",
+      "definition": "unaware"
     },
     {
       "word": "Canny",
       "definition": "bic"
     },
     {
-      "word": "Incongruous"
+      "word": "Incongruous",
+      "definition": "out of place; not matching"
     },
     {
-      "word": "“Downplay your chances” banter"
+      "word": "\"Downplay your chances\" banter",
+      "definition": "joking by understating one's odds"
     },
     {
-      "word": "Moment of epiphany"
+      "word": "Moment of epiphany",
+      "definition": "instant of insight"
     },
     {
-      "word": "Come what may"
+      "word": "Come what may",
+      "definition": "whatever happens"
     },
     {
-      "word": "Horsing around"
+      "word": "Horsing around",
+      "definition": "playing around roughly"
     },
     {
-      "word": "Succumb"
+      "word": "Succumb",
+      "definition": "yield; die"
     },
     {
-      "word": "Heralds of his doom"
+      "word": "Heralds of his doom",
+      "definition": "signs announcing his ruin"
     },
     {
-      "word": "Age-old"
+      "word": "Age-old",
+      "definition": "very old, ancient"
     },
     {
-      "word": "Earnest young eyes"
+      "word": "Earnest young eyes",
+      "definition": "sincere youthful gaze"
     },
     {
-      "word": "Lucid and persuasive"
+      "word": "Lucid and persuasive",
+      "definition": "clear-headed and convincing"
     },
     {
-      "word": "Embalmer"
+      "word": "Embalmer",
+      "definition": "preparer of corpses"
     },
     {
-      "word": "Decay"
+      "word": "Decay",
+      "definition": "rot, breakdown"
     },
     {
-      "word": "Self-loathing"
+      "word": "Self-loathing",
+      "definition": "intense self-hatred"
     },
     {
-      "word": "Pupils"
+      "word": "Pupils",
+      "definition": "round openings of the eye; students"
     },
     {
-      "word": "Yank"
+      "word": "Yank",
+      "definition": "pull sharply"
     },
     {
-      "word": "Winking"
+      "word": "Winking",
+      "definition": "blinking one eye knowingly"
     },
     {
-      "word": "Bulging"
+      "word": "Bulging",
+      "definition": "swelling outward"
     },
     {
-      "word": "Recoil"
+      "word": "Recoil",
+      "definition": "shrink back in fear"
     },
     {
-      "word": "Fidgeting"
+      "word": "Fidgeting",
+      "definition": "making small restless movements"
     },
     {
-      "word": "Replicate"
+      "word": "Replicate",
+      "definition": "make an exact copy"
     },
     {
-      "word": "Consolation"
+      "word": "Consolation",
+      "definition": "comfort in disappointment"
     },
     {
-      "word": "Extenuating"
+      "word": "Extenuating",
+      "definition": "lessening blame"
     },
     {
-      "word": "Keen sense"
+      "word": "Keen sense",
+      "definition": "sharp awareness"
     },
     {
-      "word": "Having knack"
+      "word": "Have a knack",
+      "definition": "have a natural skill"
     },
     {
-      "word": "Proclivity"
+      "word": "Proclivity",
+      "definition": "natural inclination"
     },
     {
-      "word": "Negligible"
+      "word": "Negligible",
+      "definition": "too small to matter"
     },
     {
-      "word": "On par with"
+      "word": "On par with",
+      "definition": "equal to"
     },
     {
-      "word": "Rudimentary"
+      "word": "Rudimentary",
+      "definition": "basic, elementary"
     },
     {
-      "word": "Viz"
+      "word": "Viz",
+      "definition": "namely (abbreviation of videlicet)"
     },
     {
-      "word": "Notwithstanding"
+      "word": "Notwithstanding",
+      "definition": "despite"
     },
     {
-      "word": "Ramifications"
+      "word": "Ramifications",
+      "definition": "consequences"
     },
     {
-      "word": "Amber waves of green"
+      "word": "Amber waves of grain",
+      "definition": "iconic American landscape (from anthem)"
     },
     {
-      "word": "Lo and behold"
+      "word": "Lo and behold",
+      "definition": "behold suddenly!"
     },
     {
-      "word": "Rote learning"
+      "word": "Rote learning",
+      "definition": "memorizing without understanding"
     },
     {
-      "word": "Right on money"
+      "word": "Right on the money",
+      "definition": "exactly correct"
     },
     {
-      "word": "Glib"
+      "word": "Glib",
+      "definition": "fluent but insincere"
     },
     {
-      "word": "Curtail"
+      "word": "Curtail",
+      "definition": "cut short, reduce"
     },
     {
-      "word": "Gentry (дворянство)"
+      "word": "Gentry",
+      "definition": "landed upper class (дворянство)"
     },
     {
-      "word": "Crank it out"
+      "word": "Crank it out",
+      "definition": "produce quickly in volume"
     },
     {
-      "word": "Pertaining to"
+      "word": "Pertaining to",
+      "definition": "relating to"
     },
     {
-      "word": "Creme de la creme"
+      "word": "Crème de la crème",
+      "definition": "the very best"
     },
     {
-      "word": "Trichotomy"
+      "word": "Trichotomy",
+      "definition": "division into three parts"
     },
     {
-      "word": "Implication vs Implicature"
+      "word": "Implication vs implicature",
+      "definition": "logical entailment vs pragmatic inference"
     },
     {
-      "word": "Brain circuitry"
+      "word": "Brain circuitry",
+      "definition": "neural pathways"
     },
     {
-      "word": "Locavore craze"
+      "word": "Locavore craze",
+      "definition": "fad for locally grown food"
     },
     {
-      "word": "Strands"
+      "word": "Strands",
+      "definition": "thin strands; threads"
     },
     {
-      "word": "Punditry"
+      "word": "Punditry",
+      "definition": "expert commentary (often biased)"
     },
     {
-      "word": "Exogenous"
+      "word": "Exogenous",
+      "definition": "from outside the system"
     },
     {
-      "word": "Vengeance"
+      "word": "Vengeance",
+      "definition": "revenge"
     },
     {
-      "word": "Impel"
+      "word": "Impel",
+      "definition": "force into action"
     },
     {
-      "word": "Dunning-Kruger effect"
+      "word": "Dunning-Kruger effect",
+      "definition": "the unskilled overestimate themselves"
     },
     {
-      "word": "Lake Wobegon effect"
+      "word": "Lake Wobegon effect",
+      "definition": "everyone thinking they are above average"
     },
     {
-      "word": "Moot"
+      "word": "Moot",
+      "definition": "no longer relevant"
     },
     {
-      "word": "Slashing"
+      "word": "Slashing",
+      "definition": "cutting drastically"
     },
     {
-      "word": "Exasperation"
+      "word": "Exasperation",
+      "definition": "intense frustration"
     },
     {
-      "word": "Conducive"
+      "word": "Conducive",
+      "definition": "favorable to"
     },
     {
-      "word": "Belligerent"
+      "word": "Belligerent",
+      "definition": "aggressively hostile"
     },
     {
-      "word": "Debilitating"
+      "word": "Debilitating",
+      "definition": "weakening severely"
     },
     {
-      "word": "Dissident"
+      "word": "Dissident",
+      "definition": "person opposing official line"
     },
     {
-      "word": "Herectic"
+      "word": "Heretic",
+      "definition": "person who holds heretical views"
     },
     {
-      "word": "Nepotism"
+      "word": "Nepotism",
+      "definition": "favoritism toward relatives"
     },
     {
-      "word": "Bohemian"
+      "word": "Bohemian",
+      "definition": "unconventional artistic lifestyle"
     },
     {
-      "word": "Nihilism nihilist"
+      "word": "Nihilism nihilist",
+      "definition": "belief in nothing; one who holds it"
     },
     {
-      "word": "Anarchist"
+      "word": "Anarchist",
+      "definition": "person opposing all government"
     },
     {
-      "word": "Totalitarianism"
+      "word": "Totalitarianism",
+      "definition": "absolute state control over life"
     },
     {
-      "word": "Utilitarianism"
+      "word": "Utilitarianism",
+      "definition": "ethics of greatest good for the most"
     },
     {
-      "word": "Authoritarianism"
+      "word": "Authoritarianism",
+      "definition": "strict obedience to authority"
     },
     {
-      "word": "Avant-garde"
+      "word": "Avant-garde",
+      "definition": "experimentally innovative"
     },
     {
-      "word": "Dystopian"
+      "word": "Dystopian",
+      "definition": "of a nightmarish society"
     },
     {
-      "word": "utopian"
+      "word": "utopian",
+      "definition": "of an ideal society"
     },
     {
-      "word": "Antagonist"
+      "word": "Antagonist",
+      "definition": "opposing main character"
     },
     {
-      "word": "Protagonist"
+      "word": "Protagonist",
+      "definition": "main character"
     },
     {
-      "word": "Misogynist"
+      "word": "Misogynist",
+      "definition": "person who hates women"
     },
     {
-      "word": "Misanthropic"
+      "word": "Misanthropic",
+      "definition": "hating humankind"
     },
     {
-      "word": "Antisemitism"
+      "word": "Antisemitism",
+      "definition": "hostility toward Jews"
     },
     {
-      "word": "Puritanism"
+      "word": "Puritanism",
+      "definition": "strict moral self-discipline"
     },
     {
-      "word": "Hideous"
+      "word": "Hideous",
+      "definition": "extremely ugly"
     },
     {
-      "word": "Imbecile"
+      "word": "Imbecile",
+      "definition": "stupid person"
     },
     {
-      "word": "Celibacy"
+      "word": "Celibacy",
+      "definition": "abstaining from sex"
     },
     {
-      "word": "Sweet dread"
+      "word": "Sweet dread",
+      "definition": "pleasurable fear"
     },
     {
-      "word": "Menance"
+      "word": "Menace",
+      "definition": "threat"
     },
     {
-      "word": "Antipode"
+      "word": "Antipode",
+      "definition": "diametric opposite"
     },
     {
-      "word": "Benevolence"
+      "word": "Benevolence",
+      "definition": "kindness, goodwill"
     },
     {
-      "word": "Impede"
+      "word": "Impede",
+      "definition": "obstruct"
     },
     {
-      "word": "Reinvigorate"
+      "word": "Reinvigorate",
+      "definition": "give new energy to"
     },
     {
-      "word": "Revitalise"
+      "word": "Revitalise",
+      "definition": "give new life to"
     },
     {
-      "word": "contingency"
+      "word": "contingency",
+      "definition": "backup plan"
     },
     {
-      "word": "Self-inflicted"
+      "word": "Self-inflicted",
+      "definition": "caused by oneself"
     },
     {
-      "word": "Oronym"
+      "word": "Oronym",
+      "definition": "different words sounding alike (e.g. ice cream / I scream)"
     },
     {
-      "word": "Vehemently"
+      "word": "Vehemently",
+      "definition": "with strong feeling"
     },
     {
-      "word": "Wanton"
+      "word": "Wanton",
+      "definition": "deliberate and unrestrained"
     },
     {
-      "word": "Convex"
+      "word": "Convex",
+      "definition": "curving outward"
     },
     {
-      "word": "Vertex"
+      "word": "Vertex",
+      "definition": "highest point; corner of a shape"
     },
     {
-      "word": "Flex (inflection)"
+      "word": "Flex (inflection)",
+      "definition": "bend; pitch change in voice"
     },
     {
-      "word": "Protégé"
+      "word": "Protégé",
+      "definition": "person trained by a mentor"
     },
     {
-      "word": "Exoteric"
+      "word": "Exoteric",
+      "definition": "for outsiders; widely understandable"
     },
     {
-      "word": "Isom"
+      "word": "Iso-",
+      "definition": "prefix meaning equal/same"
     },
     {
-      "word": "Caught you off guard"
+      "word": "Caught you off guard",
+      "definition": "surprised when unprepared"
     },
     {
-      "word": "Caught up"
+      "word": "Caught up",
+      "definition": "fully occupied; entangled"
     },
     {
-      "word": "Life-altering"
+      "word": "Life-altering",
+      "definition": "permanently changing one's life"
     },
     {
-      "word": "Wiped out"
+      "word": "Wiped out",
+      "definition": "exhausted; eliminated"
     },
     {
-      "word": "Confusion and intrusion"
+      "word": "Confusion and intrusion",
+      "definition": "mix of being puzzled and intruded upon"
     },
     {
-      "word": "Stood up on date"
+      "word": "Stood up on a date",
+      "definition": "ditched on a date"
     },
     {
-      "word": "Work with me here"
+      "word": "Work with me here",
+      "definition": "please cooperate/follow my lead"
     },
     {
-      "word": "I see where you are coming from"
+      "word": "I see where you're coming from",
+      "definition": "I understand your viewpoint"
     },
     {
-      "word": "Brutal truth"
+      "word": "Brutal truth",
+      "definition": "harsh honesty"
     },
     {
-      "word": "I’ll tell Flat out"
+      "word": "I'll tell you flat out",
+      "definition": "say it bluntly"
     },
     {
-      "word": "Do me a solid"
+      "word": "Do me a solid",
+      "definition": "do me a favor"
     },
     {
-      "word": "Did the crime do the time"
+      "word": "Did the crime, do the time",
+      "definition": "face the consequences of one's actions"
     },
     {
-      "word": "Rain-check"
+      "word": "Rain-check",
+      "definition": "postpone for later"
     },
     {
-      "word": "Like that ever was up for a debate"
+      "word": "Like that was ever up for debate",
+      "definition": "obviously, no question"
     },
     {
-      "word": "Giving the benefit of doubt"
+      "word": "Giving the benefit of the doubt",
+      "definition": "trusting in absence of proof"
     },
     {
-      "word": "It’s time to make it right"
+      "word": "It's time to make it right",
+      "definition": "time to fix it"
     },
     {
-      "word": "Let’s settle this like men"
+      "word": "Let's settle this like men",
+      "definition": "resolve it directly"
     },
     {
-      "word": "History of doing well-intentioned wrong"
+      "word": "History of doing well-intentioned wrong",
+      "definition": "track record of harmful good intentions"
     },
     {
-      "word": "Join the club"
+      "word": "Join the club",
+      "definition": "you're not alone in that"
     },
     {
-      "word": "I could tag along"
+      "word": "I could tag along",
+      "definition": "I could come with you"
     },
     {
-      "word": "What’s the move here"
+      "word": "What's the move here",
+      "definition": "what should we do"
     },
     {
-      "word": "I said it, i meant it, I’m here to represent it!"
+      "word": "I said it, I meant it, I'm here to represent it",
+      "definition": "fully committed to my words"
     },
     {
-      "word": "What is the take away?"
+      "word": "What's the takeaway",
+      "definition": "what's the main lesson"
     },
     {
-      "word": "I gotta bounce"
+      "word": "I gotta bounce",
+      "definition": "I have to leave"
     },
     {
-      "word": "Orchestrated"
+      "word": "Orchestrated",
+      "definition": "carefully arranged behind the scenes"
     },
     {
-      "word": "Are anybody’s hands clean"
+      "word": "Are anybody's hands clean",
+      "definition": "is anyone truly innocent"
     },
     {
-      "word": "Carpe diem"
+      "word": "Carpe diem",
+      "definition": "seize the day"
     },
     {
-      "word": "We wanna go down dark alleys see what’s on the other side"
+      "word": "We wanna go down dark alleys to see what's on the other side",
+      "definition": "willingness to explore the unknown/risky"
     },
     {
-      "word": "Fake it till you make it"
+      "word": "Fake it till you make it",
+      "definition": "pretend competence until it becomes real"
     },
     {
-      "word": "Hit-a-wall"
+      "word": "Hit a wall",
+      "definition": "stop making progress"
     },
     {
-      "word": "Like a fine wine"
+      "word": "Like a fine wine",
+      "definition": "improving with age"
     },
     {
-      "word": "Working around the clock"
+      "word": "Working around the clock",
+      "definition": "working continuously"
     },
     {
-      "word": "Learn in a  step by step fashion"
+      "word": "Learn step by step",
+      "definition": "learn gradually in order"
     },
     {
-      "word": "My best bet would be"
+      "word": "My best bet would be",
+      "definition": "my safest choice would be"
     },
     {
-      "word": "You can rest assured"
+      "word": "You can rest assured",
+      "definition": "you can be confident"
     },
     {
-      "word": "By a good measure"
+      "word": "By a good measure",
+      "definition": "by a significant margin"
     },
     {
-      "word": "Sugar coating"
+      "word": "Sugar coating",
+      "definition": "softening unpleasant truths"
     },
     {
-      "word": "Handy dandy"
+      "word": "Handy dandy",
+      "definition": "useful and convenient"
     },
     {
-      "word": "It doesn’t do the justice"
+      "word": "It doesn't do it justice",
+      "definition": "fails to capture how good it is"
     },
     {
-      "word": "Scintillating"
+      "word": "Scintillating",
+      "definition": "sparkling, brilliant"
     },
     {
-      "word": "Heywire, erratic"
+      "word": "Haywire, erratic",
+      "definition": "out of control / unpredictable"
     },
     {
-      "word": "You’re putting me on the spot here"
+      "word": "You're putting me on the spot",
+      "definition": "forcing me to answer immediately"
     },
     {
-      "word": "Putting in sweatroom"
+      "word": "Putting in the sweat room",
+      "definition": "pressuring to confess/perform"
     },
     {
-      "word": "There’s no easy way to tell this, so I’ll just tell it"
+      "word": "There's no easy way to tell this, so I'll just tell it",
+      "definition": "blunt preface to bad news"
     },
     {
-      "word": "I’ll alert the media"
+      "word": "I'll alert the media",
+      "definition": "sarcastic 'big deal'"
     },
     {
-      "word": "Frown"
+      "word": "Frown",
+      "definition": "expression of displeasure with the brow"
     },
     {
-      "word": "Squint"
+      "word": "Squint",
+      "definition": "look with eyes partly closed"
     },
     {
-      "word": "Stakeout"
+      "word": "Stakeout",
+      "definition": "secret surveillance"
     },
     {
-      "word": "Fallout"
+      "word": "Fallout",
+      "definition": "negative aftermath"
     },
     {
-      "word": "Swat"
+      "word": "Swat",
+      "definition": "hit sharply; police strike team"
     },
     {
-      "word": "Lid"
+      "word": "Lid",
+      "definition": "cover; informal: limit"
     },
     {
-      "word": "Perpetual"
+      "word": "Perpetual",
+      "definition": "never-ending"
     },
     {
-      "word": "Let’s kick it old school"
+      "word": "Let's kick it old school",
+      "definition": "do it the traditional way"
     },
     {
-      "word": "Let him off the hook"
+      "word": "Let him off the hook",
+      "definition": "release from obligation/blame"
     },
     {
-      "word": "Flat Earther"
+      "word": "Flat Earther",
+      "definition": "person who denies the earth is round"
     },
     {
-      "word": "You know, I miss the time when I didn’t know what that was"
+      "word": "I miss the time when I didn't know what that was",
+      "definition": "wish I were still ignorant of that"
     },
     {
-      "word": "You like someone because and love despite"
+      "word": "You like someone because and love despite",
+      "definition": "liking is for traits, love is in spite of them"
     },
     {
-      "word": "Fruitcake"
+      "word": "Fruitcake",
+      "definition": "eccentric or crazy person; cake with fruit"
     },
     {
-      "word": "I’ll make it worth your while"
+      "word": "I'll make it worth your while",
+      "definition": "I'll reward your effort"
     },
     {
-      "word": "You know what this calls for?"
+      "word": "You know what this calls for?",
+      "definition": "this situation deserves something special"
     },
     {
-      "word": "Emotionally unavailable"
+      "word": "Emotionally unavailable",
+      "definition": "not open to romantic connection"
     },
     {
-      "word": "You are not a snack, you are whole meal"
+      "word": "You're not a snack, you're a whole meal",
+      "definition": "compliment: extremely attractive"
     },
     {
-      "word": "Without further due"
+      "word": "Without further ado",
+      "definition": "without more delay"
     },
     {
-      "word": "Set the mood"
+      "word": "Set the mood",
+      "definition": "create the atmosphere"
     },
     {
-      "word": "It’s gonna be lit"
+      "word": "It's gonna be lit",
+      "definition": "it'll be exciting"
     },
     {
-      "word": "Infuriating"
+      "word": "Infuriating",
+      "definition": "extremely irritating"
     },
     {
-      "word": "Have a go at it"
+      "word": "Have a go at it",
+      "definition": "give it a try"
     },
     {
-      "word": "Holly molly"
+      "word": "Holy moly",
+      "definition": "exclamation of surprise"
     },
     {
-      "word": "Morbid"
+      "word": "Morbid",
+      "definition": "gruesomely focused on death"
     },
     {
-      "word": "Perplexing"
+      "word": "Perplexing",
+      "definition": "deeply confusing"
     },
     {
-      "word": "Caveat"
+      "word": "Caveat",
+      "definition": "qualifying warning"
     },
     {
-      "word": "Heuristics"
+      "word": "Heuristics",
+      "definition": "rule of thumb; mental shortcut"
     },
     {
-      "word": "Setting agenda"
+      "word": "Setting the agenda",
+      "definition": "deciding what gets discussed"
     },
     {
-      "word": "First knee-jerk reaction"
+      "word": "First knee-jerk reaction",
+      "definition": "immediate reflexive response"
     },
     {
-      "word": "Rise and grind"
+      "word": "Rise and grind",
+      "definition": "wake up and get to work"
     },
     {
-      "word": "Zero sum game"
+      "word": "Zero sum game",
+      "definition": "one's gain equals another's loss"
     },
     {
-      "word": "All walks of life"
+      "word": "All walks of life",
+      "definition": "every kind of background"
     },
     {
-      "word": "Rage"
+      "word": "Rage",
+      "definition": "uncontrolled fury"
     },
     {
-      "word": "Idiosyncrasies"
+      "word": "Idiosyncrasies",
+      "definition": "personal quirks"
     },
     {
-      "word": "idiosyncratic"
+      "word": "idiosyncratic",
+      "definition": "characterized by personal quirks"
     },
     {
-      "word": "Peccadillos"
+      "word": "Peccadillos",
+      "definition": "minor faults"
     },
     {
-      "word": "Gizmos"
+      "word": "Gizmos",
+      "definition": "gadgets"
     },
     {
-      "word": "Formidable"
+      "word": "Formidable",
+      "definition": "inspiring fearful respect"
     },
     {
-      "word": "Reluctant"
+      "word": "Reluctant",
+      "definition": "unwilling"
     },
     {
-      "word": "Inexorably"
+      "word": "Inexorably",
+      "definition": "unstoppably"
     },
     {
-      "word": "Defying"
+      "word": "Defying",
+      "definition": "openly resisting"
     },
     {
-      "word": "Disperse"
+      "word": "Disperse",
+      "definition": "scatter, spread out"
     },
     {
-      "word": "Verklempt"
+      "word": "Verklempt",
+      "definition": "overcome with emotion"
     },
     {
-      "word": "Myriad"
+      "word": "Myriad",
+      "definition": "great variety"
     },
     {
-      "word": "Semiotic"
+      "word": "Semiotic",
+      "definition": "of signs and symbols"
     },
     {
-      "word": "Harbinger"
+      "word": "Harbinger",
+      "definition": "sign of something to come"
     }
   ]
 }
