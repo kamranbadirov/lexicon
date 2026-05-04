@@ -139,7 +139,60 @@
       color: var(--muted);
       cursor: pointer;
       outline: none;
+    }
+
+    .btn-shuffle {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: 100px;
+      padding: 0.55rem 1.2rem;
+      color: var(--muted);
+      cursor: pointer;
       margin-left: auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      transition: all 0.2s;
+    }
+
+    .btn-shuffle:hover {
+      background: var(--amber);
+      color: white;
+      border-color: var(--amber);
+      transform: translateY(-1px);
+    }
+
+    .btn-shuffle .shuffle-icon {
+      display: inline-block;
+      transition: transform 0.3s;
+    }
+
+    .btn-shuffle.spinning .shuffle-icon {
+      animation: iconSpin 0.75s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    @keyframes iconSpin {
+      from { transform: rotate(0); }
+      to   { transform: rotate(540deg); }
+    }
+
+    .quiz-shuffle-wrap {
+      transition: opacity 0.2s, transform 0.2s;
+    }
+
+    .quiz-shuffle-wrap.shuffling {
+      animation: quizFade 0.5s ease-in-out;
+    }
+
+    @keyframes quizFade {
+      0%   { opacity: 1; transform: scale(1); }
+      50%  { opacity: 0.2; transform: scale(0.96); }
+      100% { opacity: 1; transform: scale(1); }
     }
 
     /* ── PROGRESS ── */
@@ -174,6 +227,54 @@
       margin-bottom: 1.5rem;
     }
 
+    .card-shuffle {
+      position: relative;
+      width: 100%;
+      transform-style: preserve-3d;
+    }
+
+    .card-shuffle.shuffling {
+      animation: shuffleWobble 0.75s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    @keyframes shuffleWobble {
+      0%   { transform: scale(1)    rotate(0); }
+      25%  { transform: scale(0.94) rotate(-2.5deg) translateX(-10px); }
+      50%  { transform: scale(0.88) rotate(0); }
+      75%  { transform: scale(0.94) rotate(2.5deg)  translateX(10px); }
+      100% { transform: scale(1)    rotate(0); }
+    }
+
+    .shuffle-ghost {
+      position: absolute;
+      inset: 0;
+      min-height: 320px;
+      background: var(--ink);
+      border-radius: 20px;
+      box-shadow: 0 20px 60px rgba(26,18,8,0.2);
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .card-shuffle.shuffling .shuffle-ghost-1 {
+      animation: ghostFanLeft 0.75s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .card-shuffle.shuffling .shuffle-ghost-2 {
+      animation: ghostFanRight 0.75s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    @keyframes ghostFanLeft {
+      0%   { opacity: 0;   transform: translate(0,0)      rotate(0); }
+      45%  { opacity: 0.55; transform: translate(-58px,-12px) rotate(-9deg); }
+      100% { opacity: 0;   transform: translate(0,0)      rotate(0); }
+    }
+
+    @keyframes ghostFanRight {
+      0%   { opacity: 0;   transform: translate(0,0)     rotate(0); }
+      45%  { opacity: 0.55; transform: translate(58px,-12px) rotate(9deg); }
+      100% { opacity: 0;   transform: translate(0,0)     rotate(0); }
+    }
+
     .card-3d {
       position: relative;
       width: 100%;
@@ -181,6 +282,15 @@
       transform-style: preserve-3d;
       transition: transform 0.55s cubic-bezier(0.23, 1, 0.32, 1);
       cursor: pointer;
+    }
+
+    .card-3d.swap-in {
+      animation: swapIn 0.3s ease-out;
+    }
+
+    @keyframes swapIn {
+      from { opacity: 0.4; }
+      to   { opacity: 1; }
     }
 
     .card-3d.flipped { transform: rotateY(180deg); }
@@ -525,6 +635,9 @@
     <div class="mode-bar">
       <button class="mode-btn active" onclick="setMode('flashcard')">Flashcards</button>
       <button class="mode-btn" onclick="setMode('quiz')">Quiz</button>
+      <button class="btn-shuffle" id="shuffleBtn" onclick="shuffleDeck()" title="Shuffle (S)">
+        <span class="shuffle-icon">⇄</span> Shuffle
+      </button>
       <select class="filter-select" id="filterSelect" onchange="applyFilter()">
         <option value="">All words</option>
       </select>
@@ -545,16 +658,20 @@
     <!-- Flashcard -->
     <div id="flashcard-mode">
       <div class="card-scene">
-        <div class="card-3d" id="card3d" onclick="flipCard()">
-          <div class="card-face card-front">
-            <div class="card-hint">Click to reveal definition</div>
-            <div class="card-word" id="fc-word">—</div>
-            <div class="card-source-badge" id="fc-source"></div>
-          </div>
-          <div class="card-face card-back">
-            <div class="card-hint">Definition</div>
-            <div class="card-definition" id="fc-def"></div>
-            <div class="card-tags-wrap" id="fc-tags"></div>
+        <div class="card-shuffle" id="cardShuffle">
+          <div class="shuffle-ghost shuffle-ghost-1"></div>
+          <div class="shuffle-ghost shuffle-ghost-2"></div>
+          <div class="card-3d" id="card3d" onclick="flipCard()">
+            <div class="card-face card-front">
+              <div class="card-hint">Click to reveal definition</div>
+              <div class="card-word" id="fc-word">—</div>
+              <div class="card-source-badge" id="fc-source"></div>
+            </div>
+            <div class="card-face card-back">
+              <div class="card-hint">Definition</div>
+              <div class="card-definition" id="fc-def"></div>
+              <div class="card-tags-wrap" id="fc-tags"></div>
+            </div>
           </div>
         </div>
       </div>
@@ -570,12 +687,14 @@
 
     <!-- Quiz -->
     <div id="quiz-mode" style="display:none">
-      <div class="quiz-word" id="q-word">—</div>
-      <div class="quiz-prompt">Choose the correct definition</div>
-      <div class="quiz-options" id="q-options"></div>
-      <div class="quiz-feedback" id="q-feedback"></div>
-      <div style="display:flex;justify-content:center;margin-top:1rem;">
-        <button class="action-btn btn-next" id="q-next-btn" onclick="nextQuiz()" style="display:none">Next →</button>
+      <div class="quiz-shuffle-wrap" id="quizShuffleWrap">
+        <div class="quiz-word" id="q-word">—</div>
+        <div class="quiz-prompt">Choose the correct definition</div>
+        <div class="quiz-options" id="q-options"></div>
+        <div class="quiz-feedback" id="q-feedback"></div>
+        <div style="display:flex;justify-content:center;margin-top:1rem;">
+          <button class="action-btn btn-next" id="q-next-btn" onclick="nextQuiz()" style="display:none">Next →</button>
+        </div>
       </div>
     </div>
 
