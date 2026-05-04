@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lexicon — Word Gallery</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <a href="index.html" class="logo">Lexi<span>con</span></a>
+      <nav>
+        <a href="index.html" class="active">Gallery</a>
+        <a href="practice.html">Practice</a>
+      </nav>
+    </header>
+
+    <main>
+      <div class="toolbar">
+        <div class="toolbar-left">
+          <span class="view-label">View</span>
+          <div class="btn-group">
+            <button class="btn-pill active" onclick="setView('all')">
+              All
+            </button>
+            <button class="btn-pill" onclick="setView('theme')">
+              By Theme
+            </button>
+            <button class="btn-pill" onclick="setView('source')">
+              By Source
+            </button>
+          </div>
+
+          <div class="search-wrap">
+            <span class="search-icon">⌕</span>
+            <input
+              class="search-input"
+              type="text"
+              placeholder="Search words…"
+              oninput="filterWords(this.value)"
+              id="searchInput"
+            />
+          </div>
+        </div>
+
+        <div class="word-count">
+          <strong id="shown-count">0</strong> /
+          <span id="total-count">0</span> words
+        </div>
+      </div>
+
+      <!-- Source filter chips (shown in flat view) -->
+      <div class="source-legend" id="source-legend"></div>
+
+      <!-- Flat view -->
+      <div id="flat-view" class="active"></div>
+
+      <!-- Category view -->
+      <div id="category-view"></div>
+    </main>
+
+    <script>
+      let allWords = [];
+      let currentView = "all";
+      let activeSource = null;
+      let searchQuery = "";
+
+      async function loadWords() {
+        try {
+          const r = await fetch("words.json");
+          const data = await r.json();
+          allWords = data.words;
+          document.getElementById("total-count").textContent = allWords.length;
+          buildSourceLegend();
+          renderView();
+        } catch (e) {
+          document.getElementById("flat-view").innerHTML =
+            '<div class="empty-state"><p>Could not load words.json</p></div>';
+        }
+      }
+
+      function buildSourceLegend() {
+        const sources = [
+          ...new Set(allWords.filter((w) => w.source).map((w) => w.source)),
+        ];
+        const legend = document.getElementById("source-legend");
+        legend.innerHTML = `<span class="legend-label">Source</span>`;
+        const allChip = document.createElement("div");
+        allChip.className = "legend-item active";
+        allChip.textContent = "All";
+        allChip.onclick = () => {
+          activeSource = null;
+          setActiveChip(allChip);
+          renderView();
+        };
+        legend.appendChild(allChip);
+
+        sources.forEach((src) => {
+          const chip = document.createElement("div");
+          chip.className = "legend-item";
+          chip.textContent = src;
+          chip.onclick = () => {
+            activeSource = src;
+            setActiveChip(chip);
+            renderView();
+          };
+          legend.appendChild(chip);
+        });
+      }
+
+      function setActiveChip(el) {
+        document
+          .querySelectorAll(".legend-item")
+          .forEach((c) => c.classList.remove("active"));
+        el.classList.add("active");
+      }
+
+      function getFilteredWords() {
+        let words = allWords;
+        if (activeSource)
+          words = words.filter((w) => w.source === activeSource);
+        if (searchQuery) {
+          const q = searchQuery.toLowerCase();
+          words = words.filter(
+            (w) =>
+              w.word.toLowerCase().includes(q) ||
+              (w.definition || "").toLowerCase().includes(q) ||
+              (w.tags || []).some((t) => t.includes(q)),
+          );
+        }
+        return words;
+      }
+
+      function makeCard(w, idx) {
+        const card = document.createElement("div");
+        card.className = "word-card";
+        card.style.setProperty(
+          "--r",
+          `${(Math.random() * 8 - 4).toFixed(1)}deg`,
+        );
+        card.innerHTML = `
+    <div class="word-text">${w.word}</div>
+    ${w.source ? `<div class="word-source">${w.source}</div>` : ""}
+    ${w.definition ? `<div class="word-definition">${w.definition}</div>` : ""}
+    <div class="word-tags">${(w.tags || []).map((t) => `<span class="tag-chip">${t}</span>`).join("")}</div>
+  `;
+        card.addEventListener("click", () => {
+          const wasExpanded = card.classList.contains("expanded");
+          document
+            .querySelectorAll(".word-card.expanded")
+            .forEach((c) => c.classList.remove("expanded"));
+          if (!wasExpanded) card.classList.add("expanded");
+        });
+        return card;
+      }
+
+      function animateCards(container) {
+        const cards = container.querySelectorAll(".word-card");
+        cards.forEach((card, i) => {
+          card.classList.add("shuffling");
+          card.style.animationDelay = `${i * 18}ms`;
+          card.addEventListener(
+            "animationend",
+            () => card.classList.remove("shuffling"),
+            { once: true },
+          );
+        });
+      }
+
+      function renderFlat(words) {
+        const view = document.getElementById("flat-view");
+        view.innerHTML = "";
+        words.forEach((w, i) => view.appendChild(makeCard(w, i)));
+        document.getElementById("shown-count").textContent = words.length;
+        requestAnimationFrame(() => animateCards(view));
+      }
+
+      function renderByTheme(words) {
+        const view = document.getElementById("category-view");
+        view.innerHTML = "";
+
+        const themeMap = {};
+        words.forEach((w) => {
+          const tags = w.tags && w.tags.length ? w.tags : ["uncategorized"];
+          const primary = tags[0];
+          if (!themeMap[primary]) themeMap[primary] = [];
+          themeMap[primary].push(w);
+        });
+
+        const sorted = Object.entries(themeMap).sort(
+          (a, b) => b[1].length - a[1].length,
+        );
+        let total = 0;
+
+        sorted.forEach(([theme, ws]) => {
+          total += ws.length;
+          const section = document.createElement("div");
+          section.className = "category-section";
+          section.innerHTML = `
+      <div class="category-header">
+        <div class="category-title">${theme.charAt(0).toUpperCase() + theme.slice(1)}</div>
+        <div class="category-count">${ws.length}</div>
+        <div class="category-line"></div>
+      </div>
+    `;
+          const grid = document.createElement("div");
+          grid.style.cssText = "display:flex;flex-wrap:wrap;gap:0.6rem;";
+          ws.forEach((w, i) => grid.appendChild(makeCard(w, i)));
+          section.appendChild(grid);
+          view.appendChild(section);
+          requestAnimationFrame(() => animateCards(grid));
+        });
+
+        document.getElementById("shown-count").textContent = total;
+      }
+
+      function renderBySource(words) {
+        const view = document.getElementById("category-view");
+        view.innerHTML = "";
+
+        const srcMap = {};
+        words.forEach((w) => {
+          const src = w.source || "General";
+          if (!srcMap[src]) srcMap[src] = [];
+          srcMap[src].push(w);
+        });
+
+        const sorted = Object.entries(srcMap).sort(
+          (a, b) => b[1].length - a[1].length,
+        );
+        let total = 0;
+
+        sorted.forEach(([src, ws]) => {
+          total += ws.length;
+          const section = document.createElement("div");
+          section.className = "category-section";
+          section.innerHTML = `
+      <div class="category-header">
+        <div class="category-title">${src}</div>
+        <div class="category-count">${ws.length}</div>
+        <div class="category-line"></div>
+      </div>
+    `;
+          const grid = document.createElement("div");
+          grid.style.cssText = "display:flex;flex-wrap:wrap;gap:0.6rem;";
+          ws.forEach((w, i) => grid.appendChild(makeCard(w, i)));
+          section.appendChild(grid);
+          view.appendChild(section);
+          requestAnimationFrame(() => animateCards(grid));
+        });
+
+        document.getElementById("shown-count").textContent = total;
+      }
+
+      function renderView() {
+        const flat = document.getElementById("flat-view");
+        const cat = document.getElementById("category-view");
+        const legend = document.getElementById("source-legend");
+        const words = getFilteredWords();
+
+        flat.classList.remove("active");
+        cat.classList.remove("active");
+
+        if (currentView === "all") {
+          flat.classList.add("active");
+          legend.style.display = "flex";
+          renderFlat(words);
+        } else {
+          cat.classList.add("active");
+          legend.style.display = currentView === "source" ? "none" : "flex";
+          if (currentView === "theme") renderByTheme(words);
+          else renderBySource(words);
+        }
+      }
+
+      function setView(v) {
+        currentView = v;
+        document.querySelectorAll(".btn-pill").forEach((b, i) => {
+          b.classList.toggle("active", ["all", "theme", "source"][i] === v);
+        });
+        renderView();
+      }
+
+      function filterWords(q) {
+        searchQuery = q.trim();
+        renderView();
+      }
+
+      loadWords();
+    </script>
+  </body>
+</html>

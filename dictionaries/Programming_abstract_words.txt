@@ -1,0 +1,43 @@
+Control
+Dialog
+Contract
+Policy
+Protocol
+Construct (entity)
+Context 
+Environment 
+Runtime
+Resource
+State
+Process
+Device
+Driver
+Vehicle 
+Interface
+Service
+Manager 
+Pipeline
+Stream
+Lifecycle 
+Hooks
+Article
+Awaitable / Callable / Future / Promise  
+Async — the broad concept (anything non-blocking, own time)
+Concurrent — multiple things in progress at once (coroutines, threads)
+Parallel — multiple things literally running simultaneously (processes, multi-core)
+Multiprocessing is technically async, genuinely parallel, and concurrent all at once.
+Coroutines and Multithreading are async and concurrent but not truly parallel(threads in other languages can be parallel).
+Coroutine / threads / processes - how you do multiple things at once
+Concurrency / parallelism / multithreaded / multiprocess / multiprocessor / asynchronous / synchronous 
+
+Logical / Conceptual / Abstract / Representational
+Primitive, construct, mechanism, concept
+Primitive, scalar, value type, base, built-in type, immutable, atomic
+Aggregate type, composite type, derived type, reference type(object type), structured type, user-defined, mutable
+Firewall 
+Gateway interface
+Handler
+Socket
+Pipe
+Gateway
+Cursor

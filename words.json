@@ -1,0 +1,5630 @@
+{
+  "meta": {
+    "description": "Personal vocabulary dictionary — single source of truth. Edit this file and push to update the site.",
+    "version": "2.0",
+    "total": 1174,
+    "sources": [
+      "GEB",
+      "Power and Progress",
+      "Phraseology",
+      "Programming",
+      "Superlatives",
+      "Steve Jobs",
+      "Believing in Magic",
+      "General",
+      "To Kill a Mockingbird"
+    ],
+    "instructions": "word (required), definition (optional), source (optional), tags (optional array). '/' in original = synonyms split into separate entries. '-' = definition."
+  },
+  "words": [
+    {
+      "word": "Scrupulosity OCD",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Superstition",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Paranormal beliefs",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Mysticism",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Extraordinary beliefs",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Supernatural beliefs",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Bad magic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Good magic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Sympathetic magic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Contagious magic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Paranormal phenomena",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Contiguity",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Temporal contiguity",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Conditioning by coincidence",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Magical ideation",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Teetering",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Stilts",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Motley",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Hogwash",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Coy",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Swirly",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Denizen",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Gobble",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Gusto",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Paragon",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Off-the-wall",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Eerie",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Insidious",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Pervade",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Envisage",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Raison d’etre",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Sacrosanct",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Extemporize",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Bolt from the blue",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Frivolous",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Austerity",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Repugnant",
+      "definition": "abhorrent",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Bifurcation",
+      "definition": "division into two parts",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Hitherto",
+      "definition": "until now",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Stupefying",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Wispy",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Billows",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Gauntlet",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Rump",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Placate",
+      "definition": "calm",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Droll tales",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Ramble on, rattle off",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Evocative",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Swivel",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Recondite",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Edifice",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Unwieldy",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "To have a yen for",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Merriment",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Hankering",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Proffer",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Impetus",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Infatuation",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Resuscitate",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Meager",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Belaboring",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Cumulonimbus",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Epiphenomena",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Hither and thither",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Vernacular English",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Phrasal verb",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Phrasal",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Idiom",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Euphemism",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Colloquial",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Proverb",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Jargon",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Slang",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Lexicon",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Lingo",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Glossary",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Vocabulary",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Formulaic",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Collocations",
+      "source": "Phraseology",
+      "tags": [
+        "language",
+        "linguistics"
+      ]
+    },
+    {
+      "word": "Gestaly",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Inexorable",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Egregious",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Dexterity",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Demise",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Zeitgeist",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Incumbent",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Rectify",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Coercion",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Brunt",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Stifle",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Sanguine",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Precipice",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Avail",
+      "definition": "benefit",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Plight",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Matrimony",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Flounder",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Viceroy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Augur",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Portend",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Bevy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Undeterred",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Tepid",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Isthmus",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Corvee",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Pageantry",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Homage",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Folly",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Throes",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Unencumbered",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Decree",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Subjugation",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Horder",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Confer",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Nexus",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Repute",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Preclude",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Riddance",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Interloper",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Preordain",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "lip service",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Hubris",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Enfeeble",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Cacophony",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Engender",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Technocracy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Disdain",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Cede",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Overbearing",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Paucity",
+      "definition": "presence in small amount",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Acquiesce",
+      "definition": "accept reluctantly",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Emissary",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Excommunication",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Ecclesiastic",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Besieged",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Feckless",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Pendulum",
+      "definition": "маятник",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Contingent",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Expropriation",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Disconcerting",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Middling",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Square with",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Laggard",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Artificer",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Stratified",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Yeoman",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Marque",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Rogue",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Precarious",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Fleeting",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Arduous",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Apocryphal",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Suffrage",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Promulgate",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Sinecure",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Cesspool",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Burgeoning",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Sediment",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Fatuous",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Prescient",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Fringe",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Enfranchising",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Unravel",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Whammy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "About-face",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Squander",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Brownfields",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Greenfield",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Lathe",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Ominously",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Plutocracy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Incitement",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Pitchfork",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Inculcate",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Overhaul",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics",
+        "politics"
+      ]
+    },
+    {
+      "word": "Control",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Dialog",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Contract",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Policy",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Protocol",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Construct (entity)",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Context",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Environment",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Runtime",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Resource",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "State",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Process",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Device",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Driver",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Vehicle",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Interface",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Service",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Manager",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Pipeline",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Stream",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Lifecycle",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Hooks",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Article",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Awaitable",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Callable",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Future",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Promise",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Async — the broad concept (anything non-blocking, own time)",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Concurrent — multiple things in progress at once (coroutines, threads)",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Parallel — multiple things literally running simultaneously (processes, multi-core)",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Coroutine",
+      "definition": "how you do multiple things at once",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "threads",
+      "definition": "how you do multiple things at once",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "processes",
+      "definition": "how you do multiple things at once",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Concurrency",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "parallelism",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "multithreaded",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "multiprocess",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "multiprocessor",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "asynchronous",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "synchronous",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Logical",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Conceptual",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Abstract",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Representational",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Primitive, construct, mechanism, concept",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Primitive, scalar, value type, base, built-in type, immutable, atomic",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Aggregate type, composite type, derived type, reference type(object type), structured type, user-defined, mutable",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Firewall",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Gateway interface",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Handler",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Socket",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Pipe",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Gateway",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Cursor",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "A bat out of hell",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Admixture",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Spunky",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Shakedown",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "hue",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "exhort",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "extoall",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "matriculate",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Mercurial",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Self-effacing",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Prune",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Whip",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Redolent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Diciple",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Bulimic",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Burly",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Straightlaced",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Brashness",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Tooting",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Relish",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Lathered",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Aescetic",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Whiff",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Off-beat",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Savant",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Bristly",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Solicitous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Cajole",
+      "definition": "persuade",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Coaxing",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Impute",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Slipshod",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Impish",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Irrepressible",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Regent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Proselytizer",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Haberdashery",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Skunk works",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Destitute",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Ostentatious",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Enthrall",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Tenuous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Cherubic",
+      "definition": "young child prettiness",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Halo",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Pompous- self important",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Nab",
+      "definition": "catch",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Dissemble",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Pirouette",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Deftly",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Petulance",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Coda",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Bozo",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Wretch",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Goliath",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Cheeky",
+      "definition": "impudeent or irreverent in endearing",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Relegate",
+      "definition": "downgrade",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Silver lining",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Impetious",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Zinger",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Truism",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Callous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Memorabilia",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Quizzical",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Dreary",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Affront",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Toehold",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Relent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Repent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Gumption",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Amiably",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Ire",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Subvert",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Conciliatory",
+      "definition": "intented or likely to placate",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Curmudgeon",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Foible",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Surly",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Gregarious",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Austere",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Dismay",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Ornery",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Snooker",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Unassuming",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Pandemonium",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Heed",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Aloof",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Stymied",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Jeering",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Jarring",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Showdown",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Genesis",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Frisson",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Highfalutin",
+      "definition": "pompous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Insolvent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Tout",
+      "definition": "attempt to sell something",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Sport (verb)",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Sardonic",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Unconscionable",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Amends",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Exult",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Indictment",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Glom",
+      "definition": "steal",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Mull over",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Unadorned",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Anthology",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Vain",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Panoply",
+      "definition": "collection",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Accountrement",
+      "definition": "additional item",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Relinquish",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Impetuous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Inured",
+      "definition": "accustomed",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Morose",
+      "definition": "ill-tempered",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Emaciated",
+      "definition": "thin",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Lament",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Wistfully",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Writ",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Ante",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Magnum opus",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Sublime",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Eclipse",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Apex",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Pinnacle",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Epitome",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Epitomize",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Epic",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Epiphany",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Ethos",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Virtuous",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Impeccable",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Appalling",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "The be all, end all",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Pièce de résistance",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Tour de foce",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Coup de maître",
+      "source": "Superlatives",
+      "tags": [
+        "excellence",
+        "intensity"
+      ]
+    },
+    {
+      "word": "Scuppernong",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Surreptitious",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Coming of age",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Thaw",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Sill",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Edification",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Yonder",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Jiffy- moment",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Obstreperous",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Peril",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Foliage",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Meekly",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Philippic",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Propensity",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Scarlet",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Futility",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Uncouth",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Affluent",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Popped-the-whip",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Ambidextrous",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Unmitigated",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Temerity",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Hurling",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Pauper",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Furtive",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Indignant",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Sordid",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Naw",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Spurious",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Enunciate",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Persecution",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Mused",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Put in a pen",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Purloin",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Pageant",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Plunging",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Haint",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Stagger",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Pinion",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Scuffling",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Wheeze",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Boil-prone",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Telltale",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Creases",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Pester",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Lest",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Reprimand",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Jutting",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Scat",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Elude",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Amiable",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Acquiescence",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Shrew",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Erstwhile"
+    },
+    {
+      "word": "Vigor"
+    },
+    {
+      "word": "Astroturfing"
+    },
+    {
+      "word": "Stratify"
+    },
+    {
+      "word": "Laden"
+    },
+    {
+      "word": "Pontificate"
+    },
+    {
+      "word": "Buccaneer"
+    },
+    {
+      "word": "Earmaked"
+    },
+    {
+      "word": "Retribution"
+    },
+    {
+      "word": "Cargo culting"
+    },
+    {
+      "word": "Cognate"
+    },
+    {
+      "word": "Moratorium"
+    },
+    {
+      "word": "Watershd moment"
+    },
+    {
+      "word": "Anodyne"
+    },
+    {
+      "word": "Kerfuffle"
+    },
+    {
+      "word": "Mise en place",
+      "definition": "everyting ready"
+    },
+    {
+      "word": "Purgatory"
+    },
+    {
+      "word": "Recoinnaissance"
+    },
+    {
+      "word": "Volition"
+    },
+    {
+      "word": "Headway"
+    },
+    {
+      "word": "Derision"
+    },
+    {
+      "word": "Derisive"
+    },
+    {
+      "word": "Magnanimity"
+    },
+    {
+      "word": "Aeon"
+    },
+    {
+      "word": "Amor fati"
+    },
+    {
+      "word": "Compendium"
+    },
+    {
+      "word": "Manual"
+    },
+    {
+      "word": "Dubious"
+    },
+    {
+      "word": "Fads",
+      "definition": "craze"
+    },
+    {
+      "word": "Innocuous",
+      "definition": "harmless"
+    },
+    {
+      "word": "Heretic"
+    },
+    {
+      "word": "Contentment contention contingent infringement"
+    },
+    {
+      "word": "Stringent"
+    },
+    {
+      "word": "fringing"
+    },
+    {
+      "word": "Fiat, decree"
+    },
+    {
+      "word": "Apposite"
+    },
+    {
+      "word": "Superfluous"
+    },
+    {
+      "word": "Pious"
+    },
+    {
+      "word": "Ken"
+    },
+    {
+      "word": "Sundry"
+    },
+    {
+      "word": "Triumvirate"
+    },
+    {
+      "word": "Indomitable"
+    },
+    {
+      "word": "Trope"
+    },
+    {
+      "word": "Brash"
+    },
+    {
+      "word": "Avarice",
+      "definition": "extreme greed for wealth"
+    },
+    {
+      "word": "Figment",
+      "definition": "invention"
+    },
+    {
+      "word": "Consummate",
+      "definition": "complete"
+    },
+    {
+      "word": "Bilious",
+      "definition": "nausea"
+    },
+    {
+      "word": "Presto",
+      "definition": "quickly"
+    },
+    {
+      "word": "Pantheon",
+      "definition": "respected people"
+    },
+    {
+      "word": "Histrionic",
+      "definition": "hysterically dramatic"
+    },
+    {
+      "word": "Staunch"
+    },
+    {
+      "word": "Replete"
+    },
+    {
+      "word": "Bee’s knee and cat’s pajama"
+    },
+    {
+      "word": "Zealot"
+    },
+    {
+      "word": "Bullheaded"
+    },
+    {
+      "word": "pigheaded"
+    },
+    {
+      "word": "Dogged"
+    },
+    {
+      "word": "Doctrinaire"
+    },
+    {
+      "word": "Die-hard"
+    },
+    {
+      "word": "Hard-nosed"
+    },
+    {
+      "word": "Hard-lined"
+    },
+    {
+      "word": "Intransigent"
+    },
+    {
+      "word": "Je ne sequa"
+    },
+    {
+      "word": "Progenitor"
+    },
+    {
+      "word": "Apophenia"
+    },
+    {
+      "word": "Coax"
+    },
+    {
+      "word": "Cinch"
+    },
+    {
+      "word": "Nemesis"
+    },
+    {
+      "word": "Acolyte"
+    },
+    {
+      "word": "Precipitous"
+    },
+    {
+      "word": "nary a beergut"
+    },
+    {
+      "word": "Wax and wane"
+    },
+    {
+      "word": "Extol"
+    },
+    {
+      "word": "Undulate"
+    },
+    {
+      "word": "Fairweeather"
+    },
+    {
+      "word": "Washout"
+    },
+    {
+      "word": "Wryly"
+    },
+    {
+      "word": "Codicil"
+    },
+    {
+      "word": "Embodiment"
+    },
+    {
+      "word": "Manifest"
+    },
+    {
+      "word": "Embroidery"
+    },
+    {
+      "word": "Fraught"
+    },
+    {
+      "word": "Ruse"
+    },
+    {
+      "word": "Tantalizing"
+    },
+    {
+      "word": "Infatuate"
+    },
+    {
+      "word": "Astute"
+    },
+    {
+      "word": "Abominable lewdness"
+    },
+    {
+      "word": "Take a beat"
+    },
+    {
+      "word": "Rise to the occasion"
+    },
+    {
+      "word": "challenge"
+    },
+    {
+      "word": "Decorum"
+    },
+    {
+      "word": "Shunning"
+    },
+    {
+      "word": "Fly off the handle"
+    },
+    {
+      "word": "Ensue"
+    },
+    {
+      "word": "Vice"
+    },
+    {
+      "word": "Acclaim"
+    },
+    {
+      "word": "Detest"
+    },
+    {
+      "word": "Nefarious"
+    },
+    {
+      "word": "Impedus",
+      "definition": "thrust"
+    },
+    {
+      "word": "Rife"
+    },
+    {
+      "word": "Ridden"
+    },
+    {
+      "word": "Chaste"
+    },
+    {
+      "word": "Entwined"
+    },
+    {
+      "word": "Interwoven"
+    },
+    {
+      "word": "Interlaced"
+    },
+    {
+      "word": "Intertwined"
+    },
+    {
+      "word": "Interconnected"
+    },
+    {
+      "word": "Intermingled"
+    },
+    {
+      "word": "Twisted"
+    },
+    {
+      "word": "Tangled"
+    },
+    {
+      "word": "Knotted"
+    },
+    {
+      "word": "Woven"
+    },
+    {
+      "word": "Braided"
+    },
+    {
+      "word": "Enmeshed"
+    },
+    {
+      "word": "Weave"
+    },
+    {
+      "word": "Wrought"
+    },
+    {
+      "word": "Omniscient"
+    },
+    {
+      "word": "Omnipresent"
+    },
+    {
+      "word": "Contrive"
+    },
+    {
+      "word": "Contraption"
+    },
+    {
+      "word": "Remiss"
+    },
+    {
+      "word": "Concubine"
+    },
+    {
+      "word": "Virility"
+    },
+    {
+      "word": "Dexterously"
+    },
+    {
+      "word": "Salvage"
+    },
+    {
+      "word": "Percolate"
+    },
+    {
+      "word": "Genteel"
+    },
+    {
+      "word": "Lade"
+    },
+    {
+      "word": "Obsequious"
+    },
+    {
+      "word": "Servile"
+    },
+    {
+      "word": "Uncanny valley"
+    },
+    {
+      "word": "Prorogue"
+    },
+    {
+      "word": "Erethrel"
+    },
+    {
+      "word": "Predicament"
+    },
+    {
+      "word": "Auspicious"
+    },
+    {
+      "word": "Hive mind"
+    },
+    {
+      "word": "Deterrent"
+    },
+    {
+      "word": "Anathema"
+    },
+    {
+      "word": "Stealth"
+    },
+    {
+      "word": "Yore",
+      "definition": "in times of yore"
+    },
+    {
+      "word": "Eudaimonia"
+    },
+    {
+      "word": "Beacon"
+    },
+    {
+      "word": "Beckon"
+    },
+    {
+      "word": "Tapestry"
+    },
+    {
+      "word": "Meandering"
+    },
+    {
+      "word": "winding"
+    },
+    {
+      "word": "Enrapture"
+    },
+    {
+      "word": "Obtuse"
+    },
+    {
+      "word": "Grotesque"
+    },
+    {
+      "word": "Pursuant to"
+    },
+    {
+      "word": "Cursory"
+    },
+    {
+      "word": "Ilk"
+    },
+    {
+      "word": "Litigate"
+    },
+    {
+      "word": "Scruinity"
+    },
+    {
+      "word": "Pat-down"
+    },
+    {
+      "word": "Detainment"
+    },
+    {
+      "word": "Profiling"
+    },
+    {
+      "word": "Turmoil"
+    },
+    {
+      "word": "Upheaval"
+    },
+    {
+      "word": "Commotion"
+    },
+    {
+      "word": "Tumult"
+    },
+    {
+      "word": "Flummoxed",
+      "definition": "baffled"
+    },
+    {
+      "word": "Hypostasis"
+    },
+    {
+      "word": "Soliloquy"
+    },
+    {
+      "word": "Blasé"
+    },
+    {
+      "word": "Revealatory"
+    },
+    {
+      "word": "Upshot"
+    },
+    {
+      "word": "Prejorative"
+    },
+    {
+      "word": "Doozy"
+    },
+    {
+      "word": "Snazzy"
+    },
+    {
+      "word": "Flashy"
+    },
+    {
+      "word": "Conspicuously"
+    },
+    {
+      "word": "Ostentatiously"
+    },
+    {
+      "word": "Digerati"
+    },
+    {
+      "word": "Taunt"
+    },
+    {
+      "word": "Blunder"
+    },
+    {
+      "word": "Skimp"
+    },
+    {
+      "word": "Inconspicuous"
+    },
+    {
+      "word": "Presumptions"
+    },
+    {
+      "word": "Contempt"
+    },
+    {
+      "word": "Revere"
+    },
+    {
+      "word": "Pervaded"
+    },
+    {
+      "word": "Verbatim"
+    },
+    {
+      "word": "Alude to"
+    },
+    {
+      "word": "Rickety"
+    },
+    {
+      "word": "Hokum"
+    },
+    {
+      "word": "Nilly willy"
+    },
+    {
+      "word": "Nippy"
+    },
+    {
+      "word": "Abrasive"
+    },
+    {
+      "word": "Granular"
+    },
+    {
+      "word": "Ostensibly"
+    },
+    {
+      "word": "Eclectic"
+    },
+    {
+      "word": "Squabble"
+    },
+    {
+      "word": "Quarrel"
+    },
+    {
+      "word": "Beleaguered"
+    },
+    {
+      "word": "Elegy"
+    },
+    {
+      "word": "Defiance"
+    },
+    {
+      "word": "Elusive"
+    },
+    {
+      "word": "Inocious"
+    },
+    {
+      "word": "Ominous"
+    },
+    {
+      "word": "Liquidity"
+    },
+    {
+      "word": "Proliferation"
+    },
+    {
+      "word": "Thrashing"
+    },
+    {
+      "word": "Throttle"
+    },
+    {
+      "word": "Vindictive"
+    },
+    {
+      "word": "vengeful"
+    },
+    {
+      "word": "revengeful"
+    },
+    {
+      "word": "ill-disposed"
+    },
+    {
+      "word": "grudge-bearing"
+    },
+    {
+      "word": "unrelenting"
+    },
+    {
+      "word": "Rugged"
+    },
+    {
+      "word": "rough"
+    },
+    {
+      "word": "study"
+    },
+    {
+      "word": "Rigid"
+    },
+    {
+      "word": "stiff"
+    },
+    {
+      "word": "fixed"
+    },
+    {
+      "word": "narrow-minded"
+    },
+    {
+      "word": "intolerant"
+    },
+    {
+      "word": "unltra-conservative"
+    },
+    {
+      "word": "Hardliner"
+    },
+    {
+      "word": "diehard"
+    },
+    {
+      "word": "zelot"
+    },
+    {
+      "word": "dogmatis"
+    },
+    {
+      "word": "inflexibel"
+    },
+    {
+      "word": "unyielding"
+    },
+    {
+      "word": "Levy"
+    },
+    {
+      "word": "Off the cut"
+    },
+    {
+      "word": "ad lib"
+    },
+    {
+      "word": "One off"
+    },
+    {
+      "word": "Vigour"
+    },
+    {
+      "word": "Subdue"
+    },
+    {
+      "word": "Deplorable"
+    },
+    {
+      "word": "Bout"
+    },
+    {
+      "word": "Spree"
+    },
+    {
+      "word": "Dunning–Kruger effect"
+    },
+    {
+      "word": "Ambivalent"
+    },
+    {
+      "word": "Siege"
+    },
+    {
+      "word": "Prowess"
+    },
+    {
+      "word": "Luminary"
+    },
+    {
+      "word": "Dislodge"
+    },
+    {
+      "word": "Entrenched"
+    },
+    {
+      "word": "Invidious"
+    },
+    {
+      "word": "Cagey"
+    },
+    {
+      "word": "Facetious"
+    },
+    {
+      "word": "Factitious"
+    },
+    {
+      "word": "Posterity"
+    },
+    {
+      "word": "Stteped"
+    },
+    {
+      "word": "Enigmatic"
+    },
+    {
+      "word": "Tout, Pester, Flaunt, Hawk, Puff"
+    },
+    {
+      "word": "Onthology"
+    },
+    {
+      "word": "Medley"
+    },
+    {
+      "word": "Newfangled contraption"
+    },
+    {
+      "word": "Conceited"
+    },
+    {
+      "word": "Habeas corpus"
+    },
+    {
+      "word": "Dominion"
+    },
+    {
+      "word": "Confine"
+    },
+    {
+      "word": "Adage, saying, maxim, axiom, proverb, aphorism, saw, dictum, precept, epigram. epigraph, motto, truism, platitude, cliché, commonplace, words of wisdom, pearls of wisdom, expression, phrase, formula, slogan, quotation, apothegm, gnome"
+    },
+    {
+      "word": "Corral"
+    },
+    {
+      "word": "Preaching to the choir"
+    },
+    {
+      "word": "Maelstrom"
+    },
+    {
+      "word": "Aide-mèmoire"
+    },
+    {
+      "word": "Enchilada"
+    },
+    {
+      "word": "Precinct"
+    },
+    {
+      "word": "Whims"
+    },
+    {
+      "word": "Disparate"
+    },
+    {
+      "word": "To couch"
+    },
+    {
+      "word": "Playing possum"
+    },
+    {
+      "word": "Full bore"
+    },
+    {
+      "word": "Acrostic"
+    },
+    {
+      "word": "Catalyst"
+    },
+    {
+      "word": "Synergistic"
+    },
+    {
+      "word": "Plethora"
+    },
+    {
+      "word": "coalesce"
+    },
+    {
+      "word": "behemoth"
+    },
+    {
+      "word": "swarm"
+    },
+    {
+      "word": "swarth"
+    },
+    {
+      "word": "swathe"
+    },
+    {
+      "word": "Wrath"
+    },
+    {
+      "word": "Prairie"
+    },
+    {
+      "word": "Signal to noise ratio"
+    },
+    {
+      "word": "Dog-eared"
+    },
+    {
+      "word": "Voraciously"
+    },
+    {
+      "word": "Simultaneous"
+    },
+    {
+      "word": "Concurrent"
+    },
+    {
+      "word": "Rite of passage"
+    },
+    {
+      "word": "Run amok"
+    },
+    {
+      "word": "Infallible"
+    },
+    {
+      "word": "Wary"
+    },
+    {
+      "word": "To buck"
+    },
+    {
+      "word": "Smidgen"
+    },
+    {
+      "word": "Impervious"
+    },
+    {
+      "word": "Bogus"
+    },
+    {
+      "word": "Occult"
+    },
+    {
+      "word": "Osmosis"
+    },
+    {
+      "word": "palimpsest"
+    },
+    {
+      "word": "Iconoclastic"
+    },
+    {
+      "word": "nonconformist"
+    },
+    {
+      "word": "Gluttonous"
+    },
+    {
+      "word": "Impart"
+    },
+    {
+      "word": "Impartial"
+    },
+    {
+      "word": "Impaired"
+    },
+    {
+      "word": "Draconian"
+    },
+    {
+      "word": "Inundated"
+    },
+    {
+      "word": "unscrupulous"
+    },
+    {
+      "word": "Pejorative"
+    },
+    {
+      "word": "Exquisite and delicate"
+    },
+    {
+      "word": "Endorse"
+    },
+    {
+      "word": "Console"
+    },
+    {
+      "word": "Commend"
+    },
+    {
+      "word": "Commendable"
+    },
+    {
+      "word": "Compelling"
+    },
+    {
+      "word": "Condone"
+    },
+    {
+      "word": "Condemn"
+    },
+    {
+      "word": "remnan"
+    },
+    {
+      "word": "relict"
+    },
+    {
+      "word": "permeate"
+    },
+    {
+      "word": "disseminate"
+    },
+    {
+      "word": "paronym"
+    },
+    {
+      "word": "Disparage"
+    },
+    {
+      "word": "Villify"
+    },
+    {
+      "word": "Mackiavellian"
+    },
+    {
+      "word": "Nimble",
+      "definition": "fast, agile"
+    },
+    {
+      "word": "Prosaic",
+      "definition": "lacking style"
+    },
+    {
+      "word": "Finesse"
+    },
+    {
+      "word": "Finagle"
+    },
+    {
+      "word": "Overzealousness"
+    },
+    {
+      "word": "Nebulous"
+    },
+    {
+      "word": "Flippant"
+    },
+    {
+      "word": "Odious"
+    },
+    {
+      "word": "Esoteric"
+    },
+    {
+      "word": "Isotope"
+    },
+    {
+      "word": "Isometric"
+    },
+    {
+      "word": "Isomorphic"
+    },
+    {
+      "word": "Clairvoyance"
+    },
+    {
+      "word": "Celestial"
+    },
+    {
+      "word": "Terrestrial"
+    },
+    {
+      "word": "Nucleous"
+    },
+    {
+      "word": "Burning midnight oil"
+    },
+    {
+      "word": "Inadverently"
+    },
+    {
+      "word": "Inherently"
+    },
+    {
+      "word": "Onus"
+    },
+    {
+      "word": "Egalitarian"
+    },
+    {
+      "word": "Planter"
+    },
+    {
+      "word": "Permeable"
+    },
+    {
+      "word": "Apt"
+    },
+    {
+      "word": "Inapt"
+    },
+    {
+      "word": "Intact"
+    },
+    {
+      "word": "Inept"
+    },
+    {
+      "word": "Adept"
+    },
+    {
+      "word": "Misnomer"
+    },
+    {
+      "word": "Vis-a-vis"
+    },
+    {
+      "word": "Embezzle"
+    },
+    {
+      "word": "Obscure"
+    },
+    {
+      "word": "Abstruse"
+    },
+    {
+      "word": "Ornate"
+    },
+    {
+      "word": "Obfuscation"
+    },
+    {
+      "word": "Obfuscate"
+    },
+    {
+      "word": "Pipe Dream"
+    },
+    {
+      "word": "Hedonistic"
+    },
+    {
+      "word": "Trepidation"
+    },
+    {
+      "word": "Assute"
+    },
+    {
+      "word": "Infallibale"
+    },
+    {
+      "word": "Hunkydoory"
+    },
+    {
+      "word": "Chain of custody"
+    },
+    {
+      "word": "Docile"
+    },
+    {
+      "word": "Capriciously"
+    },
+    {
+      "word": "To do something on a whim"
+    },
+    {
+      "word": "Soothing"
+    },
+    {
+      "word": "Ravenous"
+    },
+    {
+      "word": "Panache"
+    },
+    {
+      "word": "insurmountable"
+    },
+    {
+      "word": "manspreading"
+    },
+    {
+      "word": "MacGyver"
+    },
+    {
+      "word": "Scrupulous"
+    },
+    {
+      "word": "meticulous"
+    },
+    {
+      "word": "Exoneration"
+    },
+    {
+      "word": "misonomer"
+    },
+    {
+      "word": "elucidate"
+    },
+    {
+      "word": "regurgitate"
+    },
+    {
+      "word": "fluke"
+    },
+    {
+      "word": "Ferocious"
+    },
+    {
+      "word": "someone is full of it"
+    },
+    {
+      "word": "Scour"
+    },
+    {
+      "word": "Cathartic"
+    },
+    {
+      "word": "Corroborate"
+    },
+    {
+      "word": "Conjugate"
+    },
+    {
+      "word": "Aspersion"
+    },
+    {
+      "word": "Profusely"
+    },
+    {
+      "word": "Opulent"
+    },
+    {
+      "word": "Opulense"
+    },
+    {
+      "word": "Imperious"
+    },
+    {
+      "word": "Overbear"
+    },
+    {
+      "word": "Bravado"
+    },
+    {
+      "word": "Elicit"
+    },
+    {
+      "word": "Vilification"
+    },
+    {
+      "word": "Clemency"
+    },
+    {
+      "word": "leniency"
+    },
+    {
+      "word": "merit"
+    },
+    {
+      "word": "Uncanny"
+    },
+    {
+      "word": "illicit"
+    },
+    {
+      "word": "Bono fide"
+    },
+    {
+      "word": "lukewarm"
+    },
+    {
+      "word": "rapturous"
+    },
+    {
+      "word": "bucolic"
+    },
+    {
+      "word": "devoid"
+    },
+    {
+      "word": "hermit"
+    },
+    {
+      "word": "eponym"
+    },
+    {
+      "word": "cut bait"
+    },
+    {
+      "word": "fathom"
+    },
+    {
+      "word": "infatuate- inspired hy passion"
+    },
+    {
+      "word": "macrocosm"
+    },
+    {
+      "word": "milieu"
+    },
+    {
+      "word": "animism"
+    },
+    {
+      "word": "conjure up"
+    },
+    {
+      "word": "aux pas"
+    },
+    {
+      "word": "obnoxious"
+    },
+    {
+      "word": "contemptuous"
+    },
+    {
+      "word": "pomposity"
+    },
+    {
+      "word": "sententious"
+    },
+    {
+      "word": "Quasi"
+    },
+    {
+      "word": "Seminal"
+    },
+    {
+      "word": "Obliterate"
+    },
+    {
+      "word": "Aversion"
+    },
+    {
+      "word": "Equanimity"
+    },
+    {
+      "word": "composure"
+    },
+    {
+      "word": "Pandering"
+    },
+    {
+      "word": "Low on the totem pole"
+    },
+    {
+      "word": "Euphony"
+    },
+    {
+      "word": "Augmented"
+    },
+    {
+      "word": "Residual"
+    },
+    {
+      "word": "Buffer"
+    },
+    {
+      "word": "Avant grade"
+    },
+    {
+      "word": "Armageddon"
+    },
+    {
+      "word": "Conundrum"
+    },
+    {
+      "word": "Riddle"
+    },
+    {
+      "word": "Rumination"
+    },
+    {
+      "word": "Compromised"
+    },
+    {
+      "word": "Sussinct"
+    },
+    {
+      "word": "Mimic"
+    },
+    {
+      "word": "Gimmick"
+    },
+    {
+      "word": "Mnemonic"
+    },
+    {
+      "word": "Dichotomy"
+    },
+    {
+      "word": "Appealing"
+    },
+    {
+      "word": "Outrageous"
+    },
+    {
+      "word": "Raging"
+    },
+    {
+      "word": "Surge"
+    },
+    {
+      "word": "gush"
+    },
+    {
+      "word": "overflow"
+    },
+    {
+      "word": "spurt"
+    },
+    {
+      "word": "Spawn"
+    },
+    {
+      "word": "Spur"
+    },
+    {
+      "word": "Sprout"
+    },
+    {
+      "word": "Hinder"
+    },
+    {
+      "word": "hamper"
+    },
+    {
+      "word": "obstruct"
+    },
+    {
+      "word": "hindrance"
+    },
+    {
+      "word": "Frenzy"
+    },
+    {
+      "word": "Potent"
+    },
+    {
+      "word": "Epistemology"
+    },
+    {
+      "word": "Juxtaposition"
+    },
+    {
+      "word": "Intrinsic"
+    },
+    {
+      "word": "Succinct"
+    },
+    {
+      "word": "Adapt"
+    },
+    {
+      "word": "adopt"
+    },
+    {
+      "word": "Getting bogged down"
+    },
+    {
+      "word": "Stipulate"
+    },
+    {
+      "word": "Pinpoint"
+    },
+    {
+      "word": "Separate wheat from chaff"
+    },
+    {
+      "word": "Perplex"
+    },
+    {
+      "word": "baffle"
+    },
+    {
+      "word": "Perpetuate"
+    },
+    {
+      "word": "Revelation"
+    },
+    {
+      "word": "Redemption"
+    },
+    {
+      "word": "Portmanteau"
+    },
+    {
+      "word": "Plea"
+    },
+    {
+      "word": "Plead"
+    },
+    {
+      "word": "Pledge"
+    },
+    {
+      "word": "Unilateral"
+    },
+    {
+      "word": "Unambiguous"
+    },
+    {
+      "word": "Pacifist"
+    },
+    {
+      "word": "dilettante"
+    },
+    {
+      "word": "Summon"
+    },
+    {
+      "word": "recon"
+    },
+    {
+      "word": "Compartmentalize"
+    },
+    {
+      "word": "Antidote"
+    },
+    {
+      "word": "Motif"
+    },
+    {
+      "word": "Sinister"
+    },
+    {
+      "word": "Inhibit"
+    },
+    {
+      "word": "Impediment",
+      "definition": "defect, hindrance"
+    },
+    {
+      "word": "Multifaceted"
+    },
+    {
+      "word": "Apprehensive"
+    },
+    {
+      "word": "Miniaturization"
+    },
+    {
+      "word": "Make do"
+    },
+    {
+      "word": "Blatant"
+    },
+    {
+      "word": "Flagrant"
+    },
+    {
+      "word": "Flamboyant"
+    },
+    {
+      "word": "Plausible"
+    },
+    {
+      "word": "Nitpicking"
+    },
+    {
+      "word": "Complicit"
+    },
+    {
+      "word": "Complacency"
+    },
+    {
+      "word": "Extrapolate"
+    },
+    {
+      "word": "Ubiquitous"
+    },
+    {
+      "word": "Lucid"
+    },
+    {
+      "word": "Quirk"
+    },
+    {
+      "word": "peculiar"
+    },
+    {
+      "word": "Palpable"
+    },
+    {
+      "word": "Exert, excerpt"
+    },
+    {
+      "word": "Rapt"
+    },
+    {
+      "word": "Hammock"
+    },
+    {
+      "word": "Trump"
+    },
+    {
+      "word": "Bestow"
+    },
+    {
+      "word": "Discerning"
+    },
+    {
+      "word": "Immaculate"
+    },
+    {
+      "word": "Tame"
+    },
+    {
+      "word": "Imped"
+    },
+    {
+      "word": "A long haul"
+    },
+    {
+      "word": "Pertain"
+    },
+    {
+      "word": "Visceral"
+    },
+    {
+      "word": "Umpteenth"
+    },
+    {
+      "word": "Galvanize"
+    },
+    {
+      "word": "Gnarly"
+    },
+    {
+      "word": "Ephemeral"
+    },
+    {
+      "word": "Transpire"
+    },
+    {
+      "word": "Transverse"
+    },
+    {
+      "word": "Traverse"
+    },
+    {
+      "word": "Translate"
+    },
+    {
+      "word": "project"
+    },
+    {
+      "word": "interpolate"
+    },
+    {
+      "word": "Transmitting"
+    },
+    {
+      "word": "transfusion"
+    },
+    {
+      "word": "propogate"
+    },
+    {
+      "word": "Transcribe"
+    },
+    {
+      "word": "Transpose"
+    },
+    {
+      "word": "Transpile"
+    },
+    {
+      "word": "polate"
+    },
+    {
+      "word": "Repercussions"
+    },
+    {
+      "word": "Adamant"
+    },
+    {
+      "word": "Inflection point"
+    },
+    {
+      "word": "Swashbuckling"
+    },
+    {
+      "word": "Introspection"
+    },
+    {
+      "word": "Rapport"
+    },
+    {
+      "word": "Surmount"
+    },
+    {
+      "word": "Acumen"
+    },
+    {
+      "word": "Discernment"
+    },
+    {
+      "word": "Self-fulfilling prophecy"
+    },
+    {
+      "word": "Accentuate"
+    },
+    {
+      "word": "Extentuate"
+    },
+    {
+      "word": "Serendipity"
+    },
+    {
+      "word": "Mahogany"
+    },
+    {
+      "word": "Adulterate"
+    },
+    {
+      "word": "Disenfranchise"
+    },
+    {
+      "word": "Ruminating"
+    },
+    {
+      "word": "Eschew"
+    },
+    {
+      "word": "Flabbergast"
+    },
+    {
+      "word": "Implicate"
+    },
+    {
+      "word": "Abject"
+    },
+    {
+      "word": "Reprehensible"
+    },
+    {
+      "word": "Repercussion"
+    },
+    {
+      "word": "Preposterous"
+    },
+    {
+      "word": "Holistic approach"
+    },
+    {
+      "word": "Chivalry"
+    },
+    {
+      "word": "We got a situation here"
+    },
+    {
+      "word": "How we looking"
+    },
+    {
+      "word": "Getting hang of it"
+    },
+    {
+      "word": "Getting my head around of it"
+    },
+    {
+      "word": "We don’t plan to fail, we fail to plan"
+    },
+    {
+      "word": "Pet peeve"
+    },
+    {
+      "word": "That’s actually not entirely terrible idea"
+    },
+    {
+      "word": "Palpable tension"
+    },
+    {
+      "word": "Low-key camaraderie"
+    },
+    {
+      "word": "Oblivious"
+    },
+    {
+      "word": "Canny",
+      "definition": "bic"
+    },
+    {
+      "word": "Incongruous"
+    },
+    {
+      "word": "“Downplay your chances” banter"
+    },
+    {
+      "word": "Moment of epiphany"
+    },
+    {
+      "word": "Come what may"
+    },
+    {
+      "word": "Horsing around"
+    },
+    {
+      "word": "Succumb"
+    },
+    {
+      "word": "Heralds of his doom"
+    },
+    {
+      "word": "Age-old"
+    },
+    {
+      "word": "Earnest young eyes"
+    },
+    {
+      "word": "Lucid and persuasive"
+    },
+    {
+      "word": "Embalmer"
+    },
+    {
+      "word": "Decay"
+    },
+    {
+      "word": "Self-loathing"
+    },
+    {
+      "word": "Pupils"
+    },
+    {
+      "word": "Yank"
+    },
+    {
+      "word": "Winking"
+    },
+    {
+      "word": "Bulging"
+    },
+    {
+      "word": "Recoil"
+    },
+    {
+      "word": "Fidgeting"
+    },
+    {
+      "word": "Replicate"
+    },
+    {
+      "word": "Consolation"
+    },
+    {
+      "word": "Extenuating"
+    },
+    {
+      "word": "Keen sense"
+    },
+    {
+      "word": "Having knack"
+    },
+    {
+      "word": "Proclivity"
+    },
+    {
+      "word": "Negligible"
+    },
+    {
+      "word": "On par with"
+    },
+    {
+      "word": "Rudimentary"
+    },
+    {
+      "word": "Viz"
+    },
+    {
+      "word": "Notwithstanding"
+    },
+    {
+      "word": "Ramifications"
+    },
+    {
+      "word": "Amber waves of green"
+    },
+    {
+      "word": "Lo and behold"
+    },
+    {
+      "word": "Rote learning"
+    },
+    {
+      "word": "Right on money"
+    },
+    {
+      "word": "Glib"
+    },
+    {
+      "word": "Curtail"
+    },
+    {
+      "word": "Gentry (дворянство)"
+    },
+    {
+      "word": "Crank it out"
+    },
+    {
+      "word": "Pertaining to"
+    },
+    {
+      "word": "Creme de la creme"
+    },
+    {
+      "word": "Trichotomy"
+    },
+    {
+      "word": "Implication vs Implicature"
+    },
+    {
+      "word": "Brain circuitry"
+    },
+    {
+      "word": "Locavore craze"
+    },
+    {
+      "word": "Strands"
+    },
+    {
+      "word": "Punditry"
+    },
+    {
+      "word": "Exogenous"
+    },
+    {
+      "word": "Vengeance"
+    },
+    {
+      "word": "Impel"
+    },
+    {
+      "word": "Dunning-Kruger effect"
+    },
+    {
+      "word": "Lake Wobegon effect"
+    },
+    {
+      "word": "Moot"
+    },
+    {
+      "word": "Slashing"
+    },
+    {
+      "word": "Exasperation"
+    },
+    {
+      "word": "Conducive"
+    },
+    {
+      "word": "Belligerent"
+    },
+    {
+      "word": "Debilitating"
+    },
+    {
+      "word": "Dissident"
+    },
+    {
+      "word": "Herectic"
+    },
+    {
+      "word": "Nepotism"
+    },
+    {
+      "word": "Bohemian"
+    },
+    {
+      "word": "Nihilism nihilist"
+    },
+    {
+      "word": "Anarchist"
+    },
+    {
+      "word": "Totalitarianism"
+    },
+    {
+      "word": "Utilitarianism"
+    },
+    {
+      "word": "Authoritarianism"
+    },
+    {
+      "word": "Avant-garde"
+    },
+    {
+      "word": "Dystopian"
+    },
+    {
+      "word": "utopian"
+    },
+    {
+      "word": "Antagonist"
+    },
+    {
+      "word": "Protagonist"
+    },
+    {
+      "word": "Misogynist"
+    },
+    {
+      "word": "Misanthropic"
+    },
+    {
+      "word": "Antisemitism"
+    },
+    {
+      "word": "Puritanism"
+    },
+    {
+      "word": "Hideous"
+    },
+    {
+      "word": "Imbecile"
+    },
+    {
+      "word": "Celibacy"
+    },
+    {
+      "word": "Sweet dread"
+    },
+    {
+      "word": "Menance"
+    },
+    {
+      "word": "Antipode"
+    },
+    {
+      "word": "Benevolence"
+    },
+    {
+      "word": "Impede"
+    },
+    {
+      "word": "Reinvigorate"
+    },
+    {
+      "word": "Revitalise"
+    },
+    {
+      "word": "contingency"
+    },
+    {
+      "word": "Self-inflicted"
+    },
+    {
+      "word": "Oronym"
+    },
+    {
+      "word": "Vehemently"
+    },
+    {
+      "word": "Wanton"
+    },
+    {
+      "word": "Convex"
+    },
+    {
+      "word": "Vertex"
+    },
+    {
+      "word": "Flex (inflection)"
+    },
+    {
+      "word": "Protégé"
+    },
+    {
+      "word": "Exoteric"
+    },
+    {
+      "word": "Isom"
+    },
+    {
+      "word": "Caught you off guard"
+    },
+    {
+      "word": "Caught up"
+    },
+    {
+      "word": "Life-altering"
+    },
+    {
+      "word": "Wiped out"
+    },
+    {
+      "word": "Confusion and intrusion"
+    },
+    {
+      "word": "Stood up on date"
+    },
+    {
+      "word": "Work with me here"
+    },
+    {
+      "word": "I see where you are coming from"
+    },
+    {
+      "word": "Brutal truth"
+    },
+    {
+      "word": "I’ll tell Flat out"
+    },
+    {
+      "word": "Do me a solid"
+    },
+    {
+      "word": "Did the crime do the time"
+    },
+    {
+      "word": "Rain-check"
+    },
+    {
+      "word": "Like that ever was up for a debate"
+    },
+    {
+      "word": "Giving the benefit of doubt"
+    },
+    {
+      "word": "It’s time to make it right"
+    },
+    {
+      "word": "Let’s settle this like men"
+    },
+    {
+      "word": "History of doing well-intentioned wrong"
+    },
+    {
+      "word": "Join the club"
+    },
+    {
+      "word": "I could tag along"
+    },
+    {
+      "word": "What’s the move here"
+    },
+    {
+      "word": "I said it, i meant it, I’m here to represent it!"
+    },
+    {
+      "word": "What is the take away?"
+    },
+    {
+      "word": "I gotta bounce"
+    },
+    {
+      "word": "Orchestrated"
+    },
+    {
+      "word": "Are anybody’s hands clean"
+    },
+    {
+      "word": "Carpe diem"
+    },
+    {
+      "word": "We wanna go down dark alleys see what’s on the other side"
+    },
+    {
+      "word": "Fake it till you make it"
+    },
+    {
+      "word": "Hit-a-wall"
+    },
+    {
+      "word": "Like a fine wine"
+    },
+    {
+      "word": "Working around the clock"
+    },
+    {
+      "word": "Learn in a  step by step fashion"
+    },
+    {
+      "word": "My best bet would be"
+    },
+    {
+      "word": "You can rest assured"
+    },
+    {
+      "word": "By a good measure"
+    },
+    {
+      "word": "Sugar coating"
+    },
+    {
+      "word": "Handy dandy"
+    },
+    {
+      "word": "It doesn’t do the justice"
+    },
+    {
+      "word": "Scintillating"
+    },
+    {
+      "word": "Heywire, erratic"
+    },
+    {
+      "word": "You’re putting me on the spot here"
+    },
+    {
+      "word": "Putting in sweatroom"
+    },
+    {
+      "word": "There’s no easy way to tell this, so I’ll just tell it"
+    },
+    {
+      "word": "I’ll alert the media"
+    },
+    {
+      "word": "Frown"
+    },
+    {
+      "word": "Squint"
+    },
+    {
+      "word": "Stakeout"
+    },
+    {
+      "word": "Fallout"
+    },
+    {
+      "word": "Swat"
+    },
+    {
+      "word": "Lid"
+    },
+    {
+      "word": "Perpetual"
+    },
+    {
+      "word": "Let’s kick it old school"
+    },
+    {
+      "word": "Let him off the hook"
+    },
+    {
+      "word": "Flat Earther"
+    },
+    {
+      "word": "You know, I miss the time when I didn’t know what that was"
+    },
+    {
+      "word": "You like someone because and love despite"
+    },
+    {
+      "word": "Fruitcake"
+    },
+    {
+      "word": "I’ll make it worth your while"
+    },
+    {
+      "word": "You know what this calls for?"
+    },
+    {
+      "word": "Emotionally unavailable"
+    },
+    {
+      "word": "You are not a snack, you are whole meal"
+    },
+    {
+      "word": "Without further due"
+    },
+    {
+      "word": "Set the mood"
+    },
+    {
+      "word": "It’s gonna be lit"
+    },
+    {
+      "word": "Infuriating"
+    },
+    {
+      "word": "Have a go at it"
+    },
+    {
+      "word": "Holly molly"
+    },
+    {
+      "word": "Morbid"
+    },
+    {
+      "word": "Perplexing"
+    },
+    {
+      "word": "Caveat"
+    },
+    {
+      "word": "Heuristics"
+    },
+    {
+      "word": "Setting agenda"
+    },
+    {
+      "word": "First knee-jerk reaction"
+    },
+    {
+      "word": "Rise and grind"
+    },
+    {
+      "word": "Zero sum game"
+    },
+    {
+      "word": "All walks of life"
+    },
+    {
+      "word": "Rage"
+    },
+    {
+      "word": "Idiosyncrasies"
+    },
+    {
+      "word": "idiosyncratic"
+    },
+    {
+      "word": "Peccadillos"
+    },
+    {
+      "word": "Gizmos"
+    },
+    {
+      "word": "Formidable"
+    },
+    {
+      "word": "Reluctant"
+    },
+    {
+      "word": "Inexorably"
+    },
+    {
+      "word": "Defying"
+    },
+    {
+      "word": "Disperse"
+    },
+    {
+      "word": "Verklempt"
+    },
+    {
+      "word": "Myriad"
+    },
+    {
+      "word": "Semiotic"
+    },
+    {
+      "word": "Harbinger"
+    }
+  ]
+}

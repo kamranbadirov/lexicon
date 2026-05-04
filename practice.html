@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lexicon — Practice</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink: #1a1208;
+      --paper: #f5f0e8;
+      --paper-dark: #ede6d6;
+      --cream: #faf7f2;
+      --amber: #c8832a;
+      --amber-light: #e8a84a;
+      --amber-pale: #f5dba8;
+      --rust: #9b3a1a;
+      --sage: #4a6741;
+      --slate: #445566;
+      --muted: #8a7d6a;
+      --border: rgba(26,18,8,0.12);
+      --shadow: 0 2px 12px rgba(26,18,8,0.08);
+      --shadow-hover: 0 8px 32px rgba(26,18,8,0.16);
+      --correct: #4a6741;
+      --wrong: #9b3a1a;
+    }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--cream);
+      color: var(--ink);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(245,240,232,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 60px;
+    }
+
+    .logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.4rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      text-decoration: none;
+    }
+
+    .logo span { color: var(--amber); }
+
+    nav { display: flex; gap: 0.25rem; }
+
+    nav a {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      text-decoration: none;
+      padding: 0.4rem 0.9rem;
+      border-radius: 100px;
+      transition: all 0.2s;
+    }
+
+    nav a:hover, nav a.active {
+      background: var(--amber);
+      color: white;
+    }
+
+    main {
+      position: relative;
+      z-index: 1;
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 2rem;
+    }
+
+    /* ── MODE SELECTOR ── */
+    .mode-bar {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 2.5rem;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .mode-btn {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.55rem 1.4rem;
+      border-radius: 100px;
+      border: 1px solid var(--border);
+      cursor: pointer;
+      background: var(--paper);
+      color: var(--muted);
+      transition: all 0.2s;
+    }
+
+    .mode-btn.active, .mode-btn:hover {
+      background: var(--ink);
+      color: var(--cream);
+      border-color: var(--ink);
+    }
+
+    .filter-select {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.06em;
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: 100px;
+      padding: 0.5rem 1rem;
+      color: var(--muted);
+      cursor: pointer;
+      outline: none;
+      margin-left: auto;
+    }
+
+    /* ── PROGRESS ── */
+    .progress-bar-wrap {
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: 100px;
+      height: 6px;
+      margin-bottom: 2rem;
+      overflow: hidden;
+    }
+
+    .progress-bar {
+      height: 100%;
+      background: linear-gradient(90deg, var(--amber), var(--amber-light));
+      border-radius: 100px;
+      transition: width 0.4s ease;
+    }
+
+    .progress-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.7rem;
+      color: var(--muted);
+      margin-bottom: 0.5rem;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    /* ── FLASHCARD ── */
+    .card-scene {
+      perspective: 1000px;
+      margin-bottom: 1.5rem;
+    }
+
+    .card-3d {
+      position: relative;
+      width: 100%;
+      min-height: 320px;
+      transform-style: preserve-3d;
+      transition: transform 0.55s cubic-bezier(0.23, 1, 0.32, 1);
+      cursor: pointer;
+    }
+
+    .card-3d.flipped { transform: rotateY(180deg); }
+
+    .card-face {
+      position: absolute;
+      inset: 0;
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      border-radius: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 3rem;
+      text-align: center;
+    }
+
+    .card-front {
+      background: var(--ink);
+      color: var(--cream);
+      box-shadow: 0 20px 60px rgba(26,18,8,0.2);
+    }
+
+    .card-back {
+      background: var(--paper);
+      color: var(--ink);
+      transform: rotateY(180deg);
+      box-shadow: 0 20px 60px rgba(26,18,8,0.1);
+      border: 1px solid var(--border);
+    }
+
+    .card-hint {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      opacity: 0.4;
+      margin-bottom: 1.5rem;
+    }
+
+    .card-word {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.8rem, 5vw, 3rem);
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.5rem;
+    }
+
+    .card-source-badge {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--amber-light);
+      margin-top: 0.5rem;
+    }
+
+    .card-definition {
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: var(--slate);
+      max-width: 480px;
+      margin-bottom: 1.5rem;
+    }
+
+    .card-tags-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      justify-content: center;
+    }
+
+    .card-tag {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.62rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      background: var(--amber-pale);
+      color: var(--amber);
+      border-radius: 100px;
+      padding: 0.2rem 0.65rem;
+    }
+
+    .no-def {
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+
+    /* ── FLASHCARD ACTIONS ── */
+    .flashcard-actions {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      margin-bottom: 1rem;
+    }
+
+    .action-btn {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.7rem 2rem;
+      border-radius: 100px;
+      border: none;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .btn-knew {
+      background: var(--correct);
+      color: white;
+    }
+
+    .btn-knew:hover { filter: brightness(1.15); transform: translateY(-1px); }
+
+    .btn-review {
+      background: var(--paper);
+      border: 1px solid var(--border);
+      color: var(--muted);
+    }
+
+    .btn-review:hover { border-color: var(--rust); color: var(--rust); }
+
+    .btn-next {
+      background: var(--ink);
+      color: var(--cream);
+    }
+
+    .btn-next:hover { filter: brightness(1.3); transform: translateY(-1px); }
+
+    .btn-flip {
+      background: var(--amber);
+      color: white;
+    }
+
+    .btn-flip:hover { filter: brightness(1.1); transform: translateY(-1px); }
+
+    .flip-hint {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      color: var(--muted);
+      text-align: center;
+      letter-spacing: 0.06em;
+    }
+
+    /* ── QUIZ MODE ── */
+    .quiz-word {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.8rem, 5vw, 2.8rem);
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 0.5rem;
+      letter-spacing: -0.02em;
+    }
+
+    .quiz-prompt {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--muted);
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    .quiz-options {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.75rem;
+    }
+
+    .quiz-option {
+      background: var(--paper);
+      border: 1.5px solid var(--border);
+      border-radius: 14px;
+      padding: 1.2rem 1.5rem;
+      font-size: 0.9rem;
+      line-height: 1.5;
+      cursor: pointer;
+      transition: all 0.18s;
+      text-align: left;
+      font-family: 'DM Sans', sans-serif;
+    }
+
+    .quiz-option:hover:not(:disabled) {
+      border-color: var(--amber);
+      background: white;
+      transform: translateY(-1px);
+    }
+
+    .quiz-option.correct {
+      background: #e8f5e3;
+      border-color: var(--correct);
+      color: var(--correct);
+    }
+
+    .quiz-option.wrong {
+      background: #fdf0ed;
+      border-color: var(--wrong);
+      color: var(--wrong);
+    }
+
+    .quiz-option:disabled { cursor: default; }
+
+    .quiz-feedback {
+      text-align: center;
+      margin: 1.5rem 0 0.5rem;
+      font-size: 1rem;
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      min-height: 1.5rem;
+      transition: opacity 0.3s;
+    }
+
+    .quiz-feedback.correct { color: var(--correct); }
+    .quiz-feedback.wrong { color: var(--wrong); }
+
+    /* ── RESULTS ── */
+    .results-screen {
+      display: none;
+      text-align: center;
+      padding: 3rem 2rem;
+    }
+
+    .results-screen.active { display: block; }
+
+    .results-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+
+    .results-sub {
+      color: var(--muted);
+      margin-bottom: 2rem;
+      font-size: 0.9rem;
+    }
+
+    .results-stat {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      background: var(--paper);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 1.5rem 2rem;
+      margin: 0 0.5rem 1rem;
+    }
+
+    .results-stat-num {
+      font-family: 'Playfair Display', serif;
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: var(--amber);
+    }
+
+    .results-stat-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .restart-btn {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.8rem 2.5rem;
+      border-radius: 100px;
+      border: none;
+      background: var(--ink);
+      color: var(--cream);
+      cursor: pointer;
+      margin-top: 1.5rem;
+      transition: all 0.2s;
+    }
+
+    .restart-btn:hover { filter: brightness(1.3); }
+
+    /* ── STREAK ── */
+    .streak-bar {
+      display: flex;
+      gap: 0.3rem;
+      justify-content: center;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .streak-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--paper-dark);
+      border: 1px solid var(--border);
+      transition: all 0.3s;
+    }
+
+    .streak-dot.correct { background: var(--correct); border-color: var(--correct); }
+    .streak-dot.wrong { background: var(--wrong); border-color: var(--wrong); }
+
+    /* ── LOADING ── */
+    .loading {
+      text-align: center;
+      padding: 4rem;
+      font-family: 'Playfair Display', serif;
+      font-style: italic;
+      color: var(--muted);
+    }
+
+    @media (max-width: 600px) {
+      .quiz-options { grid-template-columns: 1fr; }
+      .card-face { padding: 2rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <a href="index.html" class="logo">Lexi<span>con</span></a>
+  <nav>
+    <a href="index.html">Gallery</a>
+    <a href="practice.html" class="active">Practice</a>
+  </nav>
+</header>
+
+<main>
+  <div id="loading" class="loading">Loading your dictionary…</div>
+
+  <div id="app" style="display:none">
+    <!-- Mode + filter -->
+    <div class="mode-bar">
+      <button class="mode-btn active" onclick="setMode('flashcard')">Flashcards</button>
+      <button class="mode-btn" onclick="setMode('quiz')">Quiz</button>
+      <select class="filter-select" id="filterSelect" onchange="applyFilter()">
+        <option value="">All words</option>
+      </select>
+    </div>
+
+    <!-- Progress -->
+    <div class="progress-label">
+      <span id="prog-label">Card 1 of 0</span>
+      <span id="prog-score"></span>
+    </div>
+    <div class="progress-bar-wrap">
+      <div class="progress-bar" id="progress-bar" style="width:0%"></div>
+    </div>
+
+    <!-- Streak dots -->
+    <div class="streak-bar" id="streak-bar"></div>
+
+    <!-- Flashcard -->
+    <div id="flashcard-mode">
+      <div class="card-scene">
+        <div class="card-3d" id="card3d" onclick="flipCard()">
+          <div class="card-face card-front">
+            <div class="card-hint">Click to reveal definition</div>
+            <div class="card-word" id="fc-word">—</div>
+            <div class="card-source-badge" id="fc-source"></div>
+          </div>
+          <div class="card-face card-back">
+            <div class="card-hint">Definition</div>
+            <div class="card-definition" id="fc-def"></div>
+            <div class="card-tags-wrap" id="fc-tags"></div>
+          </div>
+        </div>
+      </div>
+      <div class="flashcard-actions" id="fc-actions-before">
+        <button class="action-btn btn-flip" onclick="flipCard()">Reveal ↓</button>
+      </div>
+      <div class="flashcard-actions" id="fc-actions-after" style="display:none">
+        <button class="action-btn btn-review" onclick="markCard(false)">Review again</button>
+        <button class="action-btn btn-knew" onclick="markCard(true)">Got it ✓</button>
+      </div>
+      <p class="flip-hint">Press <kbd>Space</kbd> to flip · <kbd>→</kbd> Got it · <kbd>←</kbd> Review</p>
+    </div>
+
+    <!-- Quiz -->
+    <div id="quiz-mode" style="display:none">
+      <div class="quiz-word" id="q-word">—</div>
+      <div class="quiz-prompt">Choose the correct definition</div>
+      <div class="quiz-options" id="q-options"></div>
+      <div class="quiz-feedback" id="q-feedback"></div>
+      <div style="display:flex;justify-content:center;margin-top:1rem;">
+        <button class="action-btn btn-next" id="q-next-btn" onclick="nextQuiz()" style="display:none">Next →</button>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div class="results-screen" id="results-screen">
+      <div class="results-title" id="res-title">Well done!</div>
+      <div class="results-sub" id="res-sub"></div>
+      <div>
+        <div class="results-stat">
+          <span class="results-stat-num" id="res-correct">0</span>
+          <span class="results-stat-label">Correct</span>
+        </div>
+        <div class="results-stat">
+          <span class="results-stat-num" id="res-total">0</span>
+          <span class="results-stat-label">Total</span>
+        </div>
+        <div class="results-stat">
+          <span class="results-stat-num" id="res-pct">0%</span>
+          <span class="results-stat-label">Score</span>
+        </div>
+      </div>
+      <div>
+        <button class="restart-btn" onclick="restart()">Practice again</button>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script>
+let allWords = [];
+let deck = [];
+let currentIndex = 0;
+let mode = 'flashcard';
+let isFlipped = false;
+let score = { correct: 0, wrong: 0 };
+let streakHistory = [];
+let reviewLater = [];
+
+async function loadWords() {
+  try {
+    const r = await fetch('words.json');
+    const data = await r.json();
+    allWords = data.words;
+    buildFilter();
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('app').style.display = 'block';
+    startSession();
+  } catch(e) {
+    document.getElementById('loading').textContent = 'Failed to load words.json';
+  }
+}
+
+function buildFilter() {
+  const sel = document.getElementById('filterSelect');
+  const sources = [...new Set(allWords.filter(w => w.source).map(w => w.source))];
+  sources.forEach(src => {
+    const opt = document.createElement('option');
+    opt.value = `source:${src}`;
+    opt.textContent = `📚 ${src}`;
+    sel.appendChild(opt);
+  });
+  const tags = [...new Set(allWords.flatMap(w => w.tags || []))].sort();
+  tags.forEach(tag => {
+    const opt = document.createElement('option');
+    opt.value = `tag:${tag}`;
+    opt.textContent = `🏷 ${tag}`;
+    sel.appendChild(opt);
+  });
+}
+
+function applyFilter() {
+  startSession();
+}
+
+function getFilteredDeck() {
+  const val = document.getElementById('filterSelect').value;
+  if (!val) return [...allWords];
+  if (val.startsWith('source:')) return allWords.filter(w => w.source === val.slice(7));
+  if (val.startsWith('tag:')) return allWords.filter(w => (w.tags||[]).includes(val.slice(4)));
+  return [...allWords];
+}
+
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function startSession() {
+  deck = shuffle(getFilteredDeck());
+  // Only use words with definitions for quiz, but all for flashcards
+  if (mode === 'quiz') deck = deck.filter(w => w.definition);
+  currentIndex = 0;
+  score = { correct: 0, wrong: 0 };
+  streakHistory = [];
+  reviewLater = [];
+  document.getElementById('results-screen').classList.remove('active');
+  document.getElementById('flashcard-mode').style.display = mode === 'flashcard' ? 'block' : 'none';
+  document.getElementById('quiz-mode').style.display = mode === 'quiz' ? 'block' : 'none';
+  updateStreak();
+  if (mode === 'flashcard') showFlashcard();
+  else showQuiz();
+}
+
+function setMode(m) {
+  mode = m;
+  document.querySelectorAll('.mode-btn').forEach((b, i) => {
+    b.classList.toggle('active', ['flashcard','quiz'][i] === m);
+  });
+  startSession();
+}
+
+/* ── PROGRESS ── */
+function updateProgress() {
+  const total = deck.length;
+  const pct = total ? (currentIndex / total) * 100 : 0;
+  document.getElementById('progress-bar').style.width = pct + '%';
+  document.getElementById('prog-label').textContent = `Card ${Math.min(currentIndex+1, total)} of ${total}`;
+  const s = score.correct + score.wrong;
+  document.getElementById('prog-score').textContent = s ? `${score.correct}/${s} correct` : '';
+}
+
+function updateStreak() {
+  const bar = document.getElementById('streak-bar');
+  bar.innerHTML = streakHistory.slice(-20).map(r =>
+    `<div class="streak-dot ${r}"></div>`
+  ).join('');
+}
+
+/* ── FLASHCARD ── */
+function showFlashcard() {
+  if (currentIndex >= deck.length) { showResults(); return; }
+  const w = deck[currentIndex];
+  document.getElementById('fc-word').textContent = w.word;
+  document.getElementById('fc-source').textContent = w.source || '';
+
+  const defEl = document.getElementById('fc-def');
+  if (w.definition) {
+    defEl.textContent = w.definition;
+    defEl.className = 'card-definition';
+  } else {
+    defEl.innerHTML = '<em class="no-def">No definition yet — add one to words.json!</em>';
+    defEl.className = 'card-definition';
+  }
+
+  document.getElementById('fc-tags').innerHTML = (w.tags || []).map(t =>
+    `<span class="card-tag">${t}</span>`).join('');
+
+  isFlipped = false;
+  const card = document.getElementById('card3d');
+  card.classList.remove('flipped');
+  document.getElementById('fc-actions-before').style.display = 'flex';
+  document.getElementById('fc-actions-after').style.display = 'none';
+  updateProgress();
+}
+
+function flipCard() {
+  isFlipped = !isFlipped;
+  document.getElementById('card3d').classList.toggle('flipped', isFlipped);
+  document.getElementById('fc-actions-before').style.display = isFlipped ? 'none' : 'flex';
+  document.getElementById('fc-actions-after').style.display = isFlipped ? 'flex' : 'none';
+}
+
+function markCard(knew) {
+  streakHistory.push(knew ? 'correct' : 'wrong');
+  if (knew) score.correct++;
+  else {
+    score.wrong++;
+    reviewLater.push(deck[currentIndex]);
+  }
+  updateStreak();
+  currentIndex++;
+  // If at end, append review-later cards
+  if (currentIndex >= deck.length && reviewLater.length > 0) {
+    const toReview = shuffle([...reviewLater]);
+    reviewLater = [];
+    deck = [...deck, ...toReview];
+  }
+  showFlashcard();
+}
+
+/* ── QUIZ ── */
+function showQuiz() {
+  if (currentIndex >= deck.length) { showResults(); return; }
+  const w = deck[currentIndex];
+  document.getElementById('q-word').textContent = w.word;
+  document.getElementById('q-feedback').textContent = '';
+  document.getElementById('q-feedback').className = 'quiz-feedback';
+  document.getElementById('q-next-btn').style.display = 'none';
+
+  // Get 3 wrong answers
+  const others = shuffle(allWords.filter(x => x !== w && x.definition)).slice(0, 3);
+  const choices = shuffle([w, ...others]);
+
+  const optDiv = document.getElementById('q-options');
+  optDiv.innerHTML = '';
+  choices.forEach(choice => {
+    const btn = document.createElement('button');
+    btn.className = 'quiz-option';
+    btn.textContent = choice.definition;
+    btn.onclick = () => checkAnswer(choice === w, btn, w.definition);
+    optDiv.appendChild(btn);
+  });
+
+  updateProgress();
+}
+
+function checkAnswer(correct, btn, correctDef) {
+  document.querySelectorAll('.quiz-option').forEach(b => {
+    b.disabled = true;
+    if (b.textContent === correctDef) b.classList.add('correct');
+  });
+
+  if (correct) {
+    btn.classList.add('correct');
+    document.getElementById('q-feedback').textContent = '✓ Correct!';
+    document.getElementById('q-feedback').className = 'quiz-feedback correct';
+    score.correct++;
+    streakHistory.push('correct');
+  } else {
+    btn.classList.add('wrong');
+    document.getElementById('q-feedback').textContent = '✗ Not quite — see green for the right answer.';
+    document.getElementById('q-feedback').className = 'quiz-feedback wrong';
+    score.wrong++;
+    streakHistory.push('wrong');
+    reviewLater.push(deck[currentIndex]);
+  }
+
+  updateStreak();
+  document.getElementById('q-next-btn').style.display = 'flex';
+}
+
+function nextQuiz() {
+  currentIndex++;
+  if (currentIndex >= deck.length && reviewLater.length > 0) {
+    const toReview = shuffle([...reviewLater]);
+    reviewLater = [];
+    deck = [...deck, ...toReview];
+  }
+  showQuiz();
+}
+
+/* ── RESULTS ── */
+function showResults() {
+  document.getElementById('flashcard-mode').style.display = 'none';
+  document.getElementById('quiz-mode').style.display = 'none';
+  const rs = document.getElementById('results-screen');
+  rs.classList.add('active');
+
+  const total = score.correct + score.wrong;
+  const pct = total ? Math.round((score.correct / total) * 100) : 0;
+
+  document.getElementById('res-correct').textContent = score.correct;
+  document.getElementById('res-total').textContent = total;
+  document.getElementById('res-pct').textContent = pct + '%';
+
+  let title = pct >= 80 ? 'Excellent work!' : pct >= 60 ? 'Good progress!' : 'Keep at it!';
+  document.getElementById('res-title').textContent = title;
+  document.getElementById('res-sub').textContent = `You completed ${total} card${total !== 1 ? 's' : ''} from your dictionary.`;
+}
+
+function restart() {
+  document.getElementById('results-screen').classList.remove('active');
+  document.getElementById('flashcard-mode').style.display = mode === 'flashcard' ? 'block' : 'none';
+  document.getElementById('quiz-mode').style.display = mode === 'quiz' ? 'block' : 'none';
+  startSession();
+}
+
+/* ── KEYBOARD ── */
+document.addEventListener('keydown', e => {
+  if (mode === 'flashcard') {
+    if (e.code === 'Space') { e.preventDefault(); flipCard(); }
+    if (e.code === 'ArrowRight' && isFlipped) markCard(true);
+    if (e.code === 'ArrowLeft' && isFlipped) markCard(false);
+  }
+  if (mode === 'quiz' && e.code === 'Enter') {
+    const btn = document.getElementById('q-next-btn');
+    if (btn.style.display !== 'none') nextQuiz();
+  }
+});
+
+loadWords();
+</script>
+</body>
+</html>

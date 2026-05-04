@@ -1,0 +1,8344 @@
+{
+  "meta": {
+    "description": "Personal vocabulary dictionary — single source of truth. Add new words here and push to update the site.",
+    "version": "1.0",
+    "total": 1098,
+    "instructions": "Each word needs: 'word' (required), 'definition' (optional), 'source' (optional), 'tags' (optional array). Push changes to update the site."
+  },
+  "words": [
+    {
+      "word": "Control",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Dialog",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Contract",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Policy",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Protocol",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Construct (entity)",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Context",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Environment",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Runtime",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Resource",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "State",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Process",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Device",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Driver",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Vehicle",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Interface",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Service",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Manager",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Pipeline",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Stream",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Lifecycle",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Hooks",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Article",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Awaitable / Callable / Future / Promise",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Async",
+      "definition": "the broad concept (anything non-blocking, own time)",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Concurrent",
+      "definition": "multiple things in progress at once (coroutines, threads)",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Parallel",
+      "definition": "multiple things literally running simultaneously (processes, multi-core)",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Coroutine / threads / processes",
+      "definition": "how you do multiple things at once",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Logical / Conceptual / Abstract / Representational",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Primitive, construct, mechanism, concept",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Primitive, scalar, value type, base, built-in type, immutable, atomic",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Aggregate type, composite type, derived type, reference type(object type), structured type, user-defined, mutable",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Firewall",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Gateway interface",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Handler",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Socket",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Pipe",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Gateway",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Cursor",
+      "source": "Abstract/Tech",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Teetering",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Stilts",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Motley",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Hogwash",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Coy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Swirly",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Denizen",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Gobble",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Gusto",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Paragon",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Off-the-wall",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Eerie",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Insidious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pervade",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Envisage",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Raison d’etre",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Sacrosanct",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Extemporize",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Bolt from the blue",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Frivolous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Austerity",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Repugnant",
+      "definition": "abhorrent",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Bifurcation",
+      "definition": "division into two parts",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Hitherto",
+      "definition": "until now",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Stupefying",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Wispy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Billows",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Gauntlet",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Rump",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Placate",
+      "definition": "calm",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Droll tales",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ramble on, rattle off",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Evocative",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Swivel",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Recondite",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Edifice",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Unwieldy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "To have a yen for",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Merriment",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Hankering",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Proffer",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Impetus",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Infatuation",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Resuscitate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Meager",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Belaboring",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Cumulonimbus",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Epiphenomena",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Erstwhile",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Vigor",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Astroturfing",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Stratify",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Laden",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pontificate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Buccaneer",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Earmaked",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Retribution",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Cargo culting",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Cognate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Moratorium",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Watershd moment",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Anodyne",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Kerfuffle",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Mise en place",
+      "definition": "everyting ready",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Purgatory",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Recoinnaissance",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Volition",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Headway",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Derision/Derisive",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Magnanimity",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Aeon",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Amor fati",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Compendium / Anthology / Epitome / Manual",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Dubious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Fads",
+      "definition": "craze",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Innocuous",
+      "definition": "harmless",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Heretic",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Contentment contention contingent infringement",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Stringent",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "fringing",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Fiat, decree",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Apposite",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Superfluous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ken",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Sundry",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Triumvirate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Indomitable",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Trope",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Brash",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Avarice",
+      "definition": "extreme greed for wealth",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Figment",
+      "definition": "invention",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Consummate",
+      "definition": "complete",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Bilious",
+      "definition": "nausea",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Presto",
+      "definition": "quickly",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pantheon",
+      "definition": "respected people",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Gregarious",
+      "definition": "friendly",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Histrionic",
+      "definition": "hysterically dramatic",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Staunch",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Replete",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Bee’s knee and cat’s pajama",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Zealot",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Bullheaded/pigheaded",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Dogged",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Doctrinaire",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Die-hard",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Hard-nosed",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Hard-lined",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Intransigent",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Je ne sequa",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Progenitor",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Apophenia",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Coax",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Cinch",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Nemesis",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Acolyte",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Precipitous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "nary a beergut",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Wax and wane",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Extol",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Undulate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Fairweeather",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Washout",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Wryly",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Codicil",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Embodiment",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Epitomize",
+      "definition": "symbolize",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Manifest",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Confer",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Embroidery",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Fraught",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ruse",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Tantalizing",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Infatuate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Astute",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Abominable lewdness",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Take a beat",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Rise to the occasion/challenge",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Decorum",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Shunning",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Fly off the handle",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ensue",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Vice",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Acclaim",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Detest",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Nefarious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Impedus",
+      "definition": "thrust",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Rife",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ridden",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Chaste",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Entwined",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Interwoven",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Interlaced",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Intertwined",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Interconnected",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Intermingled",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Twisted",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Tangled",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Knotted",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Woven",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Braided",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Enmeshed",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Weave",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Wrought",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Omniscient",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Omnipresent",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Contrive",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Contraption",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Remiss",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Concubine",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Virility",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Dexterously",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Salvage",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Percolate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Genteel",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Lade",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Obsequious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Servile",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Uncanny valley",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Prorogue",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Erethrel",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Predicament",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Auspicious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Hive mind",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Deterrent",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Anathema",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Stealth",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Yore",
+      "definition": "in times of yore",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Eudaimonia",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Beacon",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Beckon",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Tapestry",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Meandering/winding",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Enrapture",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Obtuse",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Precarious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Grotesque",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pursuant to",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Cursory",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ilk",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Litigate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Scruinity",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pat-down",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Detainment",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Profiling",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Turmoil",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Upheaval",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Commotion",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Tumult",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Flummoxed",
+      "definition": "baffled",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Hypostasis",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Soliloquy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Blasé",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Revealatory",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Upshot",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Prejorative",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Doozy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Snazzy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Flashy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Conspicuously",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ostentatiously",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Digerati",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Taunt",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Blunder",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Skimp",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Inconspicuous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Presumptions",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Contempt",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Revere",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Cesspool",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pervaded",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Verbatim",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Alude to",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Rickety",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Indictment",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Hokum",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Nilly willy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Nippy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Abrasive",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Granular",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ostensibly",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Eclectic",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Squabble",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Quarrel",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Beleaguered",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Elegy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Defiance",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Elusive",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Inocious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ominous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Liquidity",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Proliferation",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Thrashing",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Throttle",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Rugged / rough / study",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Levy",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Off the cut / ad lib",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "One off",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Cacophony",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Vigour",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Subdue",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Deplorable",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Bout",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Spree",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Dunning–Kruger effect",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ambivalent",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Siege",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Prowess",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Luminary",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Dislodge",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Entrenched",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Invidious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Cagey",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Facetious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Factitious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Posterity",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Stteped",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Enigmatic",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Tout, Pester, Flaunt, Hawk, Puff",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Anthology",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Onthology",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Medley",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Newfangled contraption",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Vain",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Conceited",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Habeas corpus",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Dominion",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Confine",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Corral",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Preaching to the choir",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Heed",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Maelstrom",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Aide-mèmoire",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Enchilada",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Precinct",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Whims",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Disparate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "To couch",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Playing possum",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Full bore",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Acrostic",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Catalyst",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Synergistic",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Plethora",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "coalesce",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "behemoth",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "swarm",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "swarth",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "swathe",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Wrath",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Prairie",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Signal to noise ratio",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Dog-eared",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Voraciously",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Simultaneous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Synchronous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Asynchronous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Parallelism",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Rite of passage",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Run amok",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Infallible",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Wary",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "To buck",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Smidgen",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Impervious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Bogus",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Occult",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Osmosis",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "palimpsest",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Iconoclastic",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "nonconformist",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Gluttonous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Impart",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Impartial",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Impaired",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Draconian",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Inundated",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "unscrupulous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pejorative",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Magnum opus",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Sublime",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Eclipse",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Apex",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pinnacle",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Epitome",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Epic",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Epiphany",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Ethos",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Euphemism",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Virtuous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Impeccable",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Appalling",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "The be all, end all",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Pièce de résistance",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Tour de foce",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Coup de maître",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Exquisite and delicate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Endorse",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Console",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Commend",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Commendable",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Compelling",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Condone",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Condemn",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "remnan",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "relict",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "permeate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "disseminate",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "subvert",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "paronym",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Disparage",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Villify",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Mackiavellian",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Nimble",
+      "definition": "fast, agile",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Prosaic",
+      "definition": "lacking style",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Finesse",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Finagle",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Overzealousness",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Nebulous",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Flippant",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Odious",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Esoteric",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Isotope",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Isometric",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Isomorphic",
+      "source": "GEB",
+      "tags": [
+        "literature"
+      ]
+    },
+    {
+      "word": "Scuppernong",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Surreptitious",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Coming of age",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Thaw",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Sill",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Edification",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Yonder",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Jiffy- moment",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Obstreperous",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Peril",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Foliage",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Meekly",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Philippic",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Propensity",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Scarlet",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Futility",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Uncouth",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Affluent",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Popped-the-whip",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Ambidextrous",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Unmitigated",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Temerity",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Hurling",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Pauper",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Furtive",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Indignant",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Sordid",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Naw",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Spurious",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Enunciate",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Persecution",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Mused",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Put in a pen",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Purloin",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Pageant",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Plunging",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Lament",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Haint",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Stagger",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Flounder",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Pinion",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Scuffling",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Wheeze",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Boil-prone",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Telltale",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Creases",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Pester",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Lest",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Reprimand",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Jutting",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Scat",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Elude",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Amiable",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Acquiescence",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Shrew",
+      "source": "To Kill a Mockingbird",
+      "tags": [
+        "literature",
+        "fiction"
+      ]
+    },
+    {
+      "word": "Scrupulosity OCD",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Superstition",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Paranormal beliefs",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Mysticism",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Extraordinary beliefs",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Supernatural beliefs",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Bad magic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Good magic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Sympathetic magic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Contagious magic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Paranormal phenomena",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Contiguity",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Temporal contiguity",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Conditioning by coincidence",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Magical ideation",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Clairvoyance",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Celestial",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Terrestrial",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Nucleous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Burning midnight oil",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Inadverently",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Inherently",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Onus",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Vernacular English",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Phrasal verb",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Phrasal",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Idiom",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Colloquial",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Proverb",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Jargon",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Slang",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Lexicon",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Lingo",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Glossary",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Vocabulary",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Formulaic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Collocations",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Egalitarian",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Planter",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Permeable",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Apt",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Inapt",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Intact",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Inept",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Adept",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Misnomer",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Vis-a-vis",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Embezzle",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Obscure",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Abstruse",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Ornate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Obfuscation",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Obfuscate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pipe Dream",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Hedonistic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Trepidation",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Assute",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Infallibale",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Hunkydoory",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Chain of custody",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Docile",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Capriciously",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "To do something on a whim",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Soothing",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Ravenous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Panache",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "insurmountable",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "manspreading",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "MacGyver",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Scrupulous/ meticulous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Exoneration",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "apocryphal",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "misonomer",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "elucidate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "regurgitate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "fluke",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Ferocious",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "someone is full of it",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Scour",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Cathartic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Corroborate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Conjugate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Aspersion",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Profusely",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Opulent",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Opulense",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Incumbent",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Imperious",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Overbear",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Bravado",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Elicit",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Vilification",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Clemency/leniency/merit",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Uncanny",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "illicit",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Bono fide",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "lukewarm",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "rapturous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "bucolic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "devoid",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "hermit",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "eponym",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "cut bait",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "fathom",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "infatuate- inspired hy passion",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "macrocosm",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "milieu",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "animism",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "conjure up",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "aux pas",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "obnoxious",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "contemptuous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "pomposity",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "sententious",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Quasi",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Seminal",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Obliterate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Aversion",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Equanimity /composure",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pandering",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Low on the totem pole",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Euphony",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Rumination",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Compromised",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Sussinct",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Mimic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Gimmick",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Mnemonic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Dichotomy",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Appealing",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Outrageous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Raging",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Surge/gush/overflow/spurt",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Spawn",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Spur",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Sprout",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Hinder/hamper/obstruct",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "hindrance",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Frenzy",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Potent",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Epistemology",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Juxtaposition",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Intrinsic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Succinct",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Adapt/adopt/adept/Inept",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Getting bogged down",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Stipulate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pinpoint",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Separate wheat from chaff",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Perplex/baffle",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Perpetuate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Revelation",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Redemption",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Portmanteau",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Plea/Plead/Pledge",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Unilateral/Unambiguous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pacifist/ dilettante",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Summon/recon",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Compartmentalize",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Antidote",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Motif",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Sinister",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Inhibit",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Impediment",
+      "definition": "defect, hindrance",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Multifaceted",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Apprehensive",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Miniaturization",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Make do",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Blatant/ Flagrant",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Flamboyant",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Plausible",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Nitpicking",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Complicit",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Complacency",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Extrapolate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Ubiquitous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Lucid",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Quirk/peculiar",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Palpable",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Exert, excerpt",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Rapt",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Hammock",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Trump",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Bestow",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Discerning",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Immaculate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Tame",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Imped",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "A long haul",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pertain",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Visceral",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Umpteenth",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Galvanize",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Gnarly",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Ephemeral",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Transpire",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Transverse",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Traverse",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Translate/ project/ extrapolate / interpolate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Transmitting/ transfusion/ propogate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Transcribe",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Transpose",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Transpile",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "polate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Repercussions",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Adamant",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Inflection point",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Swashbuckling",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Introspection",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Rapport",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Surmount",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Acumen",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Discernment",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Self-fulfilling prophecy",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Accentuate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Extentuate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Serendipity",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Mahogany",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Adulterate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Disenfranchise",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Ruminating",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Eschew",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Flabbergast",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Implicate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Abject",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Reprehensible",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Repercussion",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Preposterous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Holistic approach",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Chivalry",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "We got a situation here",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "How we looking",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Getting hang of it",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Getting my head around of it",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pet peeve",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "That’s actually not entirely terrible idea",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Palpable tension",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Low-key camaraderie",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Oblivious",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Canny",
+      "definition": "bic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Incongruous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "“Downplay your chances” banter",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Moment of epiphany",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Come what may",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Horsing around",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Succumb",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Heralds of his doom",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Age-old",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Earnest young eyes",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Lucid and persuasive",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Embalmer",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Decay",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Self-loathing",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pupils",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Yank",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Winking",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Bulging",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Recoil",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Fidgeting",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Replicate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Consolation",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Extenuating",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Keen sense",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Having knack",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Proclivity",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Negligible",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "On par with",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Rudimentary",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Viz",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Notwithstanding",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Ramifications",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Amber waves of green",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Lo and behold",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Rote learning",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Right on money",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Glib",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Curtail",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Gentry (дворянство)",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Crank it out",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pertaining to",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Creme de la creme",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Trichotomy",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Implication vs Implicature",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Brain circuitry",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Locavore craze",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Strands",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Punditry",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Exogenous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Vengeance",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Impel",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Dunning-Kruger effect",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Lake Wobegon effect",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Moot",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Slashing",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Exasperation",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Conducive",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Belligerent",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Debilitating",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Dilettante",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Dissident",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Herectic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pacifist",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Nepotism",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Bohemian",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Nihilism nihilist",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Anarchist",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Totalitarianism",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Utilitarianism",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Authoritarianism",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Avant-garde",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Dystopian/utopian",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Antagonist",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Protagonist",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Misogynist",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Misanthropic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Antisemitism",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Puritanism",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Hideous",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Imbecile",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Celibacy",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Sweet dread",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Menance",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Antipode",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Benevolence",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Impede",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Reinvigorate",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Revitalise",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Contingent/ contingency",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Self-inflicted",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Oronym",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Vehemently",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Wanton",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Convex",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Vertex",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Flex (inflection)",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Pendulum",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Protégé",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Exoteric",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Isom",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Caught you off guard",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Caught up",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Life-altering",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Wiped out",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Confusion and intrusion",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Stood up on date",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Work with me here",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Brutal truth",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "I’ll tell Flat out",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Do me a solid",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Did the crime do the time",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Rain-check",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Giving the benefit of doubt",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "It’s time to make it right",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Let’s settle this like men",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "History of doing well-intentioned wrong",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Join the club",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "I could tag along",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "What’s the move here",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "What is the take away?",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "I gotta bounce",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Orchestrated",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Are anybody’s hands clean",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Carpe diem",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Fake it till you make it",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Hit-a-wall",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Like a fine wine",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Working around the clock",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Learn in a  step by step fashion",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "My best bet would be",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "You can rest assured",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "By a good measure",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Sugar coating",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Handy dandy",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "It doesn’t do the justice",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Scintillating",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Heywire, erratic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "You’re putting me on the spot here",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Putting in sweatroom",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "I’ll alert the media",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Frown",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Squint",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Stakeout",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Fallout",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Swat",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Lid",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Perpetual",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Let’s kick it old school",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Let him off the hook",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Flat Earther",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "You like someone because and love despite",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Fruitcake",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "I’ll make it worth your while",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "You know what this calls for?",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Emotionally unavailable",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Without further due",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Set the mood",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "It’s gonna be lit",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Infuriating",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Have a go at it",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Holly molly",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Morbid",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Perplexing",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Caveat",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Heuristics",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Setting agenda",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "First knee-jerk reaction",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Rise and grind",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Zero sum game",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "All walks of life",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Surge",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Rage",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Idiosyncrasies",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "idiosyncratic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Peccadillos",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Gizmos",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Formidable",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Reluctant",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Inexorably",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Defying",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Disperse",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Verklempt",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Myriad",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Semiotic",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "Harbinger",
+      "source": "Believing in Magic",
+      "tags": [
+        "psychology",
+        "superstition"
+      ]
+    },
+    {
+      "word": "A bat out of hell",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Admixture",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Spunky",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Shakedown",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "hue",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "exhort",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "extoall",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "matriculate",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Mercurial",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Self-effacing",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Prune",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Whip",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Redolent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Diciple",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Bulimic",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Burly",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Straightlaced",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Brashness",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Tooting",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Relish",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Lathered",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Aescetic",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Whiff",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Off-beat",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Savant",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Bristly",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Solicitous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Cajole",
+      "definition": "persuade",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Coaxing",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Impute",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Slipshod",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Impish",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Irrepressible",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Regent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Proselytizer",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Haberdashery",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Skunk works",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Destitute",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Ostentatious",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Enthrall",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Tenuous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Cherubic",
+      "definition": "young child prettiness",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Halo",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Pompous- self important",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Nab",
+      "definition": "catch",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Dissemble",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Pirouette",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Deftly",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Petulance",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Coda",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Bozo",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Wretch",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Goliath",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Cheeky",
+      "definition": "impudeent or irreverent in endearing",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Relegate",
+      "definition": "downgrade",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Silver lining",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Impetious",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Zinger",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Truism",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Callous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Memorabilia",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Quizzical",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Dreary",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Portend",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Affront",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Toehold",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Relent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Repent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Gumption",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Amiably",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Ire",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Conciliatory",
+      "definition": "intented or likely to placate",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Sanguine",
+      "definition": "optimistic, positive",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Curmudgeon",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Foible",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Surly",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Austere",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Dismay",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Ornery",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Snooker",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Unassuming",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Pandemonium",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Aloof",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Stymied",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Jeering",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Jarring",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Showdown",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Genesis",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Frisson",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Highfalutin",
+      "definition": "pompous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Insolvent",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Tout",
+      "definition": "attempt to sell something",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Sport (verb)",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Sardonic",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Unconscionable",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Amends",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Exult",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Glom",
+      "definition": "steal",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Mull over",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Unadorned",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Panoply",
+      "definition": "collection",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Accountrement",
+      "definition": "additional item",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Relinquish",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Impetuous",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Inured",
+      "definition": "accustomed",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Morose",
+      "definition": "ill-tempered",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Emaciated",
+      "definition": "thin",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Wistfully",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Writ",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Ante",
+      "source": "Steve Jobs",
+      "tags": [
+        "biography"
+      ]
+    },
+    {
+      "word": "Gestaly",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Inexorable",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Egregious",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Dexterity",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Demise",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Zeitgeist",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Rectify",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Coercion",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Brunt",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Stifle",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Precipice",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Avail",
+      "definition": "benefit",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Plight",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Matrimony",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Viceroy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Augur",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Bevy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Undeterred",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Tepid",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Isthmus",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Corvee",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Pageantry",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Homage",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Folly",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Throes",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Unencumbered",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Decree",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Subjugation",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Horder",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Nexus",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Repute",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Preclude",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Riddance",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Interloper",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Preordain",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "lip service",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Hubris",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Enfeeble",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Engender",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Technocracy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Disdain",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Cede",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Overbearing",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Paucity",
+      "definition": "presence in small amount",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Acquiesce",
+      "definition": "accept reluctantly",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Emissary",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Excommunication",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Ecclesiastic",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Besieged",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Feckless",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Contingent",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Expropriation",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Disconcerting",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Middling",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Square with",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Laggard",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Artificer",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Stratified",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Yeoman",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Marque",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Rogue",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Fleeting",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Arduous",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Suffrage",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Promulgate",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Sinecure",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Burgeoning",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Sediment",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Fatuous",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Prescient",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Fringe",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Enfranchising",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Unravel",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Whammy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "About-face",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Squander",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Brownfields",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Greenfield",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Lathe",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Ominously",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Plutocracy",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Incitement",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Pitchfork",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Inculcate",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    },
+    {
+      "word": "Overhaul",
+      "source": "Power and Progress",
+      "tags": [
+        "history",
+        "economics"
+      ]
+    }
+  ]
+}
