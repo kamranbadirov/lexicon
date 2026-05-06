@@ -594,6 +594,42 @@
       ]
     },
     {
+      "word": "Teleology",
+      "definition": "the explanation of phenomena by the purpose they serve rather than by their causes",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Nary",
+      "definition": "not any; not one (informal for 'never a')",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Cotton-picking moment",
+      "definition": "a brief instant; used as a mild intensifier for emphasis",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
+      "word": "Surmise",
+      "definition": "to suppose or infer something without firm evidence",
+      "source": "GEB",
+      "tags": [
+        "literature",
+        "philosophy"
+      ]
+    },
+    {
       "word": "Vernacular English",
       "definition": "everyday spoken English",
       "source": "Phraseology",
@@ -6757,6 +6793,10 @@
     {
       "word": "Harbinger",
       "definition": "sign of something to come"
+    },
+    {
+      "word": "Excoriate",
+      "definition": " to censure, criticize, or denounce someone or something severely and publicly."
     }
   ]
 }
