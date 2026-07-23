@@ -2,7 +2,7 @@
   "meta": {
     "description": "Personal vocabulary dictionary — single source of truth. Edit this file and push to update the site.",
     "version": "2.0",
-    "total": 1174,
+    "total": 1319,
     "sources": [
       "GEB",
       "Power and Progress",
@@ -4088,7 +4088,8 @@
     },
     {
       "word": "Tantalizing",
-      "definition": "tempting yet out of reach"
+      "definition": "tempting yet out of reach",
+      "source": "GEB"
     },
     {
       "word": "Infatuate",
@@ -4924,7 +4925,8 @@
     },
     {
       "word": "Occult",
-      "definition": "supernatural; hidden"
+      "definition": "supernatural; hidden",
+      "source": "GEB"
     },
     {
       "word": "Osmosis",
@@ -5168,7 +5170,8 @@
     },
     {
       "word": "Abstruse",
-      "definition": "difficult to understand"
+      "definition": "difficult to understand",
+      "source": "GEB"
     },
     {
       "word": "Ornate",
@@ -6797,6 +6800,468 @@
     {
       "word": "Excoriate",
       "definition": " to censure, criticize, or denounce someone or something severely and publicly."
+    },
+    {
+      "word": "Omission"
+    },
+    {
+      "word": "Emission"
+    },
+    {
+      "word": "Faux"
+    },
+    {
+      "word": "Staccato"
+    },
+    {
+      "word": "Throughline"
+    },
+    {
+      "word": "Parlance"
+    },
+    {
+      "word": "Bifurcate"
+    },
+    {
+      "word": "Strata"
+    },
+    {
+      "word": "Recede"
+    },
+    {
+      "word": "Substrate"
+    },
+    {
+      "word": "Earmaked"
+    },
+    {
+      "word": "Watershd moment"
+    },
+    {
+      "word": "Recoinnaissance"
+    },
+    {
+      "word": "Bee’s knee and cat’s pajama"
+    },
+    {
+      "word": "Je ne sequa"
+    },
+    {
+      "word": "Fairweeather"
+    },
+    {
+      "word": "Erethrel"
+    },
+    {
+      "word": "Scruinity"
+    },
+    {
+      "word": "Revealatory"
+    },
+    {
+      "word": "Prejorative"
+    },
+    {
+      "word": "Alude to"
+    },
+    {
+      "word": "Nilly willy"
+    },
+    {
+      "word": "Inocious"
+    },
+    {
+      "word": "Off the cut"
+    },
+    {
+      "word": "Stteped"
+    },
+    {
+      "word": "Aide-mèmoire"
+    },
+    {
+      "word": "swarth"
+    },
+    {
+      "word": "Creme de la creme"
+    },
+    {
+      "word": "Tour de foce"
+    },
+    {
+      "word": "S-Tier"
+    },
+    {
+      "word": "Top-tier"
+    },
+    {
+      "word": "Mount Rushmore of"
+    },
+    {
+      "word": "remnan"
+    },
+    {
+      "word": "Villify"
+    },
+    {
+      "word": "Mackiavellian"
+    },
+    {
+      "word": "Sumptuously",
+      "source": "GEB"
+    },
+    {
+      "word": "Jibe",
+      "source": "GEB"
+    },
+    {
+      "word": "Squeamish",
+      "source": "GEB"
+    },
+    {
+      "word": "Stounch",
+      "source": "GEB"
+    },
+    {
+      "word": "Laissez-faire",
+      "source": "GEB"
+    },
+    {
+      "word": "Versantile",
+      "source": "GEB"
+    },
+    {
+      "word": "Presupposition",
+      "source": "GEB"
+    },
+    {
+      "word": "Progeny",
+      "source": "GEB"
+    },
+    {
+      "word": "Primordial",
+      "source": "GEB"
+    },
+    {
+      "word": "Begetting",
+      "source": "GEB"
+    },
+    {
+      "word": "While away",
+      "source": "GEB"
+    },
+    {
+      "word": "Harpsichord",
+      "source": "GEB"
+    },
+    {
+      "word": "Chimera",
+      "source": "GEB"
+    },
+    {
+      "word": "Obscene",
+      "source": "GEB"
+    },
+    {
+      "word": "Fount",
+      "source": "GEB"
+    },
+    {
+      "word": "Veritable",
+      "source": "GEB"
+    },
+    {
+      "word": "cogitation",
+      "source": "GEB"
+    },
+    {
+      "word": "Rigmarole",
+      "source": "GEB"
+    },
+    {
+      "word": "Venerate",
+      "source": "GEB"
+    },
+    {
+      "word": "Dastardly",
+      "source": "GEB"
+    },
+    {
+      "word": "Transmogrification",
+      "source": "GEB"
+    },
+    {
+      "word": "Gauche",
+      "source": "GEB"
+    },
+    {
+      "word": "Dash up",
+      "source": "GEB"
+    },
+    {
+      "word": "Double back",
+      "source": "GEB"
+    },
+    {
+      "word": "Concoction",
+      "source": "GEB"
+    },
+    {
+      "word": "Unassailable",
+      "source": "GEB"
+    },
+    {
+      "word": "Staunchly",
+      "source": "GEB"
+    },
+    {
+      "word": "Slyly",
+      "source": "GEB"
+    },
+    {
+      "word": "Exultation",
+      "source": "GEB"
+    },
+    {
+      "word": "Sophistry",
+      "source": "GEB"
+    },
+    {
+      "word": "Weensy",
+      "source": "GEB"
+    },
+    {
+      "word": "Assiduous",
+      "source": "GEB"
+    },
+    {
+      "word": "Disheveled",
+      "source": "GEB"
+    },
+    {
+      "word": "Felicitous",
+      "source": "GEB"
+    },
+    {
+      "word": "Renegade",
+      "source": "To Kill a Mockingbird"
+    },
+    {
+      "word": "Popped-the-whip",
+      "source": "To Kill a Mockingbird"
+    },
+    {
+      "word": "Nucleous"
+    },
+    {
+      "word": "Inadverently"
+    },
+    {
+      "word": "Vis-a-vis"
+    },
+    {
+      "word": "Assute"
+    },
+    {
+      "word": "Infallibale"
+    },
+    {
+      "word": "Hunkydoory"
+    },
+    {
+      "word": "misonomer"
+    },
+    {
+      "word": "Opulense"
+    },
+    {
+      "word": "Bono fide"
+    },
+    {
+      "word": "aux pas"
+    },
+    {
+      "word": "Avant grade"
+    },
+    {
+      "word": "Sussinct"
+    },
+    {
+      "word": "Separate wheat from chaff"
+    },
+    {
+      "word": "Imped"
+    },
+    {
+      "word": "propogate"
+    },
+    {
+      "word": "Extentuate"
+    },
+    {
+      "word": "Aghast"
+    },
+    {
+      "word": "Gobsmacked"
+    },
+    {
+      "word": "Stunned"
+    },
+    {
+      "word": "We got a situation here"
+    },
+    {
+      "word": "How we looking"
+    },
+    {
+      "word": "Getting hang of it"
+    },
+    {
+      "word": "Getting my head around of it"
+    },
+    {
+      "word": "We don’t plan to fail, we fail to plan"
+    },
+    {
+      "word": "That’s actually not entirely terrible idea"
+    },
+    {
+      "word": "Physically strong, mentally alert and morally sound"
+    },
+    {
+      "word": "“Downplay your chances” banter"
+    },
+    {
+      "word": "Having knack"
+    },
+    {
+      "word": "Amber waves of green"
+    },
+    {
+      "word": "Right on money"
+    },
+    {
+      "word": "Gentry (дворянство)"
+    },
+    {
+      "word": "Herectic"
+    },
+    {
+      "word": "Menance"
+    },
+    {
+      "word": "Isom"
+    },
+    {
+      "word": "Stood up on date"
+    },
+    {
+      "word": "I see where you are coming from"
+    },
+    {
+      "word": "I’ll tell Flat out"
+    },
+    {
+      "word": "Did the crime do the time"
+    },
+    {
+      "word": "Like that ever was up for a debate"
+    },
+    {
+      "word": "Giving the benefit of doubt"
+    },
+    {
+      "word": "It’s time to make it right"
+    },
+    {
+      "word": "Let’s settle this like men"
+    },
+    {
+      "word": "What’s the move here"
+    },
+    {
+      "word": "I said it, i meant it, I’m here to represent it!"
+    },
+    {
+      "word": "What is the take away?"
+    },
+    {
+      "word": "Are anybody’s hands clean"
+    },
+    {
+      "word": "We wanna go down dark alleys see what’s on the other side"
+    },
+    {
+      "word": "Hit-a-wall"
+    },
+    {
+      "word": "Learn in a  step by step fashion"
+    },
+    {
+      "word": "It doesn’t do the justice"
+    },
+    {
+      "word": "Heywire, erratic"
+    },
+    {
+      "word": "You’re putting me on the spot here."
+    },
+    {
+      "word": "Putting in sweatroom"
+    },
+    {
+      "word": "There’s no easy way to tell this, so I’ll just tell it"
+    },
+    {
+      "word": "I’ll alert the media"
+    },
+    {
+      "word": "Let’s kick it old school"
+    },
+    {
+      "word": "You know, I miss the time when I didn’t know what that was."
+    },
+    {
+      "word": "I’ll make it worth your while"
+    },
+    {
+      "word": "You are not a snack, you are whole meal"
+    },
+    {
+      "word": "Without further due"
+    },
+    {
+      "word": "It’s gonna be lit"
+    },
+    {
+      "word": "Holly molly"
+    },
+    {
+      "word": "Setting agenda"
+    },
+    {
+      "word": "extoall",
+      "source": "Steve Jobs"
+    },
+    {
+      "word": "Diciple",
+      "source": "Steve Jobs"
+    },
+    {
+      "word": "Aescetic",
+      "source": "Steve Jobs"
+    },
+    {
+      "word": "Impetious",
+      "source": "Steve Jobs"
+    },
+    {
+      "word": "Gestaly",
+      "source": "Power and Progress"
+    },
+    {
+      "word": "Horder",
+      "source": "Power and Progress"
     }
   ]
 }
