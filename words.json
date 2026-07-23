@@ -2,7 +2,7 @@
   "meta": {
     "description": "Personal vocabulary dictionary — single source of truth. Edit this file and push to update the site.",
     "version": "2.0",
-    "total": 1319,
+    "total": 1308,
     "sources": [
       "GEB",
       "Power and Progress",
@@ -6802,466 +6802,562 @@
       "definition": " to censure, criticize, or denounce someone or something severely and publicly."
     },
     {
-      "word": "Omission"
+      "word": "Omission",
+      "definition": "something left out"
     },
     {
-      "word": "Emission"
+      "word": "Emission",
+      "definition": "something given off (gas, light, sound)"
     },
     {
-      "word": "Faux"
+      "word": "Faux",
+      "definition": "fake or artificial"
     },
     {
-      "word": "Staccato"
+      "word": "Staccato",
+      "definition": "short, sharp, disconnected"
     },
     {
-      "word": "Throughline"
+      "word": "Throughline",
+      "definition": "connecting thread running through something"
     },
     {
-      "word": "Parlance"
+      "word": "Parlance",
+      "definition": "a particular way of speaking; jargon"
     },
     {
-      "word": "Bifurcate"
+      "word": "Bifurcate",
+      "definition": "split into two branches"
     },
     {
-      "word": "Strata"
+      "word": "Strata",
+      "definition": "layers (plural of stratum)"
     },
     {
-      "word": "Recede"
+      "word": "Recede",
+      "definition": "move back or withdraw"
     },
     {
-      "word": "Substrate"
+      "word": "Substrate",
+      "definition": "an underlying layer or foundation"
     },
     {
-      "word": "Earmaked"
+      "word": "Earmaked",
+      "definition": "set aside for a specific purpose"
     },
     {
-      "word": "Watershd moment"
+      "word": "Watershd moment",
+      "definition": "a turning point"
     },
     {
-      "word": "Recoinnaissance"
+      "word": "Recoinnaissance",
+      "definition": "a preliminary survey to gather information"
     },
     {
-      "word": "Bee’s knee and cat’s pajama"
+      "word": "Bee’s knee and cat’s pajama",
+      "definition": "the very best; excellent"
     },
     {
-      "word": "Je ne sequa"
+      "word": "Je ne sequa",
+      "definition": "an indefinable appealing quality"
     },
     {
-      "word": "Fairweeather"
+      "word": "Fairweeather",
+      "definition": "loyal only in good times"
     },
     {
-      "word": "Erethrel"
+      "word": "Erethrel",
+      "definition": "delicate and otherworldly"
     },
     {
-      "word": "Scruinity"
+      "word": "Scruinity",
+      "definition": "close inspection"
     },
     {
-      "word": "Revealatory"
+      "word": "Revealatory",
+      "definition": "revealing something new"
     },
     {
-      "word": "Prejorative"
+      "word": "Prejorative",
+      "definition": "expressing contempt; disparaging"
     },
     {
-      "word": "Alude to"
+      "word": "Alude to",
+      "definition": "refer to indirectly"
     },
     {
-      "word": "Nilly willy"
+      "word": "Nilly willy",
+      "definition": "haphazardly; whether one likes it or not"
     },
     {
-      "word": "Inocious"
+      "word": "Inocious",
+      "definition": "harmless"
     },
     {
-      "word": "Off the cut"
+      "word": "Off the cut",
+      "definition": "without preparation; spontaneous"
     },
     {
-      "word": "Stteped"
+      "word": "Stteped",
+      "definition": "thoroughly immersed in"
     },
     {
-      "word": "Aide-mèmoire"
+      "word": "Aide-mèmoire",
+      "definition": "a memory aid or note"
     },
     {
-      "word": "swarth"
+      "word": "swarth",
+      "definition": "a broad strip or sweep"
     },
     {
-      "word": "Creme de la creme"
+      "word": "Creme de la creme",
+      "definition": "the very best of a group"
     },
     {
-      "word": "Tour de foce"
+      "word": "Tour de foce",
+      "definition": "a masterful, impressive feat"
     },
     {
-      "word": "S-Tier"
+      "word": "S-Tier",
+      "definition": "the highest rank or category"
     },
     {
-      "word": "Top-tier"
+      "word": "Top-tier",
+      "definition": "of the highest level or quality"
     },
     {
-      "word": "Mount Rushmore of"
+      "word": "Mount Rushmore of",
+      "definition": "the all-time greatest few in a category"
     },
     {
-      "word": "remnan"
+      "word": "remnan",
+      "definition": "a small remaining part"
     },
     {
-      "word": "Villify"
+      "word": "Villify",
+      "definition": "speak ill of; defame"
     },
     {
-      "word": "Mackiavellian"
+      "word": "Mackiavellian",
+      "definition": "cunning and scheming for power"
     },
     {
       "word": "Sumptuously",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "lavishly; luxuriously"
     },
     {
       "word": "Jibe",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "to agree or fit; also a mocking taunt"
     },
     {
       "word": "Squeamish",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "easily sickened or disgusted"
     },
     {
       "word": "Stounch",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "loyal and committed"
     },
     {
       "word": "Laissez-faire",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "hands-off; non-interfering"
     },
     {
       "word": "Versantile",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "adaptable to many uses"
     },
     {
       "word": "Presupposition",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "an assumed prior belief"
     },
     {
       "word": "Progeny",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "offspring; descendants"
     },
     {
       "word": "Primordial",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "existing from the very beginning"
     },
     {
       "word": "Begetting",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "producing; giving rise to"
     },
     {
       "word": "While away",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "pass time idly"
     },
     {
       "word": "Harpsichord",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "a keyboard instrument with plucked strings"
     },
     {
       "word": "Chimera",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "an illusion or fanciful hybrid"
     },
     {
       "word": "Obscene",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "offensive or indecent"
     },
     {
       "word": "Fount",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "a source or wellspring"
     },
     {
       "word": "Veritable",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "genuine; truly so"
     },
     {
       "word": "cogitation",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "deep thinking; pondering"
     },
     {
       "word": "Rigmarole",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "a lengthy, complicated procedure"
     },
     {
       "word": "Venerate",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "regard with deep respect"
     },
     {
       "word": "Dastardly",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "wicked and cowardly"
     },
     {
       "word": "Transmogrification",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "a strange or comical transformation"
     },
     {
       "word": "Gauche",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "socially awkward; tactless"
     },
     {
       "word": "Dash up",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "rush up quickly"
     },
     {
       "word": "Double back",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "reverse course and return"
     },
     {
       "word": "Concoction",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "a mixture of ingredients"
     },
     {
       "word": "Unassailable",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "impossible to attack or dispute"
     },
     {
       "word": "Staunchly",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "firmly and loyally"
     },
     {
       "word": "Slyly",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "in a cunning, secretive way"
     },
     {
       "word": "Exultation",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "triumphant joy"
     },
     {
       "word": "Sophistry",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "clever but false reasoning"
     },
     {
       "word": "Weensy",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "tiny"
     },
     {
       "word": "Assiduous",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "diligent and hardworking"
     },
     {
       "word": "Disheveled",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "untidy; messy"
     },
     {
       "word": "Felicitous",
-      "source": "GEB"
+      "source": "GEB",
+      "definition": "well-chosen; apt"
     },
     {
       "word": "Renegade",
-      "source": "To Kill a Mockingbird"
+      "source": "To Kill a Mockingbird",
+      "definition": "a rebel or traitor"
     },
     {
       "word": "Popped-the-whip",
-      "source": "To Kill a Mockingbird"
+      "source": "To Kill a Mockingbird",
+      "definition": "snapped sharply, like cracking a whip"
     },
     {
-      "word": "Nucleous"
+      "word": "Nucleous",
+      "definition": "the central core"
     },
     {
-      "word": "Inadverently"
+      "word": "Inadverently",
+      "definition": "unintentionally; by accident"
     },
     {
-      "word": "Vis-a-vis"
+      "word": "Vis-a-vis",
+      "definition": "in relation to; compared with"
     },
     {
-      "word": "Assute"
+      "word": "Assute",
+      "definition": "shrewd; perceptive"
     },
     {
-      "word": "Infallibale"
+      "word": "Infallibale",
+      "definition": "incapable of being wrong"
     },
     {
-      "word": "Hunkydoory"
+      "word": "Hunkydoory",
+      "definition": "fine; going well"
     },
     {
-      "word": "misonomer"
+      "word": "misonomer",
+      "definition": "a wrong or misleading name"
     },
     {
-      "word": "Opulense"
+      "word": "Opulense",
+      "definition": "wealth and luxury"
     },
     {
-      "word": "Bono fide"
+      "word": "Bono fide",
+      "definition": "genuine; in good faith"
     },
     {
-      "word": "aux pas"
+      "word": "aux pas",
+      "definition": "a social blunder"
     },
     {
-      "word": "Avant grade"
+      "word": "Avant grade",
+      "definition": "innovative; ahead of its time"
     },
     {
-      "word": "Sussinct"
+      "word": "Sussinct",
+      "definition": "brief and clear"
     },
     {
-      "word": "Separate wheat from chaff"
+      "word": "Separate wheat from chaff",
+      "definition": "distinguish the valuable from the worthless"
     },
     {
-      "word": "Imped"
+      "word": "Imped",
+      "definition": "hinder; obstruct"
     },
     {
-      "word": "propogate"
+      "word": "propogate",
+      "definition": "spread or multiply"
     },
     {
-      "word": "Extentuate"
+      "word": "Extentuate",
+      "definition": "lessen the seriousness of"
     },
     {
-      "word": "Aghast"
+      "word": "Aghast",
+      "definition": "shocked and horrified"
     },
     {
-      "word": "Gobsmacked"
+      "word": "Gobsmacked",
+      "definition": "utterly astonished"
     },
     {
-      "word": "Stunned"
+      "word": "Stunned",
+      "definition": "shocked into silence"
     },
     {
-      "word": "We got a situation here"
+      "word": "We got a situation here",
+      "definition": "we have a problem to deal with"
     },
     {
-      "word": "How we looking"
+      "word": "How we looking",
+      "definition": "what's our status?"
     },
     {
-      "word": "Getting hang of it"
+      "word": "Getting hang of it",
+      "definition": "starting to master it"
     },
     {
-      "word": "Getting my head around of it"
+      "word": "Getting my head around of it",
+      "definition": "coming to understand it"
     },
     {
-      "word": "We don’t plan to fail, we fail to plan"
+      "word": "That’s actually not entirely terrible idea",
+      "definition": "a grudging admission an idea is decent"
     },
     {
-      "word": "That’s actually not entirely terrible idea"
+      "word": "Physically strong, mentally alert and morally sound",
+      "definition": "fully fit in body, mind, and character"
     },
     {
-      "word": "Physically strong, mentally alert and morally sound"
+      "word": "Having knack",
+      "definition": "having a natural talent"
     },
     {
-      "word": "“Downplay your chances” banter"
+      "word": "Amber waves of green",
+      "definition": "riches or money (play on 'amber waves of grain')"
     },
     {
-      "word": "Having knack"
+      "word": "Right on money",
+      "definition": "exactly correct"
     },
     {
-      "word": "Amber waves of green"
+      "word": "Gentry (дворянство)",
+      "definition": "the landed upper class; nobility"
     },
     {
-      "word": "Right on money"
+      "word": "Herectic",
+      "definition": "one who defies accepted beliefs"
     },
     {
-      "word": "Gentry (дворянство)"
+      "word": "Menance",
+      "definition": "a threat or danger"
     },
     {
-      "word": "Herectic"
+      "word": "Isom",
+      "definition": "equal or identical in form (iso-)"
     },
     {
-      "word": "Menance"
+      "word": "Stood up on date",
+      "definition": "abandoned by someone who didn't show up"
     },
     {
-      "word": "Isom"
+      "word": "I see where you are coming from",
+      "definition": "I understand your perspective"
     },
     {
-      "word": "Stood up on date"
+      "word": "I’ll tell Flat out",
+      "definition": "I'll say it bluntly and directly"
     },
     {
-      "word": "I see where you are coming from"
+      "word": "Did the crime do the time",
+      "definition": "face the consequences of wrongdoing"
     },
     {
-      "word": "I’ll tell Flat out"
+      "word": "Like that ever was up for a debate",
+      "definition": "that was never in question"
     },
     {
-      "word": "Did the crime do the time"
+      "word": "Giving the benefit of doubt",
+      "definition": "assuming good faith despite uncertainty"
     },
     {
-      "word": "Like that ever was up for a debate"
+      "word": "I said it, i meant it, I’m here to represent it!",
+      "definition": "standing firmly behind one's words"
     },
     {
-      "word": "Giving the benefit of doubt"
+      "word": "What is the take away?",
+      "definition": "what's the key lesson?"
     },
     {
-      "word": "It’s time to make it right"
+      "word": "We wanna go down dark alleys see what’s on the other side",
+      "definition": "willing to explore risky unknowns"
     },
     {
-      "word": "Let’s settle this like men"
+      "word": "Hit-a-wall",
+      "definition": "reach an obstacle; get stuck"
     },
     {
-      "word": "What’s the move here"
+      "word": "Learn in a  step by step fashion",
+      "definition": "learn gradually, one stage at a time"
     },
     {
-      "word": "I said it, i meant it, I’m here to represent it!"
+      "word": "It doesn’t do the justice",
+      "definition": "fails to represent something fully"
     },
     {
-      "word": "What is the take away?"
+      "word": "Heywire, erratic",
+      "definition": "out of control; unpredictable"
     },
     {
-      "word": "Are anybody’s hands clean"
+      "word": "You’re putting me on the spot here.",
+      "definition": "forcing me to respond under pressure"
     },
     {
-      "word": "We wanna go down dark alleys see what’s on the other side"
+      "word": "Putting in sweatroom",
+      "definition": "subjecting to intense pressure"
     },
     {
-      "word": "Hit-a-wall"
+      "word": "You know, I miss the time when I didn’t know what that was.",
+      "definition": "an ironic wish for former ignorance"
     },
     {
-      "word": "Learn in a  step by step fashion"
+      "word": "You are not a snack, you are whole meal",
+      "definition": "you're exceptionally attractive or valuable"
     },
     {
-      "word": "It doesn’t do the justice"
+      "word": "Without further due",
+      "definition": "without more delay"
     },
     {
-      "word": "Heywire, erratic"
+      "word": "Holly molly",
+      "definition": "an exclamation of surprise"
     },
     {
-      "word": "You’re putting me on the spot here."
-    },
-    {
-      "word": "Putting in sweatroom"
-    },
-    {
-      "word": "There’s no easy way to tell this, so I’ll just tell it"
-    },
-    {
-      "word": "I’ll alert the media"
-    },
-    {
-      "word": "Let’s kick it old school"
-    },
-    {
-      "word": "You know, I miss the time when I didn’t know what that was."
-    },
-    {
-      "word": "I’ll make it worth your while"
-    },
-    {
-      "word": "You are not a snack, you are whole meal"
-    },
-    {
-      "word": "Without further due"
-    },
-    {
-      "word": "It’s gonna be lit"
-    },
-    {
-      "word": "Holly molly"
-    },
-    {
-      "word": "Setting agenda"
+      "word": "Setting agenda",
+      "definition": "defining the topics or priorities"
     },
     {
       "word": "extoall",
-      "source": "Steve Jobs"
+      "source": "Steve Jobs",
+      "definition": "praise highly"
     },
     {
       "word": "Diciple",
-      "source": "Steve Jobs"
+      "source": "Steve Jobs",
+      "definition": "a follower or student"
     },
     {
       "word": "Aescetic",
-      "source": "Steve Jobs"
+      "source": "Steve Jobs",
+      "definition": "practicing severe self-discipline"
     },
     {
       "word": "Impetious",
-      "source": "Steve Jobs"
+      "source": "Steve Jobs",
+      "definition": "acting rashly on impulse"
     },
     {
       "word": "Gestaly",
-      "source": "Power and Progress"
+      "source": "Power and Progress",
+      "definition": "a whole greater than the sum of its parts"
     },
     {
       "word": "Horder",
-      "source": "Power and Progress"
+      "source": "Power and Progress",
+      "definition": "one who compulsively accumulates"
     }
   ]
 }
