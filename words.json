@@ -2,7 +2,7 @@
   "meta": {
     "description": "Personal vocabulary dictionary — single source of truth. Edit this file and push to update the site.",
     "version": "2.0",
-    "total": 1333,
+    "total": 1366,
     "sources": [
       "GEB",
       "Power and Progress",
@@ -5398,7 +5398,12 @@
     },
     {
       "word": "Buffer",
-      "definition": "cushion; temporary storage"
+      "definition": "cushion; temporary storage",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
     },
     {
       "word": "Avant-garde",
@@ -7466,6 +7471,277 @@
     {
       "word": "vicious feedback cycle",
       "source": "System Dynamics"
+    },
+    {
+      "word": "Construct (entity)",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "System",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Artifact",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Executable environment",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Middleware",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "IoC",
+      "definition": "inversion of control",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Awaitable, Callable, Future, Promise",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Multiprocessing",
+      "definition": "technically async, genuinely parallel, and concurrent all at once",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Coroutines, Multithreading",
+      "definition": "async and concurrent but not truly parallel",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Coroutine, threads, processes (execution context)",
+      "definition": "how you do multiple things at once",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Concurrency, parallelism, multithreaded, multiprocess, multiprocessor, asynchronous, synchronous",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Subroutine",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Logical, Conceptual, Abstract, Representational",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Aggregate type, composite type, derived type, reference type (object type), structured type, user-defined, mutable",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Namespace",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Business logic",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Building block, mental model, first principles, fundamental building blocks, atomic building blocks, abstractions, primitives, architectural, ontology",
+      "definition": "ways of naming fundamental, atomic building blocks",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Abstraction layers",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Hierarchical Abstraction",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Formal reasoning",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Systems design",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Architecture",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Pattern",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Computational thinking",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Mathematically grounded engineering",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Computation as a unified system",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "State machines",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Systems composition",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Computational models",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "Architecture thinking",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "DNA",
+      "source": "Programming",
+      "tags": [
+        "fundamentals",
+        "programming"
+      ]
+    },
+    {
+      "word": "SLA",
+      "definition": "service level agreement",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
+    },
+    {
+      "word": "Semver",
+      "definition": "semantic versioning",
+      "source": "Programming",
+      "tags": [
+        "technology",
+        "programming"
+      ]
     }
   ]
 }
