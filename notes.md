@@ -58,8 +58,6 @@ Whenever you get an impression of some pleasure, as with any impression, guard y
 
 ---
 
-**Michelangelo**
-
 I don't have problems if you aim high and miss; I will have a problem if you aim low and hit.
 
 ---
