@@ -2,7 +2,7 @@
   "meta": {
     "description": "Personal vocabulary dictionary — single source of truth. Edit this file and push to update the site.",
     "version": "2.0",
-    "total": 1308,
+    "total": 1333,
     "sources": [
       "GEB",
       "Power and Progress",
@@ -12,7 +12,9 @@
       "Steve Jobs",
       "Believing in Magic",
       "General",
-      "To Kill a Mockingbird"
+      "To Kill a Mockingbird",
+      "Governing Bodies",
+      "System Dynamics"
     ],
     "instructions": "word (required), definition (optional), source (optional), tags (optional array). '/' in original = synonyms split into separate entries. '-' = definition."
   },
@@ -3875,7 +3877,7 @@
       "definition": "person who holds heretical views"
     },
     {
-      "word": "Contentment contention contingent infringement",
+      "word": "Contentment, contention, contingent, infringement",
       "definition": "satisfaction; dispute; dependent; violation (similar-sounding set)"
     },
     {
@@ -4573,72 +4575,8 @@
       "definition": "throat valve; restrict flow"
     },
     {
-      "word": "Vindictive",
-      "definition": "seeking revenge"
-    },
-    {
-      "word": "vengeful",
-      "definition": "seeking revenge"
-    },
-    {
-      "word": "revengeful",
-      "definition": "revengeful"
-    },
-    {
-      "word": "ill-disposed",
-      "definition": "hostile"
-    },
-    {
-      "word": "grudge-bearing",
-      "definition": "holding grudges"
-    },
-    {
-      "word": "unrelenting",
-      "definition": "relentless, unyielding"
-    },
-    {
-      "word": "Rugged",
-      "definition": "rough and sturdy"
-    },
-    {
-      "word": "rough",
-      "definition": "uneven, coarse"
-    },
-    {
-      "word": "study",
-      "definition": "examine carefully (verb); scholarly work"
-    },
-    {
-      "word": "Rigid",
-      "definition": "stiff, unbending"
-    },
-    {
-      "word": "stiff",
-      "definition": "rigid, not flexible"
-    },
-    {
-      "word": "fixed",
-      "definition": "unchanging, set"
-    },
-    {
-      "word": "narrow-minded",
-      "definition": "intolerant of others' views"
-    },
-    {
-      "word": "intolerant",
-      "definition": "unwilling to accept differences"
-    },
-    {
       "word": "Ultra-conservative",
       "definition": "extremely conservative"
-    },
-    {
-      "word": "Hardliner",
-      "definition": "uncompromising adherent"
-    },
-    {
-      "word": "diehard",
-      "definition": "stubbornly committed"
     },
     {
       "word": "Zealot",
@@ -4653,19 +4591,11 @@
       "definition": "unwilling to change"
     },
     {
-      "word": "unyielding",
-      "definition": "refusing to bend"
-    },
-    {
       "word": "Levy",
       "definition": "tax (noun); impose (verb)"
     },
     {
       "word": "Off the cuff",
-      "definition": "improvised"
-    },
-    {
-      "word": "ad lib",
       "definition": "improvised"
     },
     {
@@ -5337,18 +5267,6 @@
     {
       "word": "Vilification",
       "definition": "act of slandering"
-    },
-    {
-      "word": "Clemency",
-      "definition": "mercy in punishment"
-    },
-    {
-      "word": "leniency",
-      "definition": "mildness in punishment"
-    },
-    {
-      "word": "merit",
-      "definition": "deserved worth"
     },
     {
       "word": "Uncanny",
@@ -6895,10 +6813,6 @@
       "definition": "harmless"
     },
     {
-      "word": "Off the cut",
-      "definition": "without preparation; spontaneous"
-    },
-    {
       "word": "Stteped",
       "definition": "thoroughly immersed in"
     },
@@ -7364,6 +7278,194 @@
       "word": "Horder",
       "source": "Power and Progress",
       "definition": "one who compulsively accumulates"
+    },
+    {
+      "word": "Vindictive, vengeful, revengeful, ill-disposed, grudge-bearing, unrelenting",
+      "definition": "seeking revenge; holding a grudge"
+    },
+    {
+      "word": "Rugged, rough, sturdy",
+      "definition": "rough, tough, and durable"
+    },
+    {
+      "word": "Rigid, stiff, fixed, narrow-minded, intolerant, unltra-conservative",
+      "definition": "stiff and inflexible; unwilling to change"
+    },
+    {
+      "word": "Hardliner, diehard, zelot, dogmatis, inflexibel, unyielding",
+      "definition": "an uncompromising, dogmatic person"
+    },
+    {
+      "word": "Off the cut, ad lib",
+      "definition": "improvised; without preparation"
+    },
+    {
+      "word": "Clemency, leniency, merit",
+      "definition": "mercy or mildness in judgment"
+    },
+    {
+      "word": "Commission",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Board",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Agency",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Body",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Association",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Authority",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Bureau",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Committee",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Council",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Department",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Division",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Federation",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Institute",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Organization",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Panel",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Registry",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Task Force",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Administration",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Foundation",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "League",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Alliance",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Coalition",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Assembly",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Chamber",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Corporation",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Directorate",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Guild",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Institution",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Office",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Society",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Union",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Working Group",
+      "source": "Governing Bodies"
+    },
+    {
+      "word": "Amplifing",
+      "source": "System Dynamics"
+    },
+    {
+      "word": "reinforcing",
+      "source": "System Dynamics"
+    },
+    {
+      "word": "self multiplying",
+      "source": "System Dynamics"
+    },
+    {
+      "word": "self enhancing",
+      "source": "System Dynamics"
+    },
+    {
+      "word": "snowbowling",
+      "source": "System Dynamics"
+    },
+    {
+      "word": "vicious or virtiluous circle",
+      "source": "System Dynamics"
+    },
+    {
+      "word": "reinforcing feedback loop",
+      "source": "System Dynamics"
+    },
+    {
+      "word": "positive feedback loop",
+      "source": "System Dynamics"
+    },
+    {
+      "word": "vicious feedback cycle",
+      "source": "System Dynamics"
     }
   ]
 }

@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lexicon — Marginalia</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      .marg-intro {
+        max-width: 640px;
+        margin-bottom: 2.5rem;
+      }
+      .marg-title {
+        font-family: "Playfair Display", serif;
+        font-size: 2rem;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        margin-bottom: 0.6rem;
+      }
+      .marg-lede {
+        font-size: 0.95rem;
+        line-height: 1.6;
+        color: var(--muted);
+      }
+      .notes-grid {
+        column-width: 340px;
+        column-gap: 1.25rem;
+      }
+      .note-card {
+        break-inside: avoid;
+        display: inline-block;
+        width: 100%;
+        background: var(--paper);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 1.4rem 1.5rem;
+        margin-bottom: 1.25rem;
+        box-shadow: var(--shadow);
+        position: relative;
+        transition:
+          transform 0.15s ease,
+          box-shadow 0.15s ease,
+          background 0.15s ease;
+      }
+      .note-card:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-hover);
+        background: white;
+      }
+      .note-card::before {
+        content: "❝";
+        font-family: "Playfair Display", serif;
+        font-size: 2.4rem;
+        line-height: 1;
+        color: var(--amber-pale);
+        position: absolute;
+        top: 0.6rem;
+        right: 1rem;
+      }
+      .note-source {
+        font-family: "DM Mono", monospace;
+        font-size: 0.62rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--amber);
+        margin-bottom: 0.6rem;
+      }
+      .note-body {
+        font-family: "Playfair Display", serif;
+        font-size: 1.02rem;
+        line-height: 1.55;
+        font-style: italic;
+        color: var(--ink);
+      }
+      .marg-count {
+        font-family: "DM Mono", monospace;
+        font-size: 0.72rem;
+        color: var(--muted);
+        margin-bottom: 1.5rem;
+      }
+      .marg-count strong {
+        color: var(--amber);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <a href="index.html" class="logo">Lexi<span>con</span></a>
+      <nav>
+        <a href="index.html">Gallery</a>
+        <a href="practice.html">Practice</a>
+        <a href="marginalia.html" class="active">Marginalia</a>
+      </nav>
+    </header>
+
+    <main>
+      <div class="marg-intro">
+        <div class="marg-title">Marginalia</div>
+        <div class="marg-lede" id="lede"></div>
+      </div>
+      <div class="marg-count"><strong id="count">0</strong> notes</div>
+      <div class="notes-grid" id="notes"></div>
+    </main>
+
+    <script>
+      function esc(s) {
+        return s.replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]);
+      }
+
+      async function load() {
+        let text;
+        try {
+          const r = await fetch("notes.md");
+          text = await r.text();
+        } catch (e) {
+          document.getElementById("notes").innerHTML =
+            '<div class="empty-state"><p>Could not load notes.md</p></div>';
+          return;
+        }
+
+        const blocks = text.split(/\n-{3,}\n/);
+        const head = blocks.shift() || "";
+        const lede = head
+          .split("\n")
+          .filter((l) => l.trim() && !l.trim().startsWith("#"))
+          .join(" ")
+          .trim();
+        document.getElementById("lede").textContent = lede;
+
+        const notes = document.getElementById("notes");
+        let n = 0;
+        blocks.forEach((block) => {
+          const lines = block.split("\n").map((l) => l.trim()).filter(Boolean);
+          if (!lines.length) return;
+          let source = "";
+          let bodyLines = lines;
+          const m = lines[0].match(/^\*\*(.+)\*\*$/);
+          if (m) {
+            source = m[1].trim();
+            bodyLines = lines.slice(1);
+          }
+          const body = bodyLines.join(" ");
+          if (!body) return;
+          n++;
+          const card = document.createElement("div");
+          card.className = "note-card";
+          card.innerHTML =
+            (source ? `<div class="note-source">${esc(source)}</div>` : "") +
+            `<div class="note-body">${esc(body)}</div>`;
+          notes.appendChild(card);
+        });
+        document.getElementById("count").textContent = n;
+      }
+
+      load();
+    </script>
+  </body>
+</html>
