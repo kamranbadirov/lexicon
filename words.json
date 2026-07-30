@@ -1969,15 +1969,6 @@
       ]
     },
     {
-      "word": "Concurrent",
-      "definition": "multiple things in progress at once (coroutines, threads)",
-      "source": "Programming",
-      "tags": [
-        "technology",
-        "programming"
-      ]
-    },
-    {
       "word": "Parallel",
       "definition": "multiple things literally running simultaneously (processes, multi-core)",
       "source": "Programming",
@@ -7567,15 +7558,6 @@
       ]
     },
     {
-      "word": "Coroutines, Multithreading",
-      "definition": "async and concurrent but not truly parallel",
-      "source": "Programming",
-      "tags": [
-        "technology",
-        "programming"
-      ]
-    },
-    {
       "word": "Coroutine, threads, processes (execution context)",
       "definition": "how you do multiple things at once",
       "source": "Programming",
@@ -7585,7 +7567,7 @@
       ]
     },
     {
-      "word": "Concurrency, parallelism, multithreaded, multiprocess, multiprocessor, asynchronous, synchronous",
+      "word": "Concurrency, parallelism, multithreaded, multiprocess, multiprocessor, coroutine, asynchronous, synchronous",
       "source": "Programming",
       "tags": [
         "technology",
